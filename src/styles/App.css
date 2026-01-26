@@ -28,8 +28,7 @@
   height: 100vh;
   display: flex;
   z-index: 3;
-    display: flex;
-
+  display: flex;
 }
 
 .embla__slide {
@@ -40,14 +39,15 @@
   align-items: center;
   justify-content: center;
   user-select: none;
+  cursor: grab;
   z-index: 3;
 }
 
 .embla__slide .item img {
-  width: 400px;          
+  width: 400px;
   height: auto;
   z-index: 3;
-  cursor: grab;
+  cursor: pointer;
 }
 
 @font-face {
@@ -66,11 +66,10 @@
   justify-content: space-between;
   align-items: start;
   z-index: -1;
-
 }
 
 .main-title h1 {
-  font-size:5em;
+  font-size: 5em;
   color: #222224;
   text-align: left;
   margin-top: 0px;
@@ -141,5 +140,3 @@
 .embla__arrow:hover {
   opacity: 0.7;
 }
-
-

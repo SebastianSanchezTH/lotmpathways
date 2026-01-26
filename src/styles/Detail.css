@@ -1,0 +1,69 @@
+.detail-logo img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 1rem;
+}
+
+.detail-logo {
+  display: flex;
+  justify-content: center;
+}
+
+.detail-background {
+  position: fixed; /* para cubrir la página completa */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.detail-content {
+  display: flex;
+  gap: 20px;
+  margin-top: 40px;
+}
+
+.detail-card img {
+  width: 250px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+.detail-text {
+  flex: 1;
+  display: flex;
+}
+
+.detail-description {
+  max-height: 400px;
+  overflow-y: auto;
+  margin: 15px 0;
+  padding-right: 10px;
+}
+
+.carousel-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.carousel-controls button {
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 6px;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  font-size: 18px;
+  transition: 0.2s;
+}
+
+.carousel-controls button:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
