@@ -3,8 +3,9 @@ import { useParams, useNavigate, useLocation } from "react-router-dom";
 import useEmblaCarousel from "embla-carousel-react";
 import { Data } from "../components/Data";
 import BackButton from "../components/BackButton";
+import ArrowNavigation from "../components/ArrowNavigation";
 
-import "../styles/Detail.css"; // Tu CSS sigue igual
+import "../styles/Detail.css";
 
 export default function Detail() {
   const { id } = useParams();
@@ -12,6 +13,7 @@ export default function Detail() {
   const [emblaRef] = useEmblaCarousel({ loop: true });
   const navigate = useNavigate();
   const [hoveredNeighbor, setHoveredNeighbor] = useState(null);
+  const currentId = parseInt(id);
 
   const location = useLocation();
   const fromIndex = location.state?.fromIndex ?? 0;
@@ -36,7 +38,11 @@ export default function Detail() {
   return (
     <div className="detail-background">
       {/* Boton de volver */}
-      <BackButton to="/" label="<" state={{ restoreIndex: fromIndex }} />
+      <BackButton to="/" label="x" state={{ restoreIndex: fromIndex }} />
+
+      {/* Flechas como componente independiente */}
+      <ArrowNavigation currentId={currentId} dataLength={Data.length} />
+
       {/* Overlay para combiod de color de fondo */}
       <div
         className="detail-overlay"
