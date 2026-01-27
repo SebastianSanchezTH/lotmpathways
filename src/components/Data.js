@@ -1560,7 +1560,7 @@ export const Data = [
   },
   // Tyrant
   {
-    title: "Tyrant",
+    title: "Tyrant Pathway",
     logoColor: require("../assets/iconColor/5_Color.png"),
     card: require("../assets/cards/5_Card.webp"),
     overlayColor: "rgba(18, 40, 67, 0.53)",
@@ -1589,262 +1589,324 @@ export const Data = [
 
     sequences: [
       {
-        seqTitle: "Sequence 9 - Seer",
+        seqTitle: "Sequence 9 - Sailor",
         description: (
           <>
             <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>10 milliliters Lavos Squid's Blood</li>
-              <li>50-gram Star Crystal</li>
-              <li>Or A Seer Beyonder Characteristic</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>13 drops of Night Vanilla Liquids</li>
-              <li>7 Gold Mint Leaves</li>
-              <li>3 drops of Poison Hemlock</li>
-              <li>9 grams of Dragon Blood Grass Powder</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 8 - Clown",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A crystal of a matured Hornacis Gray Mountain Goat Horn.</li>
-              <li>A Human-Faced Rose Complete Stalk.</li>
-              <li>Or A Clown Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>80 milliliters of Purified Water.</li>
-              <li>5 drops of Tornapple (Jimsonweed) Juice.</li>
-              <li>7 grams of Black-Rimmed Sunflower Powder.</li>
-              <li>10 grams of Golden Cloak Grass Powder.</li>
-              <li>3 drops of Poison Hemlock.</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 7 - Magician",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>1 True Root of a Mist Treant.</li>
-              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
-              <li>Or A Magician Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>60 milliliters of Purified Water.</li>
-              <li>30 milliliters of Mist Treant Juice.</li>
-              <li>3 grams of Droplet Gem Powder.</li>
-              <li>4 drops of Fantasy Grass Essential Oil.</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 6 - Faceless",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A Mutated pituitary gland of a Thousand-faced Hunter.</li>
-              <li>A Human-Skined Shadow's Characteristic.</li>
-              <li>Or A Faceless Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>80 milliliters of a Thousand-faced Hunter's Blood.</li>
-              <li>5 drops of Black Jimsonweed Juice.</li>
-              <li>10 grams of Dragon Tooth Grass Powder.</li>
-              <li>3 strands of hair from a Deep-sea Naga.</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 5 - Marionettist",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>Dust of Ancient Wraiths.</li>
-              <li>Core crystal of a Six-Winged Gargoyle.</li>
-              <li>Or A Marionettist Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>
-                80 milliliters of spring water from Sonia Island's Golden
-                Spring.
-              </li>
-              <li>10 grams of Drago Bark.</li>
-              <li>Remnant Spirituality of Ancient Wraiths.</li>
-              <li>1 pair of eyes from a six-winged gargoyle.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>Consume potion amidst singing of mermaids.</p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 4 - Bizarro Sorcerer",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A Bizarro Bane's Main Eye.</li>
-              <li>True Soul Body of a Spirit World Plunderer.</li>
-              <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>200 milliliters of a Bizarro Bane's Blood.</li>
-              <li>30 grams of a Spirit World Plunderer's Dust.</li>
-              <li>One segment of Golden Grapevines.</li>
-              <li>Fingernail-Sized Self-made Rubber Mask.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>
-              Relying on one’s strength and strategy, orchestrate a grand
-              performance before many spectators to kill a Beyonder creature at
-              level of a demigod. Then, at end of performance, consume potion.
-            </p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 3 - Scholar of Yore",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>
-                Hound of Fulgrim (also known as Sefirah Castle Keeper) pair of
-                eyes.
-              </li>
-              <li>1 Demonic Wolf of Fog's Transformed Heart.</li>
-              <li>Or A Scholar of Yore Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>100 milliliters of Hound of Fulgrim Blood.</li>
-              <li>30 grams of White Frost Crystal of Demonic Wolf of Fog.</li>
-              <li>A large amount of Real Ancient Historical Records.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>
-              Be separated from reality for at least three hundred years and
-              consume potion after one becomes history and doesn’t belong to
-              present era.
-            </p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 2 - Miracle Invoker",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>1 Heart of a Dark Demonic Wolf.</li>
-              <li>Or A Miracle Invoker Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>300 milliliters blood of Dark Demonic Wolf.</li>
-              <li>A Worm of Time.</li>
-              <li>A Worm of Star.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>
-              Return a piece of history that has been left behind to present
-              era.
-            </p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 1 - Attendant of Mysteries",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A Attendant of Mysteries Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>Nine spirit world specialties.</li>
-            </ul>
-            <p>Ritual:</p>
 
-            <p>
-              Build a town consisting only of marionettes, and design a
-              trajectory of fate for every marionette. By letting them interact
-              with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in spirit world.
-            </p>
-            <p>
-              larger town, more marionettes involved, more detailed daily lives
-              are, and more realistic and extensiveness different fates are,
-              better ritual's effects would be.
-            </p>
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>Murloc's Bladder.</li>
+              <li>One man-eating conch.</li>
+              <li>Or a Sailor Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>300 milliliters of strong liquor.</li>
+              <li>200 milliliters of seawater.</li>
+              <li>3 Murloc scales.</li>
+              <li>12 drops of seaweed extract.</li>
+              <li>9 drops of one's own blood.</li>
+            </ul>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 8 - Folk of Rage",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>Deep-diver’s alveoli.</li>
+              <li>War-cry bird’s breastbone.</li>
+              <li>Or a Folk of Rage Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>500 milliliters of strong liquor.</li>
+              <li>Half of a deep-diver’s tongue.</li>
+              <li>A segment of a War-cry bird's beak.</li>
+              <li>10 drops of red algae essential oil.</li>
+            </ul>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 7 - Seafarer",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>Pituitary gland of a Black-Scaled Shark.</li>
+              <li>
+                Heart of a Raging White Dolphin (often called the Darling of the
+                Elves).
+              </li>
+              <li>Or a Seafarer Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>500 milliliters of strong liquor.</li>
+              <li>One black-scaled shark fin.</li>
+              <li>100 milliliters of raging white dolphin’s blood.</li>
+              <li>A branch of blue star coral.</li>
+              <li>One crystal.</li>
+            </ul>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 6 - Wind-blessed",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>6 crystalline feathers of a Blue Shadow Falcon.</li>
+              <li>A pair of the Dragon-Eyed Sea Condor eyeballs.</li>
+              <li>Or a Wind-blessed Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>500 milliliters of high-purity liquor.</li>
+              <li>One Blue Shadow Falcon bone.</li>
+              <li>Two Dragon-Eyed Sea Condor feathers.</li>
+              <li>30 milliliters of rainwater untouched by the ground.</li>
+              <li>
+                A breeze captured when the sun has lit the horizon but not yet
+                risen.
+              </li>
+            </ul>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
       },
       {
-        seqTitle: "Sequence 0 - Fool",
+        seqTitle: "Sequence 5 - Ocean Songster",
         description: (
           <>
             <strong>Potion Formula</strong>
+
             <p>Main Ingredients:</p>
             <ul>
-              <li>Fool Uniqueness.</li>
-              <li>
-                All other Attendant of Mysteries Beyonder Characteristics apart
-                from one's own.
-              </li>
+              <li>Siren’s throat.</li>
+              <li>Crystal cluster from a jellyfish.</li>
+              <li>Or an Ocean Songster Beyonder Characteristic.</li>
             </ul>
+
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of fog of history.</li>
+              <li>500 milliliters of high-purity liquor.</li>
+              <li>5 strands of Siren hair.</li>
+              <li>5 tentacles of the Crystal Jellyfish.</li>
+              <li>One tide-shell.</li>
+              <li>One porous coral branch.</li>
             </ul>
+
             <p>Ritual:</p>
-            <p>Fool time, history, or fate once.</p>
+            <p>Take the potion in the belly of an Obninsk.</p>
           </>
         ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 4 - Cataclysmic Interrer",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>Stomach of the Whale of Punishment.</li>
+              <li>Blood crystal of the Vortex Terror-Beast.</li>
+              <li>Or a Cataclysmic Interrer Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>500 milliliters of the whale’s gastric fluid.</li>
+              <li>One tentacle of the Vortex Terror-Beast.</li>
+              <li>50 milliliters of water from the “Spring of the Elves”.</li>
+              <li>10 drops of mucus from a deep-diver leader.</li>
+              <li>One hair or nail from a Shipwreck victim.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Cause an earthquake and tsunami, drink the potion amidst this
+              environment until the ascension is over.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 3 - Sea King",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>Skull of a deep-sea python.</li>
+              <li>Eye of the King of Green Wings.</li>
+              <li>Or a Sea King Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>600 milliliters of the King of Green Wings’ blue blood.</li>
+              <li>One fang of the Deep-Sea Python.</li>
+              <li>A small idol imbued with Sea God faith.</li>
+              <li>10 drops of paste made from over 100 kinds of fish roe.</li>
+              <li>50 grams of freshly sun-dried sea salt.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Select a sea region, build with your own power a stone tower on
+              the seafloor reaching the surface, then subdue all powerful
+              creatures within a 300-nautical-mile radius.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 2 - Calamity",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>Beyonder Characteristic of Queen of Calamity Cohinem.</li>
+              <li>
+                Or the Beyonder Characteristic of the “King of the Deep Sea”.
+              </li>
+              <li>Or a Calamity Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>An item from the remains of a historic disaster.</li>
+              <li>
+                600 ml of the King of the Deep Sea’s or another Calamity’s
+                blood.
+              </li>
+              <li>3 leaves of the Elven Ancestor Tree.</li>
+              <li>One hair each from a thousand people who died of fear.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              With only your own strength, trigger a natural disaster affecting
+              at least one million people. At the peak of their fear and
+              despair, reveal yourself and halt the disaster—this stage must
+              also rely solely on your own power.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 1 - Thunder God",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>A Thunder God Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>A fragment of lightning from the Astral World.</li>
+              <li>One Depraved nature of a Hanged Man Pathway Angel.</li>
+              <li>
+                One stone from the underground Nightmare Swamp
+                <br />
+                <em>
+                  (Born under the influence of the “Chaos Sea”, widely present
+                  underground—yet approaching it means coming dangerously close
+                  to the Chaos Sea, so High Sequence powerhouses cannot
+                  personally retrieve it)
+                </em>
+              </li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Find and harness lightning to disrupt at least three Sequence 2
+              Angels’ advancement rituals to Sequence 1.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 0 - Tyrant",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>The Tyrant Symbol2 Tyrant Uniqueness.</li>
+              <li>
+                All other Thunder God Beyonder Characteristics apart from one's
+                own.
+              </li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>Blood of a God sufficient to drench the whole body.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <ol>
+              <li>
+                Gather over 100,000 followers. They must submit and believe in
+                the person out of fear.
+              </li>
+              <li>Challenge a Sequence 0 True God and survive.</li>
+              <li>
+                After surviving the challenge, drink the potion under the watch
+                of the fearful followers.
+              </li>
+            </ol>
+          </>
+        ),
+
         card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
   // Error
   {
-    title: "Error",
+    title: "Error Pathway",
     logoColor: require("../assets/iconColor/6_Color.png"),
     card: require("../assets/cards/6_Card.webp"),
     overlayColor: "rgba(18, 53, 53, 0.53)",
@@ -1863,265 +1925,307 @@ export const Data = [
 
     sequences: [
       {
-        seqTitle: "Sequence 9 - Seer",
+        seqTitle: "Sequence 9 - Marauder",
         description: (
           <>
             <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>10 milliliters Lavos Squid's Blood</li>
-              <li>50-gram Star Crystal</li>
-              <li>Or A Seer Beyonder Characteristic</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>13 drops of Night Vanilla Liquids</li>
-              <li>7 Gold Mint Leaves</li>
-              <li>3 drops of Poison Hemlock</li>
-              <li>9 grams of Dragon Blood Grass Powder</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 8 - Clown",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A crystal of a matured Hornacis Gray Mountain Goat Horn.</li>
-              <li>A Human-Faced Rose Complete Stalk.</li>
-              <li>Or A Clown Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>80 milliliters of Purified Water.</li>
-              <li>5 drops of Tornapple (Jimsonweed) Juice.</li>
-              <li>7 grams of Black-Rimmed Sunflower Powder.</li>
-              <li>10 grams of Golden Cloak Grass Powder.</li>
-              <li>3 drops of Poison Hemlock.</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 7 - Magician",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>1 True Root of a Mist Treant.</li>
-              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
-              <li>Or A Magician Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>60 milliliters of Purified Water.</li>
-              <li>30 milliliters of Mist Treant Juice.</li>
-              <li>3 grams of Droplet Gem Powder.</li>
-              <li>4 drops of Fantasy Grass Essential Oil.</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 6 - Faceless",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A Mutated pituitary gland of a Thousand-faced Hunter.</li>
-              <li>A Human-Skined Shadow's Characteristic.</li>
-              <li>Or A Faceless Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>80 milliliters of a Thousand-faced Hunter's Blood.</li>
-              <li>5 drops of Black Jimsonweed Juice.</li>
-              <li>10 grams of Dragon Tooth Grass Powder.</li>
-              <li>3 strands of hair from a Deep-sea Naga.</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 5 - Marionettist",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>Dust of Ancient Wraiths.</li>
-              <li>Core crystal of a Six-Winged Gargoyle.</li>
-              <li>Or A Marionettist Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>
-                80 milliliters of spring water from Sonia Island's Golden
-                Spring.
-              </li>
-              <li>10 grams of Drago Bark.</li>
-              <li>Remnant Spirituality of Ancient Wraiths.</li>
-              <li>1 pair of eyes from a six-winged gargoyle.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>Consume potion amidst singing of mermaids.</p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 4 - Bizarro Sorcerer",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A Bizarro Bane's Main Eye.</li>
-              <li>True Soul Body of a Spirit World Plunderer.</li>
-              <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>200 milliliters of a Bizarro Bane's Blood.</li>
-              <li>30 grams of a Spirit World Plunderer's Dust.</li>
-              <li>One segment of Golden Grapevines.</li>
-              <li>Fingernail-Sized Self-made Rubber Mask.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>
-              Relying on one’s strength and strategy, orchestrate a grand
-              performance before many spectators to kill a Beyonder creature at
-              level of a demigod. Then, at end of performance, consume potion.
-            </p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 3 - Scholar of Yore",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>
-                Hound of Fulgrim (also known as Sefirah Castle Keeper) pair of
-                eyes.
-              </li>
-              <li>1 Demonic Wolf of Fog's Transformed Heart.</li>
-              <li>Or A Scholar of Yore Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>100 milliliters of Hound of Fulgrim Blood.</li>
-              <li>30 grams of White Frost Crystal of Demonic Wolf of Fog.</li>
-              <li>A large amount of Real Ancient Historical Records.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>
-              Be separated from reality for at least three hundred years and
-              consume potion after one becomes history and doesn’t belong to
-              present era.
-            </p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 2 - Miracle Invoker",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>1 Heart of a Dark Demonic Wolf.</li>
-              <li>Or A Miracle Invoker Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>300 milliliters blood of Dark Demonic Wolf.</li>
-              <li>A Worm of Time.</li>
-              <li>A Worm of Star.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>
-              Return a piece of history that has been left behind to present
-              era.
-            </p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 1 - Attendant of Mysteries",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A Attendant of Mysteries Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>Nine spirit world specialties.</li>
-            </ul>
-            <p>Ritual:</p>
 
-            <p>
-              Build a town consisting only of marionettes, and design a
-              trajectory of fate for every marionette. By letting them interact
-              with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in spirit world.
-            </p>
-            <p>
-              larger town, more marionettes involved, more detailed daily lives
-              are, and more realistic and extensiveness different fates are,
-              better ritual's effects would be.
-            </p>
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>1 Blood‑Speckled Black Mosquito.</li>
+              <li>1 Core of a Candle Devourer.</li>
+              <li>Or a Marauder Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>100 milliliters of Another’s Blood.</li>
+              <li>Nail fragments from Nine Different Individuals.</li>
+              <li>1 Sapphire.</li>
+              <li>10 grams of Verbena Powder.</li>
+            </ul>
           </>
         ),
+
         card: require("../assets/cards/0_Card.webp"),
       },
       {
-        seqTitle: "Sequence 0 - Fool",
+        seqTitle: "Sequence 8 - Swindler",
         description: (
           <>
             <strong>Potion Formula</strong>
+
             <p>Main Ingredients:</p>
             <ul>
-              <li>Fool Uniqueness.</li>
-              <li>
-                All other Attendant of Mysteries Beyonder Characteristics apart
-                from one's own.
-              </li>
+              <li>1 Human‑Faced Cage Grass.</li>
+              <li>1 Larvae of a Soul‑Confusing Insect Swarm.</li>
+              <li>Or a Swindler Beyonder Characteristic.</li>
             </ul>
+
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of fog of history.</li>
+              <li>100 milliliters of Pure Water.</li>
+              <li>20 milliliters of Another’s Tears.</li>
+              <li>1 Lapis Lazuli.</li>
+              <li>10 grams of White Chestnut Balm.</li>
             </ul>
-            <p>Ritual:</p>
-            <p>Fool time, history, or fate once.</p>
           </>
         ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 7 - Cryptologist",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>1 Sphinx Brain.</li>
+              <li>1 Adult Soul‑Confusing Insect Swarm.</li>
+              <li>Or a Cryptologist Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>80 milliliters of Sphinx Blood.</li>
+              <li>10 drops of mucus from a Soul‑Confusing Insect Swarm.</li>
+              <li>1 Moonstone.</li>
+              <li>1 Wild Rose.</li>
+              <li>1 Self‑designed Cipher (written on paper).</li>
+            </ul>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 6 - Prometheus",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>1 Crystal Threadworm.</li>
+              <li>1 Cloaked Specter’s Attachment.</li>
+              <li>Or a Prometheus Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>100 milliliters of Freshly Stolen Wine.</li>
+              <li>10 grams of Cloaked Specter residue.</li>
+              <li>1 Citrine.</li>
+              <li>10 drops of Larch Essential Oil.</li>
+              <li>1 Ignited Flame.</li>
+            </ul>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 5 - Dream Stealer",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>1 Dream‑Eating Rat Heart.</li>
+              <li>1 Spirit of Decaying Breath.</li>
+              <li>Or a Dream Stealer Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>30 milliliters of Dream‑Eating Rat Blood.</li>
+              <li>30 milliliters of De‑spiritualized Decaying Breath.</li>
+              <li>1 Celestine.</li>
+              <li>10 drops of Lavender Hydrosol.</li>
+              <li>
+                50 milliliters of Tears Shed by Someone with Shattered Ideals.
+              </li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Become a key antagonist or supporting figure in the unconscious
+              dreams of at least 30 people. It doesn't matter how long these
+              dreams last, what matters is that they are happening when the
+              potion is consumed.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 4 - Parasite",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>1 Soul‑Snatcher’s Postmortem Crystal.</li>
+              <li>1 Puppet Parasitic Worm.</li>
+              <li>Or a Parasite Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>100 milliliters of Soul‑Snatcher’s Blood.</li>
+              <li>9 drops of Puppet Parasitic Worm secretions.</li>
+              <li>1 Amethyst.</li>
+              <li>10 drops of Cherry Plum Juice.</li>
+              <li>1 Imprisoned Soul.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Convince nine targets to willingly offer all they possess to
+              sustain you.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 3 - Mentor of Deceit",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>1 pair of Swamp Giant’s Palms.</li>
+              <li>1 Blasphemous Priest Core.</li>
+              <li>Or a Mentor of Deceit Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>80 milliliters of Swamp Giant’s Blood.</li>
+              <li>20 grams of Blasphemous Priest’s fungal shroud.</li>
+              <li>30 grams of Gold.</li>
+              <li>10 drops of Violet Puredew.</li>
+              <li>
+                9 Spirit World Wraiths who died due to the aspirant’s Deceit.
+              </li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Without violence, find and exploit loopholes in rules to
+              temporarily collapse order in a region. The area must be no
+              smaller than a village, the smallest entity that can form a
+              projection in the Spirit World.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 2 - Trojan Horse of Destiny",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>1 Postmortem Crystal of a Giant King’s Court Priest.</li>
+              <li>Or 1 Soul‑Snatcher King’s Vertical Eye.</li>
+              <li>Or a Trojan Horse of Destiny Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>100 milliliters of Ancient River Water.</li>
+              <li>1 Worm of Spirit.</li>
+              <li>1 Worm of Star.</li>
+              <li>
+                Fabricated historical records deemed authentic (written on
+                paper).
+              </li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Assume another’s identity through disguise, deception, and other
+              methods that don't involve Beyonder powers, then earn their social
+              circle’s trust until the identity dies naturally.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 1 - Worm of Time",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>Aurmir’s Right Eye.</li>
+              <li>Or a Worm of Time Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>1 Ancient Clock.</li>
+              <li>1 Used Almanac.</li>
+              <li>1 Segment of Concealed Fate.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>Plunge a city into temporal chaos for at least seven days.</p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 0 - Error",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>The Error Uniqueness.</li>
+              <li>
+                All other Worm of Time Beyonder Characteristics apart from one's
+                own.
+              </li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>Three Beacons Extracted from the River of Fate.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>Replace someone during "Their" Sequence 0 apotheosis ritual.</p>
+          </>
+        ),
+
         card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
   // Red Priest
   {
-    title: "Red Priest",
+    title: "Red Priest Pathway",
     logoColor: require("../assets/iconColor/7_Color.png"),
     card: require("../assets/cards/7_Card.webp"),
-    overlayColor: "rgba(44, 11, 7, 0.53)",
+    overlayColor: "rgba(51, 13, 9, 0.64)",
     neighbors: [
       {
         id: 3,
@@ -2132,264 +2236,320 @@ export const Data = [
 
     sequences: [
       {
-        seqTitle: "Sequence 9 - Seer",
+        seqTitle: "Sequence 9 - Hunter",
         description: (
           <>
             <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>10 milliliters Lavos Squid's Blood</li>
-              <li>50-gram Star Crystal</li>
-              <li>Or A Seer Beyonder Characteristic</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>13 drops of Night Vanilla Liquids</li>
-              <li>7 Gold Mint Leaves</li>
-              <li>3 drops of Poison Hemlock</li>
-              <li>9 grams of Dragon Blood Grass Powder</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 8 - Clown",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A crystal of a matured Hornacis Gray Mountain Goat Horn.</li>
-              <li>A Human-Faced Rose Complete Stalk.</li>
-              <li>Or A Clown Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>80 milliliters of Purified Water.</li>
-              <li>5 drops of Tornapple (Jimsonweed) Juice.</li>
-              <li>7 grams of Black-Rimmed Sunflower Powder.</li>
-              <li>10 grams of Golden Cloak Grass Powder.</li>
-              <li>3 drops of Poison Hemlock.</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 7 - Magician",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>1 True Root of a Mist Treant.</li>
-              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
-              <li>Or A Magician Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>60 milliliters of Purified Water.</li>
-              <li>30 milliliters of Mist Treant Juice.</li>
-              <li>3 grams of Droplet Gem Powder.</li>
-              <li>4 drops of Fantasy Grass Essential Oil.</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 6 - Faceless",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A Mutated pituitary gland of a Thousand-faced Hunter.</li>
-              <li>A Human-Skined Shadow's Characteristic.</li>
-              <li>Or A Faceless Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>80 milliliters of a Thousand-faced Hunter's Blood.</li>
-              <li>5 drops of Black Jimsonweed Juice.</li>
-              <li>10 grams of Dragon Tooth Grass Powder.</li>
-              <li>3 strands of hair from a Deep-sea Naga.</li>
-            </ul>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 5 - Marionettist",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>Dust of Ancient Wraiths.</li>
-              <li>Core crystal of a Six-Winged Gargoyle.</li>
-              <li>Or A Marionettist Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>
-                80 milliliters of spring water from Sonia Island's Golden
-                Spring.
-              </li>
-              <li>10 grams of Drago Bark.</li>
-              <li>Remnant Spirituality of Ancient Wraiths.</li>
-              <li>1 pair of eyes from a six-winged gargoyle.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>Consume potion amidst singing of mermaids.</p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 4 - Bizarro Sorcerer",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A Bizarro Bane's Main Eye.</li>
-              <li>True Soul Body of a Spirit World Plunderer.</li>
-              <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>200 milliliters of a Bizarro Bane's Blood.</li>
-              <li>30 grams of a Spirit World Plunderer's Dust.</li>
-              <li>One segment of Golden Grapevines.</li>
-              <li>Fingernail-Sized Self-made Rubber Mask.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>
-              Relying on one’s strength and strategy, orchestrate a grand
-              performance before many spectators to kill a Beyonder creature at
-              level of a demigod. Then, at end of performance, consume potion.
-            </p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 3 - Scholar of Yore",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>
-                Hound of Fulgrim (also known as Sefirah Castle Keeper) pair of
-                eyes.
-              </li>
-              <li>1 Demonic Wolf of Fog's Transformed Heart.</li>
-              <li>Or A Scholar of Yore Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>100 milliliters of Hound of Fulgrim Blood.</li>
-              <li>30 grams of White Frost Crystal of Demonic Wolf of Fog.</li>
-              <li>A large amount of Real Ancient Historical Records.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>
-              Be separated from reality for at least three hundred years and
-              consume potion after one becomes history and doesn’t belong to
-              present era.
-            </p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 2 - Miracle Invoker",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>1 Heart of a Dark Demonic Wolf.</li>
-              <li>Or A Miracle Invoker Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>300 milliliters blood of Dark Demonic Wolf.</li>
-              <li>A Worm of Time.</li>
-              <li>A Worm of Star.</li>
-            </ul>
-            <p>Ritual:</p>
-            <p>
-              Return a piece of history that has been left behind to present
-              era.
-            </p>
-          </>
-        ),
-        card: require("../assets/cards/0_Card.webp"),
-      },
-      {
-        seqTitle: "Sequence 1 - Attendant of Mysteries",
-        description: (
-          <>
-            <strong>Potion Formula</strong>
-            <p>Main Ingredients:</p>
-            <ul>
-              <li>A Attendant of Mysteries Beyonder Characteristic.</li>
-            </ul>
-            <p>Supplementary Ingredients:</p>
-            <ul>
-              <li>Nine spirit world specialties.</li>
-            </ul>
-            <p>Ritual:</p>
 
-            <p>
-              Build a town consisting only of marionettes, and design a
-              trajectory of fate for every marionette. By letting them interact
-              with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in spirit world.
-            </p>
-            <p>
-              larger town, more marionettes involved, more detailed daily lives
-              are, and more realistic and extensiveness different fates are,
-              better ritual's effects would be.
-            </p>
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>A Hunter Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>80 milliliters of Red Wine.</li>
+              <li>
+                1 Red Chestnut Flower (can be a specimen or substituted with 10
+                drops of the corresponding essential oil).
+              </li>
+              <li>5 grams of Poplar Tree Leaf Powder.</li>
+              <li>10 grams of Basil.</li>
+            </ul>
           </>
         ),
+
         card: require("../assets/cards/0_Card.webp"),
       },
       {
-        seqTitle: "Sequence 0 - Fool",
+        seqTitle: "Sequence 8 - Provoker",
         description: (
           <>
             <strong>Potion Formula</strong>
+
             <p>Main Ingredients:</p>
             <ul>
-              <li>Fool Uniqueness.</li>
-              <li>
-                All other Attendant of Mysteries Beyonder Characteristics apart
-                from one's own.
-              </li>
+              <li>A Provoker Beyonder Characteristic.</li>
             </ul>
+
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of fog of history.</li>
+              <li>50 milliliters of Distilled Liquor.</li>
+              <li>10 drops of Honeysuckle Extract.</li>
+              <li>5 grams of Grapevine Powder.</li>
+              <li>10 grams of Aqua Fern Grass Powder.</li>
             </ul>
-            <p>Ritual:</p>
-            <p>Fool time, history, or fate once.</p>
           </>
         ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 7 - Pyromaniac",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>A Fire Salamander Gland.</li>
+              <li>A Magma Elf Core.</li>
+              <li>Or a Pyromaniac Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>50 milliliters of Fire Salamander blood.</li>
+              <li>10 grams of Magma Pyroxene Powder.</li>
+              <li>10 grams of Redcrown Balsam Powder.</li>
+              <li>10 drops of Sun Star extract.</li>
+            </ul>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 6 - Conspirer",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>A Black Hunting Spider Composite Eyes.</li>
+              <li>A Sphinx Brain.</li>
+              <li>Or a Conspirer Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>1 Black Hunting Spider's Poison Gland.</li>
+              <li>80 milliliters of Sphinx Blood.</li>
+              <li>10 grams of Amber Powder.</li>
+              <li>2 White Oak Fruits.</li>
+            </ul>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 5 - Reaper",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>Gray Demonic Wolf's Front Claws.</li>
+              <li>Forest Hunter's Tongue.</li>
+              <li>Or a Reaper Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>
+                80 milliliters of Gray Demonic Wolf's blood or the Reaper
+                Beyonder Characteristic's predecessor’s blood.
+              </li>
+              <li>
+                2 fangs of the Forest Hunter or the predecessor’s 2 teeth.
+              </li>
+              <li>10 drops of Colorful Bearded Horned Lizard Venom.</li>
+              <li>10 drops of Hornbeam Essential Oils.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Plan and execute a successful capture of a target with a Sequence
+              higher than your own. Flaunt the completed conspiracy before them,
+              and consume the potion as they witness your victory, filled with
+              fear and despair.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 4 - Iron-blooded Knight",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>A Magma Giant's core.</li>
+              <li>A Stone of Catastrophe.</li>
+              <li>Or a Iron-blooded Knight Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>80 milliliters of boiling magma.</li>
+              <li>
+                20 grams of flora powder corrupted by a Stone of Catastrophe.
+              </li>
+              <li>
+                20 grams of soil soaked in soldier's blood from a large
+                battlefield.
+              </li>
+              <li>1 acorn.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Form a team of at least thirty people, cultivate a deep friendship
+              with them, make them strong one after another. The higher the
+              strength and tacit understanding of the team, the better the
+              effect of the ritual.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 3 - War Bishop",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>Heart of a Bipolar Centaur.</li>
+              <li>Core of a War Comet.</li>
+              <li>Or a War Bishop Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>100 milliliters of Bipolar Centaur Blood.</li>
+              <li>War Comet Fragments.</li>
+              <li>1 Blood Tudor Iris.</li>
+              <li>8 grams of Flame Giant Tree bark.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>Lead your own team to defeat a powerful enemy force in a war.</p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 2 - Weather Warlock",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>Skull of a Weather Giant.</li>
+              <li>Core of a Mist Jellyfish.</li>
+              <li>Or a Weather Warlock Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>
+                30 milliliters of blood each from three deceased individuals who
+                died in different extreme weather conditions.
+              </li>
+              <li>500 strands of a Weather Giant's hair.</li>
+              <li>Five Mist Jellyfish Crystals.</li>
+              <li>A segment of a tree branch struck by lightning.</li>
+              <li>
+                20 milliliters of the first snow melt of a region each year.
+              </li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Forcefully change the weather of a region without external aid in
+              a very short time.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 1 - Conqueror",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>A Conqueror Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>
+                90 milliliters of blood from a Conqueror or contaminated liquid
+                from a Conqueror Beyonder Characteristic.
+              </li>
+              <li>A genuine crown.</li>
+              <li>
+                A drop of fingertip blood from each member of one’s own team.
+              </li>
+              <li>
+                Nine heads of powerful enemies (at least Sequence 4 in status).
+              </li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Conquer a nation with a population of more than 30 million
+              inhabitants, making all beings there fear, obey, and revere you.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 0 - Red Priest",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>The Red Priest Uniqueness.</li>
+              <li>
+                All other Conqueror Beyonder Characteristics apart from one's
+                own.
+              </li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>
+                One’s own nation’s deep projection within the Mirror World.
+              </li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Wage a war that sweeps an entire continent and gain sufficient
+              victories.
+            </p>
+          </>
+        ),
+
         card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
   // Twilight Giant
   {
-    title: "Twilight Giant",
+    title: "Twilight Giant Phatway",
     logoColor: require("../assets/iconColor/8_Color.png"),
-    overlayColor: "rgba(23, 7, 4, 0.53)",
+    overlayColor: "rgba(43, 18, 4, 0.6)",
     neighbors: [
       {
         id: 12,
@@ -2405,16 +2565,376 @@ export const Data = [
     card: require("../assets/cards/11_Card.webp"),
     sequences: [
       {
-        seqTitle: "Sequence 9 - Seer",
-        description: <>Descripción del rol 1, secuencia 9...</>,
-        card: require("../assets/cards/1_Card.webp"),
+        seqTitle: "Sequence 9 - Warrior",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>
+                One Giant Warrior's Muscle Core,
+                <br />
+                A Mutant Black Bear's eyes,
+                <br />A Bloodthirsty Rhinoceros's horn.
+              </li>
+              <li>Or a Warrior Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>
+                100 milliliters of a Giant Warrior's blood or 100 milliliters of
+                Mutated Black Bear's blood.
+              </li>
+              <li>
+                A Giant Warrior's Heart or the Heart of a Bloodthirsty
+                Rhinoceros.
+              </li>
+              <li>10 drops of Sweet Basil Essential Oil.</li>
+              <li>1 piece of Onyx.</li>
+            </ul>
+          </>
+        ),
+        card: require("../assets/cards/0_Card.webp"),
       },
-      // ... otras secuencias
+      {
+        seqTitle: "Sequence 8 - Pugilist",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>
+                The metacarpal bone of a Giant Squire,
+                <br />
+                The heart of a Giant Black Bear,
+                <br />
+                The middle finger of a Forest Wanderer.
+              </li>
+              <li>Or a Pugilist Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>
+                100 milliliters of a Giant Squire's Blood or 100 milliliters of
+                a Forest Wanderer's Blood.
+              </li>
+              <li>
+                A Giant Squire's Gallbladder or a Giant Black Bear's
+                Gallbladder.
+              </li>
+              <li>One Amethyst.</li>
+              <li>An enemy's Eyeball.</li>
+            </ul>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 7 - Weapon Master",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>
+                One Spine of a Blue Giant,
+                <br />
+                The left Paw of an Iron Bear,
+                <br />
+                The ear of the Six-Armed Gray Ape.
+              </li>
+              <li>Or a Weapon Master Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>
+                100 milliliters of Blue Giant's Blood or 100 milliliters of an
+                Iron Bear's Blood.
+              </li>
+              <li>
+                10 strands of hair from a Blue Giant or 20 strands of hair from
+                a Six-Armed Gray Ape.
+              </li>
+              <li>10 arrows dug up from a battlefield.</li>
+              <li>A tuft of hair from the person they have defeated.</li>
+            </ul>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 6 - Dawn Paladin",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>
+                The Blood Crystal of a Dawn Giant,
+                <br />
+                The Breastbone of a Dawn Bird,
+                <br />
+                The Right Paw of a Silver Bear.
+              </li>
+              <li>Or a Dawn Paladin Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>
+                100 milliliters of a Dawn Giant's Brain Fluid or 100 milliliters
+                of Silver Bear's Bile.
+              </li>
+              <li>3 pieces of Dawn Giant's Nail or one Dawn Bird's Claw.</li>
+              <li>One Opal.</li>
+              <li>One Purified Item.</li>
+            </ul>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 5 - Guardian",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>
+                The Heart of a Gray Giant,
+                <br />
+                The Core of the Stone Giant,
+                <br />
+                The Ears of a Forest Guardian.
+              </li>
+              <li>Or a Guardian Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>
+                200 milliliters of a Gray Giant's blood or 200 grams of Stone
+                Giant's Dust mixed with pure water.
+              </li>
+              <li>1 Gray Giant's Eye or 1 Forest Guardian's Eye.</li>
+              <li>
+                1 weapon that the Potion Consumer has used for a long time.
+              </li>
+              <li>9 drops of an Essential Oil with a pungent odor.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Find a person or group you want to protect and dedicate yourself
+              to protecting them for at least a year.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 4 - Demon Hunter",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>
+                The Eye of a Divine Giant,
+                <br />
+                The Heart of a Dragon-Eater,
+                <br />
+                The vertical Eye of an Evil Spirit Hunter.
+              </li>
+              <li>Or a Demon Hunter Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>
+                200 milliliters of blood from a Divine Giant or 200 milliliters
+                of blood from a Dragon Eater.
+              </li>
+              <li>
+                1 Skull of a Divine Giant or 1 Skull of an Evil Spirit Hunter.
+              </li>
+              <li>49 different types of monster parts or herbs.</li>
+              <li>10 grams of Holy Ointment with purifying properties.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Resolve a problem or disaster caused by a powerful Demon or Evil
+              Creature.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 3 - Silver Knight",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>
+                The essence of Aurmir's blood,
+                <br />
+                Or the Heart of a "King's Court Chaser",
+                <br />
+                Or the Heart of a "King's Court Watchman".
+              </li>
+              <li>Or a Silver Knight Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>
+                300 milliliters of water contaminated by the power of Death.
+              </li>
+              <li>
+                One item worn or carried by a Sequence 3 or above from the
+                Twilight Giant Pathway.
+              </li>
+              <li>One piece of Amber with a trapped ancient insect inside.</li>
+              <li>
+                One piece of paper recording 100 or more kills of oneself.
+              </li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Arrange a complex altar and place the remains of six powerful
+              creatures that were hunted by oneself in the correct order and
+              receive the blessing of a God.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 2 - Glory",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>
+                The Crystallization of a Glorious Giant or the Crown of Aurmir.
+              </li>
+              <li>Or a Glory Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>300 milliliters of blood from the Glorious Giant.</li>
+              <li>One item corrupted by Dark Power.</li>
+              <li>One corpse buried for over a thousand years.</li>
+              <li>
+                One poem praising oneself
+                <br />
+                <em>(It has to be sung for at least 10 years)</em>
+              </li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Fight an Angel or a Creature of equal power on your own, or kill
+              enough enemies or blasphemers on behalf of the God who blessed
+              you.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 1 - Hand of God",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>One of the Hands of Aurmir.</li>
+              <li>One of the Hands of Badheil.</li>
+              <li>Or a Hand of God Beyonder Characteristic.</li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>100 milliliters of a True God's Blood.</li>
+              <li>9 drops of Water from the River Styx.</li>
+              <li>
+                A religious text recording one's own legend and deeds of
+                loyalty.
+              </li>
+              <li>A flower blooming in a True God's Divine Kingdom.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Swear allegiance to a certain god or become a Servant of the River
+              Styx.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
+      {
+        seqTitle: "Sequence 0 - Twilight Giant",
+        description: (
+          <>
+            <strong>Potion Formula</strong>
+
+            <p>Main Ingredients:</p>
+            <ul>
+              <li>The Twilight Giant Uniqueness.</li>
+              <li>
+                All other Hand of God Beyonder Characteristics apart from one's
+                own.
+              </li>
+            </ul>
+
+            <p>Supplementary Ingredients:</p>
+            <ul>
+              <li>The Remains of a True God.</li>
+            </ul>
+
+            <p>Ritual:</p>
+            <p>
+              Witness and participate in the entire process of a race or
+              continent from its rise to its decline and eventual extinction.
+            </p>
+          </>
+        ),
+
+        card: require("../assets/cards/0_Card.webp"),
+      },
     ],
   },
   // Hermit
   {
-    title: "Hermit",
+    title: "Hermit Pathway",
     logoColor: require("../assets/iconColor/9_Color.png"),
     card: require("../assets/cards/9_Card.webp"),
     overlayColor: "rgba(16, 8, 54, 0.53)",
