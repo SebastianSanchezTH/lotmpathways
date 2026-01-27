@@ -83,7 +83,7 @@ export default function Detail() {
                       navigate(`/detail/${neighbor.id}`, {
                         state: { fromIndex },
                       })
-                    } //Ir a los detalles de la secuencia
+                    }
                   />
                 ))}
               </div>
