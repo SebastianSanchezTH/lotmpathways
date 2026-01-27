@@ -1,5 +1,5 @@
 export const Data = [
-  // The Fool
+  // Fool
   {
     title: "Fool",
     logoColor: require("../assets/iconColor/0_Color.png"),
@@ -72,7 +72,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -130,7 +130,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -143,7 +143,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -157,8 +157,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -187,8 +186,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -212,7 +211,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -238,13 +237,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -257,7 +255,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -265,7 +263,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -275,8 +273,7 @@ export const Data = [
       },
     ],
   },
-  // mas roles
-  // The Magician
+  // Magician
   {
     title: "Magician",
     logoColor: require("../assets/iconColor/1_Color.png"),
@@ -303,7 +300,7 @@ export const Data = [
       // ... otras secuencias
     ],
   },
-  // The Paragon
+  // Paragon
   {
     title: "Paragon",
     logoColor: require("../assets/iconColor/2_Color.png"),
@@ -371,7 +368,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -429,7 +426,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -442,7 +439,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -456,8 +453,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -486,8 +482,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -511,7 +507,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -537,13 +533,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -556,7 +551,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -564,7 +559,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -574,7 +569,7 @@ export const Data = [
       },
     ],
   },
-  // The Demoness
+  // Demoness
   {
     title: "Demoness",
     logoColor: require("../assets/iconColor/3_Color.png"),
@@ -642,7 +637,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -700,7 +695,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -713,7 +708,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -727,8 +722,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -757,8 +751,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -782,7 +776,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -808,13 +802,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -827,7 +820,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -835,7 +828,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -845,7 +838,7 @@ export const Data = [
       },
     ],
   },
-  // The Black Emperor
+  // Black Emperor
   {
     title: "Black Emperor",
     logoColor: require("../assets/iconColor/4_Color.png"),
@@ -913,7 +906,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -971,7 +964,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -984,7 +977,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -998,8 +991,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -1028,8 +1020,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -1053,7 +1045,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -1079,13 +1071,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -1098,7 +1089,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -1106,7 +1097,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -1116,7 +1107,7 @@ export const Data = [
       },
     ],
   },
-  // The Tyrant
+  // Tyrant
   {
     title: "Tyrant",
     logoColor: require("../assets/iconColor/5_Color.png"),
@@ -1199,7 +1190,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -1257,7 +1248,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -1270,7 +1261,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -1284,8 +1275,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -1314,8 +1304,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -1339,7 +1329,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -1365,13 +1355,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -1384,7 +1373,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -1392,7 +1381,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -1402,7 +1391,7 @@ export const Data = [
       },
     ],
   },
-  // The Error
+  // Error
   {
     title: "Error",
     logoColor: require("../assets/iconColor/6_Color.png"),
@@ -1475,7 +1464,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -1533,7 +1522,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -1546,7 +1535,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -1560,8 +1549,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -1590,8 +1578,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -1615,7 +1603,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -1641,13 +1629,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -1660,7 +1647,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -1668,7 +1655,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -1678,7 +1665,7 @@ export const Data = [
       },
     ],
   },
-  // The Red Priest
+  // Red Priest
   {
     title: "Red Priest",
     logoColor: require("../assets/iconColor/7_Color.png"),
@@ -1746,7 +1733,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -1804,7 +1791,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -1817,7 +1804,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -1831,8 +1818,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -1861,8 +1847,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -1886,7 +1872,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -1912,13 +1898,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -1931,7 +1916,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -1939,7 +1924,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -1949,7 +1934,7 @@ export const Data = [
       },
     ],
   },
-  // The Twilight Giant
+  // Twilight Giant
   {
     title: "Twilight Giant",
     logoColor: require("../assets/iconColor/8_Color.png"),
@@ -1976,7 +1961,7 @@ export const Data = [
       // ... otras secuencias
     ],
   },
-  // The Hermit
+  // Hermit
   {
     title: "Hermit",
     logoColor: require("../assets/iconColor/9_Color.png"),
@@ -2044,7 +2029,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -2102,7 +2087,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -2115,7 +2100,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -2129,8 +2114,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -2159,8 +2143,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -2184,7 +2168,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -2210,13 +2194,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -2229,7 +2212,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -2237,7 +2220,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -2247,7 +2230,7 @@ export const Data = [
       },
     ],
   },
-  // The Wheel of Fortune
+  // Wheel of Fortune
   {
     title: "Wheel of Fortune",
     logoColor: require("../assets/iconColor/10_Color.png"),
@@ -2309,7 +2292,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -2367,7 +2350,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -2380,7 +2363,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -2394,8 +2377,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -2424,8 +2406,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -2449,7 +2431,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -2475,13 +2457,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -2494,7 +2475,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -2502,7 +2483,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -2512,7 +2493,7 @@ export const Data = [
       },
     ],
   },
-  // The Visionary
+  // Visionary
   {
     title: "Visionary",
     logoColor: require("../assets/iconColor/11_Color.png"),
@@ -2595,7 +2576,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -2653,7 +2634,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -2666,7 +2647,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -2680,8 +2661,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -2710,8 +2690,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -2735,7 +2715,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -2761,13 +2741,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -2780,7 +2759,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -2788,7 +2767,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -2798,7 +2777,7 @@ export const Data = [
       },
     ],
   },
-  // The Hanged Man
+  // Hanged Man
   {
     title: "Hanged Man",
     logoColor: require("../assets/iconColor/12_Color.png"),
@@ -2881,7 +2860,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -2939,7 +2918,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -2952,7 +2931,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -2966,8 +2945,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -2996,8 +2974,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -3021,7 +2999,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -3047,13 +3025,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -3066,7 +3043,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -3074,7 +3051,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -3084,7 +3061,7 @@ export const Data = [
       },
     ],
   },
-  // The Death
+  // Death
   {
     title: "Death",
     logoColor: require("../assets/iconColor/13_Color.png"),
@@ -3157,7 +3134,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -3215,7 +3192,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -3228,7 +3205,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -3242,8 +3219,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -3272,8 +3248,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -3297,7 +3273,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -3323,13 +3299,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -3342,7 +3317,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -3350,7 +3325,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -3360,7 +3335,7 @@ export const Data = [
       },
     ],
   },
-  // The Chained
+  // Chained
   {
     title: "Chained",
     logoColor: require("../assets/iconColor/14_Color.png"),
@@ -3428,7 +3403,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -3486,7 +3461,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -3499,7 +3474,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -3513,8 +3488,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -3543,8 +3517,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -3568,7 +3542,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -3594,13 +3568,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -3613,7 +3586,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -3621,7 +3594,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -3631,7 +3604,7 @@ export const Data = [
       },
     ],
   },
-  // The Abyss
+  // Abyss
   {
     title: "Abyss",
     logoColor: require("../assets/iconColor/15_Color.png"),
@@ -3699,7 +3672,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -3757,7 +3730,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -3770,7 +3743,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -3784,8 +3757,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -3814,8 +3786,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -3839,7 +3811,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -3865,13 +3837,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -3884,7 +3855,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -3892,7 +3863,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -3902,7 +3873,7 @@ export const Data = [
       },
     ],
   },
-  // The White Tower
+  // White Tower
   {
     title: "White Tower",
     logoColor: require("../assets/iconColor/16_Color.png"),
@@ -3985,7 +3956,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -4043,7 +4014,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -4056,7 +4027,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -4070,8 +4041,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -4100,8 +4070,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -4125,7 +4095,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -4151,13 +4121,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -4170,7 +4139,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -4178,7 +4147,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -4188,7 +4157,7 @@ export const Data = [
       },
     ],
   },
-  // The Darkness
+  // Darkness
   {
     title: "Darkness",
     logoColor: require("../assets/iconColor/17_Color.png"),
@@ -4261,7 +4230,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -4319,7 +4288,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -4332,7 +4301,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -4346,8 +4315,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -4376,8 +4344,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -4401,7 +4369,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -4427,13 +4395,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -4446,7 +4413,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -4454,7 +4421,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -4464,7 +4431,7 @@ export const Data = [
       },
     ],
   },
-  // The Moon
+  // Moon
   {
     title: "Moon",
     logoColor: require("../assets/iconColor/18_Color.png"),
@@ -4532,7 +4499,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -4590,7 +4557,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -4603,7 +4570,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -4617,8 +4584,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -4647,8 +4613,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -4672,7 +4638,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -4698,13 +4664,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -4717,7 +4682,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -4725,7 +4690,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -4735,7 +4700,7 @@ export const Data = [
       },
     ],
   },
-  // The Sun
+  // Sun
   {
     title: "Sun",
     logoColor: require("../assets/iconColor/19_Color.png"),
@@ -4818,7 +4783,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -4876,7 +4841,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -4889,7 +4854,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -4903,8 +4868,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -4933,8 +4897,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -4958,7 +4922,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -4984,13 +4948,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -5003,7 +4966,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -5011,7 +4974,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -5021,7 +4984,7 @@ export const Data = [
       },
     ],
   },
-  // The Justiciar
+  // Justiciar
   {
     title: "Justiciar",
     logoColor: require("../assets/iconColor/20_Color.png"),
@@ -5089,7 +5052,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -5147,7 +5110,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -5160,7 +5123,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -5174,8 +5137,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -5204,8 +5166,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -5229,7 +5191,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -5255,13 +5217,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -5274,7 +5235,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -5282,7 +5243,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
@@ -5292,7 +5253,7 @@ export const Data = [
       },
     ],
   },
-  // The Mother
+  // Mother
   {
     title: "Mother",
     logoColor: require("../assets/iconColor/21_Color.png"),
@@ -5360,7 +5321,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 True Root of a Mist Treant.</li>
-              <li>All the spinal fluid of a Dark Patterned Black Panther.</li>
+              <li>All spinal fluid of a Dark Patterned Black Panther.</li>
               <li>Or A Magician Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -5418,7 +5379,7 @@ export const Data = [
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
             <p>Ritual:</p>
-            <p>Consume potion amidst the singing of mermaids.</p>
+            <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
         card: require("../assets/cards/0_Card.webp"),
@@ -5431,7 +5392,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>A Bizarro Bane's Main Eye.</li>
-              <li>The True Soul Body of a Spirit World Plunderer.</li>
+              <li>True Soul Body of a Spirit World Plunderer.</li>
               <li>Or A Bizarro Sorcerer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
@@ -5445,8 +5406,7 @@ export const Data = [
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
-              the level of a demigod. Then, at the end of the performance,
-              consume the potion.
+              level of a demigod. Then, at end of performance, consume potion.
             </p>
           </>
         ),
@@ -5475,8 +5435,8 @@ export const Data = [
             <p>Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
-              consume the potion after one becomes history and doesn’t belong to
-              the present era.
+              consume potion after one becomes history and doesn’t belong to
+              present era.
             </p>
           </>
         ),
@@ -5500,7 +5460,7 @@ export const Data = [
             </ul>
             <p>Ritual:</p>
             <p>
-              Return a piece of history that has been left behind to the present
+              Return a piece of history that has been left behind to present
               era.
             </p>
           </>
@@ -5526,13 +5486,12 @@ export const Data = [
               Build a town consisting only of marionettes, and design a
               trajectory of fate for every marionette. By letting them interact
               with each other, they would act as a sufficiently real-life
-              painting and create a corresponding area in the spirit world.
+              painting and create a corresponding area in spirit world.
             </p>
             <p>
-              The larger the town, the more the marionettes involved, the more
-              detailed the daily lives are, and the more realistic and
-              extensiveness the different fates are, the better the ritual's
-              effects would be.
+              larger town, more marionettes involved, more detailed daily lives
+              are, and more realistic and extensiveness different fates are,
+              better ritual's effects would be.
             </p>
           </>
         ),
@@ -5545,7 +5504,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Fool Uniqueness.</li>
+              <li>Fool Uniqueness.</li>
               <li>
                 All other Attendant of Mysteries Beyonder Characteristics apart
                 from one's own.
@@ -5553,7 +5512,7 @@ export const Data = [
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Control at least a quarter of the fog of history.</li>
+              <li>Control at least a quarter of fog of history.</li>
             </ul>
             <p>Ritual:</p>
             <p>Fool time, history, or fate once.</p>
