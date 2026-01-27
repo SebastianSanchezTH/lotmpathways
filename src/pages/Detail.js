@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
-import { useParams, useNavigate } from "react-router-dom";
+import { useParams, useNavigate, useLocation } from "react-router-dom";
 import useEmblaCarousel from "embla-carousel-react";
-import { Data } from "./components/Data";
-import BackButton from "./components/BackButton";
+import { Data } from "../components/Data";
+import BackButton from "../components/BackButton";
 
-import "./styles/Detail.css"; // Tu CSS sigue igual
+import "../styles/Detail.css"; // Tu CSS sigue igual
 
 export default function Detail() {
   const { id } = useParams();
@@ -13,17 +13,22 @@ export default function Detail() {
   const navigate = useNavigate();
   const [hoveredNeighbor, setHoveredNeighbor] = useState(null);
 
+  const location = useLocation();
+  const fromIndex = location.state?.fromIndex ?? 0;
+
   // Manejar la tecla Escape para volver
   useEffect(() => {
     const handleKeyDown = (e) => {
       if (e.key === "Escape") {
-        navigate("/");
+        navigate("/", {
+          state: { restoreIndex: fromIndex },
+        });
       }
     };
 
-    window.addEventListener("keydown", handleKeyDown);
-    return () => window.removeEventListener("keydown", handleKeyDown);
-  }, [navigate]);
+    document.addEventListener("keydown", handleKeyDown);
+    return () => document.removeEventListener("keydown", handleKeyDown);
+  }, [navigate, fromIndex]);
 
   // Manejar en caso de que no encuentre data
   if (!data) return <p>Información no encontrada</p>;
@@ -31,7 +36,7 @@ export default function Detail() {
   return (
     <div className="detail-background">
       {/* Boton de volver */}
-      <BackButton to="/" label="<" />
+      <BackButton to="/" label="<" state={{ restoreIndex: fromIndex }} />
       {/* Overlay para combiod de color de fondo */}
       <div
         className="detail-overlay"
@@ -68,7 +73,11 @@ export default function Detail() {
                     //Hover de cambio de color
                     onMouseEnter={() => setHoveredNeighbor(neighbor.id)}
                     onMouseLeave={() => setHoveredNeighbor(null)}
-                    onClick={() => navigate(`/detail/${neighbor.id}`)} //Ir a los detalles de la secuencia
+                    onClick={() =>
+                      navigate(`/detail/${neighbor.id}`, {
+                        state: { fromIndex },
+                      })
+                    } //Ir a los detalles de la secuencia
                   />
                 ))}
               </div>
