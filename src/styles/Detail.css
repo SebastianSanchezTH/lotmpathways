@@ -1,69 +1,154 @@
-.detail-logo img {
-  width: 80px;
-  height: 80px;
-  margin-bottom: 1rem;
+@font-face {
+  font-family: California sun;
+  src: url(../fonts/california_sun.ttf);
+}
+
+.detail-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("../assets/fondo_seq.png");
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+
+.detail-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  backdrop-filter: blur(10px);
+  z-index: 0;
 }
 
 .detail-logo {
   display: flex;
   justify-content: center;
+  z-index: 10;
+  margin-top: 15px;
+  margin-bottom: 10px;
 }
 
-.detail-background {
-  position: fixed; /* para cubrir la página completa */
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  color: #fff;
-  font-family: Arial, sans-serif;
+.detail-logo img {
+  width: 70px;
+  height: 70px;
+  z-index: 10;
+}
+
+.detail-title {
   display: flex;
-  flex-direction: column;
-  padding: 20px;
-  overflow-y: auto;
+  justify-content: center;
+  z-index: 10;
+}
+
+.detail-title h1 {
+  font-family: "California sun";
+  text-align: center;
+  margin-top: 0;
+  z-index: 10;
+  color: white;
 }
 
 .detail-content {
   display: flex;
-  gap: 20px;
-  margin-top: 40px;
+  flex-direction: row; /* carta izquierda, texto derecha */
+  justify-content: center;
+  gap: 30px;
+  position: relative;
+  z-index: 2;
+  max-height: fit-content;
+  color: #cecece;
 }
 
+.detail-card-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.detail-card h2 {
+  text-align: center;
+  font-size: 1em;
+}
+
+/* Carta a la izquierda */
 .detail-card img {
-  width: 250px;
+  width: 335px;
   border-radius: 12px;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.335);
 }
 
+/* Texto a la derecha */
 .detail-text {
   flex: 1;
+  max-width: 500px;
   display: flex;
+  flex-direction: column;
 }
 
-.detail-description {
-  max-height: 400px;
-  overflow-y: auto;
-  margin: 15px 0;
-  padding-right: 10px;
+.detail-text h1 {
+  font-family: "California sun";
+  text-align: center;
 }
 
-.carousel-controls {
+.embla {
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.embla__container {
   display: flex;
-  align-items: center;
-  gap: 10px;
+
+  border-radius: 12px;
 }
 
-.carousel-controls button {
-  padding: 5px 10px;
+.embla__slides {
+  height: 550px; /* alto de cada slide */
+  flex: 0 0 90%; /* cada slide ocupa el 100% del contenedor */
+  background-color: rgba(0, 0, 0, 0.177);
+  padding: 10px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 15px;
+}
+
+.embla__slides h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.embla__slides .des {
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-bottom: 10px;
+}
+
+/* Neighbor icons */
+.detail-neighbors {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.neighbor-icon {
+  max-width: 50px;
+  height: 50px;
   cursor: pointer;
-  border-radius: 6px;
-  border: none;
-  background-color: rgba(255, 255, 255, 0.2);
-  color: #fff;
-  font-size: 18px;
-  transition: 0.2s;
+  transition:
+    transform 0.2s ease,
+    filter 0.2s ease;
+  z-index: 10;
 }
 
-.carousel-controls button:hover {
-  background-color: rgba(255, 255, 255, 0.5);
+.neighbor-icon:hover {
+  transform: scale(1.15);
+  filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.1));
+  z-index: 10;
 }
