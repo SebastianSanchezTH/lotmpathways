@@ -102,8 +102,9 @@
 
 .embla__container {
   display: flex;
-
   border-radius: 12px;
+  user-select: none;
+  cursor: grab;
 }
 
 .embla__slides {
