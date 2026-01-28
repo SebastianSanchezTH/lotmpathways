@@ -6,6 +6,8 @@ import BackButton from "../components/BackButton";
 import ArrowNavigation from "../components/ArrowNavigation";
 
 import "../styles/Detail.css";
+import "../styles/ArrowNavigation.css";
+import "../styles/BackButton.css";
 
 export default function Detail() {
   const { id } = useParams();
@@ -17,20 +19,6 @@ export default function Detail() {
 
   const location = useLocation();
   const fromIndex = location.state?.fromIndex ?? 0;
-
-  // Manejar la tecla Escape para volver
-  useEffect(() => {
-    const handleKeyDown = (e) => {
-      if (e.key === "Escape") {
-        navigate("/", {
-          state: { restoreIndex: fromIndex },
-        });
-      }
-    };
-
-    document.addEventListener("keydown", handleKeyDown);
-    return () => document.removeEventListener("keydown", handleKeyDown);
-  }, [navigate, fromIndex]);
 
   // Manejar en caso de que no encuentre data
   if (!data) return <p>Información no encontrada</p>;
@@ -53,17 +41,17 @@ export default function Detail() {
         <img src={data.logoColor} alt="Logo" />
       </div>
       <div className="detail-title">
-        {/* Titulo de la secuencia 0*/}
+        {/* Titulo del camino */}
         <h1>{data.title}</h1>
       </div>
       <div className="detail-content">
         <div className="detail-card-image">
           {/* Carta a la izquierda */}
           <div className="detail-card">
-            <img src={data.card} alt="Carta" />
+            <img src={data.card} alt="Card" />
             {/* Titulo de Secuencias intercambiables*/}
             <h2>Neighboring Pathways</h2>
-            {Array.isArray(data.neighbors) && data.neighbors.length > 0 && (
+            {Array.isArray(data.neighbors) && data.neighbors.length > 0 ? (
               <div className="detail-neighbors">
                 {/* Detalles de Secuencias intercambiables */}
                 {data.neighbors.map((neighbor) => (
@@ -79,6 +67,7 @@ export default function Detail() {
                     //Hover de cambio de color
                     onMouseEnter={() => setHoveredNeighbor(neighbor.id)}
                     onMouseLeave={() => setHoveredNeighbor(null)}
+                    //Cambio de ruta
                     onClick={() =>
                       navigate(`/detail/${neighbor.id}`, {
                         state: { fromIndex },
@@ -87,6 +76,8 @@ export default function Detail() {
                   />
                 ))}
               </div>
+            ) : (
+              <p className="no-neighbors">None</p>
             )}
           </div>
         </div>
@@ -98,7 +89,7 @@ export default function Detail() {
                   {/* Titulo de la secuencia*/}
                   <h2>{seq.seqTitle}</h2>
                   {/* Descripcion de la secuencia */}
-                  <div className="des">{seq.description}</div>
+                  <div className="description">{seq.description}</div>
                 </div>
               ))}
             </div>

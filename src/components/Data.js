@@ -26,20 +26,19 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>10 milliliters Lavos Squid's Blood</li>
-              <li>50-gram Star Crystal</li>
-              <li>Or A Seer Beyonder Characteristic</li>
+              <li>10 milliliters Lavos Squid's Blood.</li>
+              <li>50-gram Star Crystal.</li>
+              <li>Or A Seer Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>13 drops of Night Vanilla Liquids</li>
-              <li>7 Gold Mint Leaves</li>
-              <li>3 drops of Poison Hemlock</li>
-              <li>9 grams of Dragon Blood Grass Powder</li>
+              <li>13 drops of Night Vanilla Liquids.</li>
+              <li>7 Gold Mint Leaves.</li>
+              <li>3 drops of Poison Hemlock.</li>
+              <li>9 grams of Dragon Blood Grass Powder.</li>
             </ul>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Clown",
@@ -62,7 +61,6 @@ export const Data = [
             </ul>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Magician",
@@ -84,7 +82,6 @@ export const Data = [
             </ul>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Faceless",
@@ -106,7 +103,6 @@ export const Data = [
             </ul>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Marionettist",
@@ -129,11 +125,10 @@ export const Data = [
               <li>Remnant Spirituality of Ancient Wraiths.</li>
               <li>1 pair of eyes from a six-winged gargoyle.</li>
             </ul>
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>Consume potion amidst singing of mermaids.</p>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Bizarro Sorcerer",
@@ -153,7 +148,7 @@ export const Data = [
               <li>One segment of Golden Grapevines.</li>
               <li>Fingernail-Sized Self-made Rubber Mask.</li>
             </ul>
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Relying on one’s strength and strategy, orchestrate a grand
               performance before many spectators to kill a Beyonder creature at
@@ -161,7 +156,6 @@ export const Data = [
             </p>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Scholar of Yore",
@@ -170,10 +164,7 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>
-                Hound of Fulgrim (also known as Sefirah Castle Keeper) pair of
-                eyes.
-              </li>
+              <li>Hound of Fulgrim pair of eyes.</li>
               <li>1 Demonic Wolf of Fog's Transformed Heart.</li>
               <li>Or A Scholar of Yore Beyonder Characteristic.</li>
             </ul>
@@ -183,7 +174,7 @@ export const Data = [
               <li>30 grams of White Frost Crystal of Demonic Wolf of Fog.</li>
               <li>A large amount of Real Ancient Historical Records.</li>
             </ul>
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Be separated from reality for at least three hundred years and
               consume potion after one becomes history and doesn’t belong to
@@ -191,7 +182,6 @@ export const Data = [
             </p>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Miracle Invoker",
@@ -209,14 +199,13 @@ export const Data = [
               <li>A Worm of Time.</li>
               <li>A Worm of Star.</li>
             </ul>
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Return a piece of history that has been left behind to present
               era.
             </p>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Attendant of Mysteries",
@@ -225,13 +214,13 @@ export const Data = [
             <strong>Potion Formula</strong>
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Attendant of Mysteries Beyonder Characteristic.</li>
+              <li>An Attendant of Mysteries Beyonder Characteristic.</li>
             </ul>
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>Nine spirit world specialties.</li>
             </ul>
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
 
             <p>
               Build a town consisting only of marionettes, and design a
@@ -239,14 +228,8 @@ export const Data = [
               with each other, they would act as a sufficiently real-life
               painting and create a corresponding area in spirit world.
             </p>
-            <p>
-              larger town, more marionettes involved, more detailed daily lives
-              are, and more realistic and extensiveness different fates are,
-              better ritual's effects would be.
-            </p>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Fool",
@@ -265,11 +248,10 @@ export const Data = [
             <ul>
               <li>Control at least a quarter of fog of history.</li>
             </ul>
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>Fool time, history, or fate once.</p>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -302,7 +284,7 @@ export const Data = [
             <ul>
               <li>1 Gem-Devouring Worm.</li>
               <li>1 Illusion Crystal.</li>
-              <li>Or an Apprentice Beyonder Characteristic.</li>
+              <li>Or An Apprentice Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -327,7 +309,7 @@ export const Data = [
             <ul>
               <li>Stomach pouch of a Spirit Eater.</li>
               <li>20 milliliters of a Deep Sea Marlin's Blood.</li>
-              <li>Or a Trickmaster Beyonder Characteristic.</li>
+              <li>Or A Trickmaster Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -351,7 +333,7 @@ export const Data = [
             <ul>
               <li>60 grams of Meteorite Crystal.</li>
               <li>The Lavos Squid's Crystallized Blood.</li>
-              <li>Or an Astrologer Beyonder Characteristic.</li>
+              <li>Or An Astrologer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -375,7 +357,7 @@ export const Data = [
             <ul>
               <li>1 complete brain of an Asmann.</li>
               <li>Cursed artifacts of an ancient wraith.</li>
-              <li>Or a Scribe Beyonder Characteristic.</li>
+              <li>Or A Scribe Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -402,7 +384,7 @@ export const Data = [
             <ul>
               <li>Siskun Demon Worm.</li>
               <li>Heart of a Shadowless Demonic Wolf.</li>
-              <li>Or a Traveler Beyonder Characteristic.</li>
+              <li>Or A Traveler Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -413,7 +395,7 @@ export const Data = [
               <li>80 milliliters of Shadowless Demonic Wolf’s Blood.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Set up special coordinates in four completely different spots deep
               in the Spirit World which are all set up extremely far away from
@@ -435,7 +417,7 @@ export const Data = [
               <li>Eye of a Golden Phoenix.</li>
               <li>Siskun Demon Worm Leader.</li>
               <li>Ankh Gate’s Foundation.</li>
-              <li>Or a Secrets Sorcerer Beyonder Characteristic.</li>
+              <li>Or A Secrets Sorcerer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -451,7 +433,7 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Seal a creature of demigod level, the creature must be hostile
               toward you, lesser outside help used, better will the ritual's
@@ -472,7 +454,7 @@ export const Data = [
             <ul>
               <li>Wandering Skin.</li>
               <li>Crystal left by a Mist Watcher.</li>
-              <li>Or a Wanderer Beyonder Characteristic.</li>
+              <li>Or A Wanderer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -483,7 +465,7 @@ export const Data = [
               <li>90 milliliters of Star Water from the ritual site.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Find three piece of Astral World information projected into the
               Spirit World, enter the dangerous scenarios derived from them, and
@@ -505,7 +487,7 @@ export const Data = [
               <li>Purple Phoenix’s Eye.</li>
               <li>Or Active Void.</li>
               <li>Interdimensional Hunter’s Brain.</li>
-              <li>Or a Planeswalker Beyonder Characteristic.</li>
+              <li>Or A Planeswalker Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -515,7 +497,7 @@ export const Data = [
               <li>A Worm of Spirit.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Leave legends about yourself at 9 different locations outside of
               this planet.
@@ -534,17 +516,17 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>Gregrace's Left Claw.</li>
-              <li>Or a Key of Stars Beyonder Characteristic.</li>
+              <li>Or A Key of Stars Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>1 Compass (or similar object) linked to the Astral World.</li>
+              <li>1 Compass linked to the Astral World.</li>
               <li>Core of a Wandering Asteroid.</li>
               <li>1 portion of your favorite food or drink.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Find a continuously rotating, signal-emitting heavy star, approach
               it, land on it, and then find a way to establish sufficient
@@ -578,7 +560,7 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>Break out of the seal or banishment of a True God.</p>
           </>
         ),
@@ -612,7 +594,7 @@ export const Data = [
             <ul>
               <li>The Brain core of a High Mountain Snowman.</li>
               <li>The Crystalline Matter of a Library Shadow Spirit.</li>
-              <li>Or a Savant Beyonder Characteristic.</li>
+              <li>Or A Savant Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -624,8 +606,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Archaeologist",
@@ -641,7 +621,7 @@ export const Data = [
                 <br />
                 <em>Note: A humanoid creature.</em>
               </li>
-              <li>Or an Archaeologist Beyonder Characteristic.</li>
+              <li>Or An Archaeologist Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -649,15 +629,10 @@ export const Data = [
               <li>20 grams of Ancient Tomb Shadow dust.</li>
               <li>150 milliliters of Ruin Wanderer blood.</li>
               <li>1 ancient document of value.</li>
-              <li>
-                1 ancient item with a little mystical power (Choosing the wrong
-                one could be very dangerous).
-              </li>
+              <li>1 ancient item with a little mystical power.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Appraiser",
@@ -668,26 +643,24 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>1 Spirit World Evil Eye.</li>
-              <li>1 "Human-Skin Ancient Scroll".</li>
-              <li>Or an Appraiser Beyonder Characteristic.</li>
+              <li>1 Human-Skin Ancient Scroll.</li>
+              <li>Or An Appraiser Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>9 drops of tears from the Spirit World Evil Eye.</li>
               <li>
-                100 milliliters of blood from the "Human-Skin Ancient Scroll".
+                100 milliliters of blood from the Human-Skin Ancient Scroll.
               </li>
               <li>1 type illustrated handbook.</li>
               <li>9 drops of mint essential oil.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
-        seqTitle: "Sequence 6 - Artisan (Machinery Specialist)",
+        seqTitle: "Sequence 6 - Artisan",
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -696,7 +669,7 @@ export const Data = [
             <ul>
               <li>The Cerebrum of a Four-Armed Madman.</li>
               <li>The Tinder of a Carnivorous Furnace.</li>
-              <li>Or an Artisan Beyonder Characteristic.</li>
+              <li>Or An Artisan Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -714,11 +687,9 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
-        seqTitle: "Sequence 5 - Astronomer (Astromancer)",
+        seqTitle: "Sequence 5 - Astronomer",
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -727,7 +698,7 @@ export const Data = [
             <ul>
               <li>The Eyes of a Star marked Elephant Man.</li>
               <li>The Crystal shell of an Enchanted Dancing Giant Turtle.</li>
-              <li>Or an Astronomer Beyonder Characteristic.</li>
+              <li>Or An Astronomer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -741,14 +712,12 @@ export const Data = [
               <li>10 drops of Starflower hydrolat.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
-              Discover and name an astronomical phenomenon or a celestial body.
+              Discover and name an astronomical phenomenon Or A celestial body.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Alchemist",
@@ -764,7 +733,7 @@ export const Data = [
                 <em>Note: A humanoid creature.</em>
               </li>
               <li>1 Spirit of Machinery’s Core.</li>
-              <li>Or an Alchemist Beyonder Characteristic.</li>
+              <li>Or An Alchemist Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -778,15 +747,13 @@ export const Data = [
               <li>1 item symbolizing good fortune.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Extract all life force within a designated area; causing the soil
               to desertify, and the lakes to dry up.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Arcane Scholar",
@@ -798,7 +765,7 @@ export const Data = [
             <ul>
               <li>1 Spirit World Meteor.</li>
               <li>1 Crystallization of an Annihilation Ghost.</li>
-              <li>Or an Arcane Scholar Beyonder Characteristic.</li>
+              <li>Or An Arcane Scholar Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -817,7 +784,7 @@ export const Data = [
               <li>50 grams of a highly radioactive material.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Select a certain special Spirit World knowledge and find a way to
               establish a close connection with it, achieving integration at the
@@ -825,8 +792,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Knowledge Magister",
@@ -836,8 +801,8 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>1 "Otherworldly Brain".</li>
-              <li>Or a Knowledge Magister Beyonder Characteristic.</li>
+              <li>1 Otherworldly Brain.</li>
+              <li>Or A Knowledge Magister Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -859,15 +824,13 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Make a groundbreaking and systematically outstanding contribution
               in any existing field.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Illuminator",
@@ -897,15 +860,13 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Popularize new knowledge to promote the civilizational renewal of
               at least one country.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Paragon",
@@ -930,22 +891,14 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Nurture a Civilization, witnessing and recording its entire
               process from enlightenment, development and prosperity to decline,
               demise or replacement.
             </p>
-            <p>
-              <em>
-                Note: A regional civilization is sufficient. The main point is
-                the long duration, and it cannot be interrupted.
-              </em>
-            </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -974,7 +927,7 @@ export const Data = [
             <ul>
               <li>Root tendrils of the Shadow Poison Flower.</li>
               <li>Black feathers of a Serpent-Bodied Monster Bird.</li>
-              <li>Or an Assassin Beyonder Characteristic.</li>
+              <li>Or An Assassin Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -986,8 +939,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Instigator",
@@ -999,7 +950,7 @@ export const Data = [
             <ul>
               <li>A Demon Throat Honeyguide's Heart.</li>
               <li>A Dark Prowler's Poison Sac.</li>
-              <li>Or an Instigator Beyonder Characteristic.</li>
+              <li>Or An Instigator Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1012,8 +963,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Witch",
@@ -1025,7 +974,7 @@ export const Data = [
             <ul>
               <li>Every drop of an Abyss Demonic Fish Blood.</li>
               <li>An Agate Peacock Egg.</li>
-              <li>Or a Witch Beyonder Characteristic.</li>
+              <li>Or A Witch Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1037,8 +986,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Demoness of Pleasure",
@@ -1050,7 +997,7 @@ export const Data = [
             <ul>
               <li>A pair of Succubus Eyes.</li>
               <li>An adult Black Widow Spider Silk Gland.</li>
-              <li>Or a Pleasure Beyonder Characteristic.</li>
+              <li>Or A Pleasure Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1063,8 +1010,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Demoness of Affliction",
@@ -1076,7 +1021,7 @@ export const Data = [
             <ul>
               <li>A head of a Flower-Faced Bat.</li>
               <li>A gallbladder of a Two-Tailed Black Snake.</li>
-              <li>Or an Affliction Beyonder Characteristic.</li>
+              <li>Or An Affliction Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1087,15 +1032,13 @@ export const Data = [
               <li>10 drops of Enfinitas Eucalyptus Essential Oil.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Without substitutes, be burned at the stake for fifteen minutes
               and survive without going mad.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Demoness of Despair",
@@ -1107,7 +1050,7 @@ export const Data = [
             <ul>
               <li>Plague Mother Serpent's Venom Sac.</li>
               <li>Silver Hunter's Crystal.</li>
-              <li>Or a Despair Beyonder Characteristic.</li>
+              <li>Or A Despair Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1121,7 +1064,7 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Involve over thirty thousand people in a severe plague. The more
               who die, the stronger the despair and suffering, the better the
@@ -1129,8 +1072,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Demoness of Unaging",
@@ -1142,7 +1083,7 @@ export const Data = [
             <ul>
               <li>1 Heart of a Mirror God.</li>
               <li>A pair of Gorgon Eyes.</li>
-              <li>Or an Unaging Beyonder Characteristic.</li>
+              <li>Or An Unaging Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1156,15 +1097,13 @@ export const Data = [
               <li>22 drops of water from a drowned person's lungs.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Find your mirror self, enslave them solely with your own power, or
               make them truly infatuated with you, or reconcile with them.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Demoness of Catastrophe",
@@ -1175,31 +1114,24 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>Lilith’s hair.</li>
-              <li>Or a Catastrophe Beyonder Characteristic.</li>
+              <li>Or A Catastrophe Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>30 grams of soil from fertile land.</li>
               <li>100 milliliters of rainwater from the first annual flood.</li>
-              <li>
-                One Mirror World Fragment (not from Special Mirror Worlds).
-              </li>
-              <li>
-                10,000 curses from dead victims of disaster (Higher Sequence
-                targets require fewer).
-              </li>
+              <li>One Mirror World Fragment.</li>
+              <li>10,000 curses from dead victims of disaster.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               As a participant, cause a disaster affecting the entire continent,
               and advance during the disaster.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Demoness of Apocalypse",
@@ -1220,8 +1152,9 @@ export const Data = [
               <li>60 milliliters of blood from a Weather Warlock.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <ol>
+              <p>Any one of the three rituals is effective:</p>
               <li>
                 Advance at the universally acknowledged end of an epoch or the
                 beginning of the next.
@@ -1236,8 +1169,6 @@ export const Data = [
             </ol>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Primordial Demoness",
@@ -1256,11 +1187,11 @@ export const Data = [
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>One portion of genuine love originating from oneself</li>
+              <li>One portion of genuine love originating from oneself.</li>
               <li>Half of the Mirror World.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <ol>
               <li>
                 Altered Ritual: Descend into the depths of the earth, find the
@@ -1276,8 +1207,6 @@ export const Data = [
             </ol>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -1313,8 +1242,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Barbarian",
@@ -1326,7 +1253,7 @@ export const Data = [
             <ul>
               <li>Grass of Madness.</li>
               <li>Core horn crystal of a Land Rhinoceros.</li>
-              <li>Or a Barbarian Beyonder Characteristic.</li>
+              <li>Or A Barbarian Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1340,8 +1267,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Briber",
@@ -1353,7 +1278,7 @@ export const Data = [
             <ul>
               <li>1 Weeping Infant Flower.</li>
               <li>Strange-faced Cannabis Crystal.</li>
-              <li>Or a Briber Beyonder Characteristic.</li>
+              <li>Or A Briber Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1365,8 +1290,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Baron of Corruption",
@@ -1385,8 +1308,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Mentor of Disorder",
@@ -1404,14 +1325,12 @@ export const Data = [
               <li>— No data —</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <ul>
               <li>— No data —</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Earl of the Fallen",
@@ -1421,7 +1340,7 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Earl of the Fallen Beyonder Characteristic.</li>
+              <li>An Earl of the Fallen Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1429,14 +1348,12 @@ export const Data = [
               <li>— No data —</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <ul>
               <li>— No data —</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Frenzied Mage",
@@ -1454,13 +1371,12 @@ export const Data = [
               <li>— No data —</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <ul>
               <li>— No data —</li>
             </ul>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Duke of Entropy",
@@ -1478,13 +1394,12 @@ export const Data = [
               <li>— No data —</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <ul>
               <li>— No data —</li>
             </ul>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Prince of Abolition",
@@ -1502,13 +1417,12 @@ export const Data = [
               <li>— No data —</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <ul>
               <li>— No data —</li>
             </ul>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Black Emperor",
@@ -1530,7 +1444,7 @@ export const Data = [
               <li>— No data —</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <ol>
               <li>
                 Possess your own country, linking your name to the title of
@@ -1553,8 +1467,6 @@ export const Data = [
             </ol>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -1598,7 +1510,7 @@ export const Data = [
             <ul>
               <li>Murloc's Bladder.</li>
               <li>One man-eating conch.</li>
-              <li>Or a Sailor Beyonder Characteristic.</li>
+              <li>Or A Sailor Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1611,8 +1523,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Folk of Rage",
@@ -1624,7 +1534,7 @@ export const Data = [
             <ul>
               <li>Deep-diver’s alveoli.</li>
               <li>War-cry bird’s breastbone.</li>
-              <li>Or a Folk of Rage Beyonder Characteristic.</li>
+              <li>Or A Folk of Rage Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1636,8 +1546,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Seafarer",
@@ -1648,11 +1556,8 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>Pituitary gland of a Black-Scaled Shark.</li>
-              <li>
-                Heart of a Raging White Dolphin (often called the Darling of the
-                Elves).
-              </li>
-              <li>Or a Seafarer Beyonder Characteristic.</li>
+              <li>Heart of a Raging White Dolphin.</li>
+              <li>Or A Seafarer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1665,8 +1570,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Wind-blessed",
@@ -1678,7 +1581,7 @@ export const Data = [
             <ul>
               <li>6 crystalline feathers of a Blue Shadow Falcon.</li>
               <li>A pair of the Dragon-Eyed Sea Condor eyeballs.</li>
-              <li>Or a Wind-blessed Beyonder Characteristic.</li>
+              <li>Or A Wind-blessed Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1694,7 +1597,6 @@ export const Data = [
             </ul>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Ocean Songster",
@@ -1706,7 +1608,7 @@ export const Data = [
             <ul>
               <li>Siren’s throat.</li>
               <li>Crystal cluster from a jellyfish.</li>
-              <li>Or an Ocean Songster Beyonder Characteristic.</li>
+              <li>Or An Ocean Songster Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1718,12 +1620,10 @@ export const Data = [
               <li>One porous coral branch.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>Take the potion in the belly of an Obninsk.</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Cataclysmic Interrer",
@@ -1735,7 +1635,7 @@ export const Data = [
             <ul>
               <li>Stomach of the Whale of Punishment.</li>
               <li>Blood crystal of the Vortex Terror-Beast.</li>
-              <li>Or a Cataclysmic Interrer Beyonder Characteristic.</li>
+              <li>Or A Cataclysmic Interrer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1747,15 +1647,13 @@ export const Data = [
               <li>One hair or nail from a Shipwreck victim.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Cause an earthquake and tsunami, drink the potion amidst this
               environment until the ascension is over.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Sea King",
@@ -1767,7 +1665,7 @@ export const Data = [
             <ul>
               <li>Skull of a deep-sea python.</li>
               <li>Eye of the King of Green Wings.</li>
-              <li>Or a Sea King Beyonder Characteristic.</li>
+              <li>Or A Sea King Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1779,7 +1677,7 @@ export const Data = [
               <li>50 grams of freshly sun-dried sea salt.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Select a sea region, build with your own power a stone tower on
               the seafloor reaching the surface, then subdue all powerful
@@ -1787,8 +1685,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Calamity",
@@ -1802,7 +1698,7 @@ export const Data = [
               <li>
                 Or the Beyonder Characteristic of the “King of the Deep Sea”.
               </li>
-              <li>Or a Calamity Beyonder Characteristic.</li>
+              <li>Or A Calamity Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1816,7 +1712,7 @@ export const Data = [
               <li>One hair each from a thousand people who died of fear.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               With only your own strength, trigger a natural disaster affecting
               at least one million people. At the peak of their fear and
@@ -1825,8 +1721,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Thunder God",
@@ -1843,27 +1737,16 @@ export const Data = [
             <ul>
               <li>A fragment of lightning from the Astral World.</li>
               <li>One Depraved nature of a Hanged Man Pathway Angel.</li>
-              <li>
-                One stone from the underground Nightmare Swamp
-                <br />
-                <em>
-                  (Born under the influence of the “Chaos Sea”, widely present
-                  underground—yet approaching it means coming dangerously close
-                  to the Chaos Sea, so High Sequence powerhouses cannot
-                  personally retrieve it)
-                </em>
-              </li>
+              <li>One stone from the underground Nightmare Swamp</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Find and harness lightning to disrupt at least three Sequence 2
               Angels’ advancement rituals to Sequence 1.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Tyrant",
@@ -1885,7 +1768,7 @@ export const Data = [
               <li>Blood of a God sufficient to drench the whole body.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <ol>
               <li>
                 Gather over 100,000 followers. They must submit and believe in
@@ -1899,8 +1782,6 @@ export const Data = [
             </ol>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -1934,7 +1815,7 @@ export const Data = [
             <ul>
               <li>1 Blood‑Speckled Black Mosquito.</li>
               <li>1 Core of a Candle Devourer.</li>
-              <li>Or a Marauder Beyonder Characteristic.</li>
+              <li>Or A Marauder Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1946,8 +1827,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Swindler",
@@ -1959,7 +1838,7 @@ export const Data = [
             <ul>
               <li>1 Human‑Faced Cage Grass.</li>
               <li>1 Larvae of a Soul‑Confusing Insect Swarm.</li>
-              <li>Or a Swindler Beyonder Characteristic.</li>
+              <li>Or A Swindler Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1971,8 +1850,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Cryptologist",
@@ -1984,7 +1861,7 @@ export const Data = [
             <ul>
               <li>1 Sphinx Brain.</li>
               <li>1 Adult Soul‑Confusing Insect Swarm.</li>
-              <li>Or a Cryptologist Beyonder Characteristic.</li>
+              <li>Or A Cryptologist Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -1993,12 +1870,10 @@ export const Data = [
               <li>10 drops of mucus from a Soul‑Confusing Insect Swarm.</li>
               <li>1 Moonstone.</li>
               <li>1 Wild Rose.</li>
-              <li>1 Self‑designed Cipher (written on paper).</li>
+              <li>1 Self‑designed Cipher.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Prometheus",
@@ -2010,7 +1885,7 @@ export const Data = [
             <ul>
               <li>1 Crystal Threadworm.</li>
               <li>1 Cloaked Specter’s Attachment.</li>
-              <li>Or a Prometheus Beyonder Characteristic.</li>
+              <li>Or A Prometheus Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2023,8 +1898,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Dream Stealer",
@@ -2036,7 +1909,7 @@ export const Data = [
             <ul>
               <li>1 Dream‑Eating Rat Heart.</li>
               <li>1 Spirit of Decaying Breath.</li>
-              <li>Or a Dream Stealer Beyonder Characteristic.</li>
+              <li>Or A Dream Stealer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2050,7 +1923,7 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Become a key antagonist or supporting figure in the unconscious
               dreams of at least 30 people. It doesn't matter how long these
@@ -2059,8 +1932,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Parasite",
@@ -2072,7 +1943,7 @@ export const Data = [
             <ul>
               <li>1 Soul‑Snatcher’s Postmortem Crystal.</li>
               <li>1 Puppet Parasitic Worm.</li>
-              <li>Or a Parasite Beyonder Characteristic.</li>
+              <li>Or A Parasite Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2084,15 +1955,13 @@ export const Data = [
               <li>1 Imprisoned Soul.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Convince nine targets to willingly offer all they possess to
               sustain you.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Mentor of Deceit",
@@ -2104,7 +1973,7 @@ export const Data = [
             <ul>
               <li>1 pair of Swamp Giant’s Palms.</li>
               <li>1 Blasphemous Priest Core.</li>
-              <li>Or a Mentor of Deceit Beyonder Characteristic.</li>
+              <li>Or A Mentor of Deceit Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2118,7 +1987,7 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Without violence, find and exploit loopholes in rules to
               temporarily collapse order in a region. The area must be no
@@ -2127,8 +1996,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Trojan Horse of Destiny",
@@ -2140,7 +2007,7 @@ export const Data = [
             <ul>
               <li>1 Postmortem Crystal of a Giant King’s Court Priest.</li>
               <li>Or 1 Soul‑Snatcher King’s Vertical Eye.</li>
-              <li>Or a Trojan Horse of Destiny Beyonder Characteristic.</li>
+              <li>Or A Trojan Horse of Destiny Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2148,13 +2015,10 @@ export const Data = [
               <li>100 milliliters of Ancient River Water.</li>
               <li>1 Worm of Spirit.</li>
               <li>1 Worm of Star.</li>
-              <li>
-                Fabricated historical records deemed authentic (written on
-                paper).
-              </li>
+              <li>Fabricated historical records deemed authentic.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Assume another’s identity through disguise, deception, and other
               methods that don't involve Beyonder powers, then earn their social
@@ -2162,8 +2026,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Worm of Time",
@@ -2174,7 +2036,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>Aurmir’s Right Eye.</li>
-              <li>Or a Worm of Time Beyonder Characteristic.</li>
+              <li>Or A Worm of Time Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2184,12 +2046,10 @@ export const Data = [
               <li>1 Segment of Concealed Fate.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>Plunge a city into temporal chaos for at least seven days.</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Error",
@@ -2211,12 +2071,10 @@ export const Data = [
               <li>Three Beacons Extracted from the River of Fate.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>Replace someone during "Their" Sequence 0 apotheosis ritual.</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -2249,17 +2107,12 @@ export const Data = [
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>80 milliliters of Red Wine.</li>
-              <li>
-                1 Red Chestnut Flower (can be a specimen or substituted with 10
-                drops of the corresponding essential oil).
-              </li>
+              <li>1 Red Chestnut Flower.</li>
               <li>5 grams of Poplar Tree Leaf Powder.</li>
               <li>10 grams of Basil.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Provoker",
@@ -2281,8 +2134,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Pyromaniac",
@@ -2294,7 +2145,7 @@ export const Data = [
             <ul>
               <li>A Fire Salamander Gland.</li>
               <li>A Magma Elf Core.</li>
-              <li>Or a Pyromaniac Beyonder Characteristic.</li>
+              <li>Or A Pyromaniac Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2306,8 +2157,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Conspirer",
@@ -2319,7 +2168,7 @@ export const Data = [
             <ul>
               <li>A Black Hunting Spider Composite Eyes.</li>
               <li>A Sphinx Brain.</li>
-              <li>Or a Conspirer Beyonder Characteristic.</li>
+              <li>Or A Conspirer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2331,8 +2180,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Reaper",
@@ -2344,7 +2191,7 @@ export const Data = [
             <ul>
               <li>Gray Demonic Wolf's Front Claws.</li>
               <li>Forest Hunter's Tongue.</li>
-              <li>Or a Reaper Beyonder Characteristic.</li>
+              <li>Or A Reaper Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2360,7 +2207,7 @@ export const Data = [
               <li>10 drops of Hornbeam Essential Oils.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Plan and execute a successful capture of a target with a Sequence
               higher than your own. Flaunt the completed conspiracy before them,
@@ -2369,8 +2216,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Iron-blooded Knight",
@@ -2382,7 +2227,7 @@ export const Data = [
             <ul>
               <li>A Magma Giant's core.</li>
               <li>A Stone of Catastrophe.</li>
-              <li>Or a Iron-blooded Knight Beyonder Characteristic.</li>
+              <li>Or An Iron-blooded Knight Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2398,7 +2243,7 @@ export const Data = [
               <li>1 acorn.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Form a team of at least thirty people, cultivate a deep friendship
               with them, make them strong one after another. The higher the
@@ -2407,8 +2252,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - War Bishop",
@@ -2420,7 +2263,7 @@ export const Data = [
             <ul>
               <li>Heart of a Bipolar Centaur.</li>
               <li>Core of a War Comet.</li>
-              <li>Or a War Bishop Beyonder Characteristic.</li>
+              <li>Or A War Bishop Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2431,12 +2274,10 @@ export const Data = [
               <li>8 grams of Flame Giant Tree bark.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>Lead your own team to defeat a powerful enemy force in a war.</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Weather Warlock",
@@ -2448,7 +2289,7 @@ export const Data = [
             <ul>
               <li>Skull of a Weather Giant.</li>
               <li>Core of a Mist Jellyfish.</li>
-              <li>Or a Weather Warlock Beyonder Characteristic.</li>
+              <li>Or A Weather Warlock Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2465,15 +2306,13 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Forcefully change the weather of a region without external aid in
               a very short time.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Conqueror",
@@ -2496,20 +2335,16 @@ export const Data = [
               <li>
                 A drop of fingertip blood from each member of one’s own team.
               </li>
-              <li>
-                Nine heads of powerful enemies (at least Sequence 4 in status).
-              </li>
+              <li>Nine heads of powerful enemies.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Conquer a nation with a population of more than 30 million
               inhabitants, making all beings there fear, obey, and revere you.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Red Priest",
@@ -2533,15 +2368,13 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Wage a war that sweeps an entire continent and gain sufficient
               victories.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -2578,7 +2411,7 @@ export const Data = [
                 A Mutant Black Bear's eyes,
                 <br />A Bloodthirsty Rhinoceros's horn.
               </li>
-              <li>Or a Warrior Beyonder Characteristic.</li>
+              <li>Or A Warrior Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2596,7 +2429,6 @@ export const Data = [
             </ul>
           </>
         ),
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Pugilist",
@@ -2613,7 +2445,7 @@ export const Data = [
                 <br />
                 The middle finger of a Forest Wanderer.
               </li>
-              <li>Or a Pugilist Beyonder Characteristic.</li>
+              <li>Or A Pugilist Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2623,7 +2455,7 @@ export const Data = [
                 a Forest Wanderer's Blood.
               </li>
               <li>
-                A Giant Squire's Gallbladder or a Giant Black Bear's
+                A Giant Squire's Gallbladder Or A Giant Black Bear's
                 Gallbladder.
               </li>
               <li>One Amethyst.</li>
@@ -2631,8 +2463,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Weapon Master",
@@ -2649,7 +2479,7 @@ export const Data = [
                 <br />
                 The ear of the Six-Armed Gray Ape.
               </li>
-              <li>Or a Weapon Master Beyonder Characteristic.</li>
+              <li>Or A Weapon Master Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2667,8 +2497,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Dawn Paladin",
@@ -2685,7 +2513,7 @@ export const Data = [
                 <br />
                 The Right Paw of a Silver Bear.
               </li>
-              <li>Or a Dawn Paladin Beyonder Characteristic.</li>
+              <li>Or A Dawn Paladin Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2700,8 +2528,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Guardian",
@@ -2718,7 +2544,7 @@ export const Data = [
                 <br />
                 The Ears of a Forest Guardian.
               </li>
-              <li>Or a Guardian Beyonder Characteristic.</li>
+              <li>Or A Guardian Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2729,20 +2555,18 @@ export const Data = [
               </li>
               <li>1 Gray Giant's Eye or 1 Forest Guardian's Eye.</li>
               <li>
-                1 weapon that the Potion Consumer has used for a long time.
+                1 weapon that the Potion Consumer has used fOr A long time.
               </li>
               <li>9 drops of an Essential Oil with a pungent odor.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Find a person or group you want to protect and dedicate yourself
               to protecting them for at least a year.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Demon Hunter",
@@ -2759,7 +2583,7 @@ export const Data = [
                 <br />
                 The vertical Eye of an Evil Spirit Hunter.
               </li>
-              <li>Or a Demon Hunter Beyonder Characteristic.</li>
+              <li>Or A Demon Hunter Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2775,15 +2599,13 @@ export const Data = [
               <li>10 grams of Holy Ointment with purifying properties.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Resolve a problem or disaster caused by a powerful Demon or Evil
               Creature.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Silver Knight",
@@ -2800,7 +2622,7 @@ export const Data = [
                 <br />
                 Or the Heart of a "King's Court Watchman".
               </li>
-              <li>Or a Silver Knight Beyonder Characteristic.</li>
+              <li>Or A Silver Knight Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2818,7 +2640,7 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Arrange a complex altar and place the remains of six powerful
               creatures that were hunted by oneself in the correct order and
@@ -2826,8 +2648,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Glory",
@@ -2840,7 +2660,7 @@ export const Data = [
               <li>
                 The Crystallization of a Glorious Giant or the Crown of Aurmir.
               </li>
-              <li>Or a Glory Beyonder Characteristic.</li>
+              <li>Or A Glory Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2855,16 +2675,14 @@ export const Data = [
               </li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
-              Fight an Angel or a Creature of equal power on your own, or kill
+              Fight an Angel Or A Creature of equal power on your own, or kill
               enough enemies or blasphemers on behalf of the God who blessed
               you.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Hand of God",
@@ -2876,7 +2694,7 @@ export const Data = [
             <ul>
               <li>One of the Hands of Aurmir.</li>
               <li>One of the Hands of Badheil.</li>
-              <li>Or a Hand of God Beyonder Characteristic.</li>
+              <li>Or A Hand of God Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2890,15 +2708,13 @@ export const Data = [
               <li>A flower blooming in a True God's Divine Kingdom.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Swear allegiance to a certain god or become a Servant of the River
               Styx.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Twilight Giant",
@@ -2920,15 +2736,13 @@ export const Data = [
               <li>The Remains of a True God.</li>
             </ul>
 
-            <p>Ritual:</p>
+            <p>Advancement Ritual:</p>
             <p>
               Witness and participate in the entire process of a race or
               continent from its rise to its decline and eventual extinction.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -2957,7 +2771,7 @@ export const Data = [
             <ul>
               <li>1 Cornea from a Nightmare Evil Eye.</li>
               <li>1 piece of a Cursed Crystal.</li>
-              <li>Or a Mystery Pryer Beyonder Characteristic.</li>
+              <li>Or A Mystery Pryer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2969,8 +2783,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Melee Scholar",
@@ -2982,7 +2794,7 @@ export const Data = [
             <ul>
               <li>The spine of an Iron-Armed Therianthrope.</li>
               <li>The heart of a Four-Eyed Green Turtle.</li>
-              <li>Or a Melee Scholar Beyonder Characteristic.</li>
+              <li>Or A Melee Scholar Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -2994,8 +2806,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Warlock",
@@ -3007,7 +2817,7 @@ export const Data = [
             <ul>
               <li>1 Deer-headed Therianthrope's Antlers.</li>
               <li>1 Eyeball of a Grandmother Gray Bird.</li>
-              <li>Or a Warlock Beyonder Characteristic.</li>
+              <li>Or A Warlock Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3019,8 +2829,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Scrolls Professor",
@@ -3032,7 +2840,7 @@ export const Data = [
             <ul>
               <li>Tree Heart of a Treant Priest.</li>
               <li>Illusory Eye of a Paper Demon.</li>
-              <li>Or a Scrolls Professor Beyonder Characteristic.</li>
+              <li>Or A Scrolls Professor Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3047,8 +2855,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Constellations Master",
@@ -3060,7 +2866,7 @@ export const Data = [
             <ul>
               <li>The Cerebrum of a Star Patterned Monster.</li>
               <li>1 Destiny Crystal.</li>
-              <li>Or a Constellations Master Beyonder Characteristic.</li>
+              <li>Or A Constellations Master Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3073,14 +2879,12 @@ export const Data = [
 
             <p>Advancement Ritual:</p>
             <p>
-              Select, observe, and draw a complete picture of a star
+              To Select, observe, and draw a complete picture of a star
               constellation, recreating its true appearance, and mastering all
               the corresponding mysticism knowledge.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Mysticologist",
@@ -3092,7 +2896,7 @@ export const Data = [
             <ul>
               <li>1 Scalp of an Arcane Spirit.</li>
               <li>1 Eye of Evil God’s Pupil.</li>
-              <li>Or a Mysticologist Beyonder Characteristic.</li>
+              <li>Or A Mysticologist Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3110,8 +2914,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Clairvoyant",
@@ -3123,7 +2925,7 @@ export const Data = [
             <ul>
               <li>Eyeballs of a Stargazer.</li>
               <li>Stardust Skin of a Treant High Priest.</li>
-              <li>Or a Clairvoyant Beyonder Characteristic.</li>
+              <li>Or A Clairvoyant Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3140,12 +2942,10 @@ export const Data = [
             <p>Advancement Ritual:</p>
             <p>
               Gather a vast amount of information, analyze, deduce, and divine
-              to predict a certain event that will occur three years later.
+              to 'Clairvoy' a certain event that will occur three years later.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Sage",
@@ -3157,7 +2957,7 @@ export const Data = [
             <ul>
               <li>Crystal of an Ancient Fantasy Demon.</li>
               <li>Tentacle of the Mind Wanderer.</li>
-              <li>Or a Sage Beyonder Characteristic.</li>
+              <li>Or A Sage Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3174,8 +2974,6 @@ export const Data = [
             <p>Prevent a disaster that involves a higher level of power.</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Knowledge Emperor",
@@ -3209,8 +3007,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Hermit",
@@ -3240,8 +3036,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -3264,7 +3058,7 @@ export const Data = [
             <ul>
               <li>Tail of a Colorful Carp.</li>
               <li>One Silver Four-leaf Clover.</li>
-              <li>Or a Monster Beyonder Characteristic.</li>
+              <li>Or A Monster Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3277,8 +3071,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Robot",
@@ -3290,21 +3082,19 @@ export const Data = [
             <ul>
               <li>One piece of Orange-glow Stone.</li>
               <li>Crystal of a Young Unicorn.</li>
-              <li>Or a Robot Beyonder Characteristic.</li>
+              <li>Or A Robot Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>80 milliliters of Young Unicorn Blood.</li>
-              <li>10 Snake Scales (preferably white or silver).</li>
+              <li>10 Snake Scales.</li>
               <li>7 drops of White Chestnut Flower essential oil.</li>
               <li>9 Lemon Grass Stems.</li>
               <li>13 grams of Iron Rust.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Lucky One",
@@ -3316,7 +3106,7 @@ export const Data = [
             <ul>
               <li>One flower of good fortune.</li>
               <li>Eyeball of a Silver-eyed Serpent.</li>
-              <li>Or a Lucky One Beyonder Characteristic.</li>
+              <li>Or A Lucky One Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3330,8 +3120,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Calamity Priest",
@@ -3343,7 +3131,7 @@ export const Data = [
             <ul>
               <li>Heart of a Blue-spotted Firebird.</li>
               <li>Snake tail of a One-eyed White Bull.</li>
-              <li>Or a Calamity Priest Beyonder Characteristic.</li>
+              <li>Or A Calamity Priest Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3356,8 +3144,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Winner",
@@ -3369,7 +3155,7 @@ export const Data = [
             <ul>
               <li>One piece of Divine-blessed Crystal.</li>
               <li>Heartwood of a Red-flame Treant.</li>
-              <li>Or a Winner Beyonder Characteristic.</li>
+              <li>Or A Winner Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3383,13 +3169,11 @@ export const Data = [
 
             <p>Advancement Ritual:</p>
             <p>
-              For a full month, remain in an unlucky state—absolutely no
+              For A full month, remain in an unlucky state—absolutely no
               instances of good fortune.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Misfortune Mage",
@@ -3401,7 +3185,7 @@ export const Data = [
             <ul>
               <li>Brain of a Four-eared Giant Ape.</li>
               <li>Horn of an Adult Unicorn.</li>
-              <li>Or a Misfortune Mage Beyonder Characteristic.</li>
+              <li>Or A Misfortune Mage Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3423,8 +3207,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Chaoswalker",
@@ -3436,7 +3218,7 @@ export const Data = [
             <ul>
               <li>Crystal Core of a Calamity Phoenix.</li>
               <li>Gall of a Misfortune White Snake.</li>
-              <li>Or a Chaoswalker Beyonder Characteristic.</li>
+              <li>Or A Chaoswalker Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3460,8 +3242,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Soothsayer",
@@ -3475,14 +3255,14 @@ export const Data = [
                 Horn of a Fate Grey Tiger, or the Heart of a Scale-covered
                 Treant Elder.
               </li>
-              <li>Or a Soothsayer Beyonder Characteristic.</li>
+              <li>Or A Soothsayer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
                 100 milliliters of Fate Grey Tiger blood, or Scale-covered
-                Treant Elder sap, or a corresponding Angel's blood.
+                Treant Elder sap, Or A corresponding Angel's blood.
               </li>
               <li>
                 One important prophecy that has been fulfilled (recorded before
@@ -3502,8 +3282,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Snake of Mercury",
@@ -3517,7 +3295,7 @@ export const Data = [
                 The Crystal Core of a Mercury Phoenix, or the Crystal Core of a
                 Mercury Giant Serpent.
               </li>
-              <li>Or a Snake of Mercury Beyonder Characteristic.</li>
+              <li>Or A Snake of Mercury Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3525,8 +3303,7 @@ export const Data = [
               <li>One's own umbilical cord from birth or eggshell remnants.</li>
               <li>
                 9 drops of "water" closely related to oneself extracted via a
-                special method from the River of Fate (each drop is a segment of
-                fate).
+                special method from the River of Fate.
               </li>
               <li>
                 One item contaminated by the Gray Fog of the Sefirah Castle.
@@ -3543,8 +3320,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Wheel of Fortune",
@@ -3563,10 +3338,7 @@ export const Data = [
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>
-                Nine beacons from the River of Fate (from the past, present, or
-                future).
-              </li>
+              <li>Nine beacons from the River of Fate.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -3578,8 +3350,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -3623,7 +3393,7 @@ export const Data = [
             <ul>
               <li>A Matured Manhal Fish's Eyeball.</li>
               <li>35 milliliters of Goat-Horned Blackfish Blood.</li>
-              <li>Or a Spectator Beyonder Characteristic.</li>
+              <li>Or A Spectator Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3635,8 +3405,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Telepathist",
@@ -3646,15 +3414,9 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>
-                Rainbow Salamander (Phantom Netherdrake)'s complete pituitary
-                gland.
-              </li>
-              <li>
-                10 milliliters of a Farsman Rabbit (Half Specter Rabbit)'s
-                spinal fluid.
-              </li>
-              <li>Or a Telepathist Beyonder Characteristic.</li>
+              <li>Rainbow Salamander's complete pituitary gland.</li>
+              <li>10 milliliters of a Farsman Rabbit's spinal fluid.</li>
+              <li>Or A Telepathist Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3666,8 +3428,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Psychiatrist",
@@ -3679,7 +3439,7 @@ export const Data = [
             <ul>
               <li>The fruit of the Tree of Elders.</li>
               <li>A pair of eyes from a Mirror Dragon.</li>
-              <li>Or a Psychiatrist Beyonder Characteristic.</li>
+              <li>Or A Psychiatrist Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3691,8 +3451,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Hypnotist",
@@ -3706,11 +3464,10 @@ export const Data = [
                 The complete pituitary gland of an adolescent Mind Dragon.
               </li>
               <li>
-                Or 60 milliliters of a Black-hunting Giant Lizard's spinal
-                fluid.
+                Or 60 milliliters of a Black-hunting Giant Lizard's spinal fluid
+                and The fruit of an Illusory Chime Tree.
               </li>
-              <li>The fruit of an Illusory Chime Tree.</li>
-              <li>Or a Hypnotist Beyonder Characteristic.</li>
+              <li>Or A Hypnotist Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3728,8 +3485,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Dreamwalker",
@@ -3740,9 +3495,9 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>An adult Mind Dragon’s complete brain.</li>
-              <li>Or a Dream Catcher's Heart.</li>
+              <li>Or A Dream Catcher's Heart.</li>
               <li>Mind Illusion Crystal.</li>
-              <li>Or a Dreamwalker Beyonder Characteristic.</li>
+              <li>Or A Dreamwalker Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3767,8 +3522,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Manipulator",
@@ -3780,7 +3533,7 @@ export const Data = [
             <ul>
               <li>A complete brain of an Elderly Mind Dragon.</li>
               <li>Or Crystalline heart of a Tree Mentor.</li>
-              <li>Or a Manipulator Beyonder Characteristic.</li>
+              <li>Or A Manipulator Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3800,8 +3553,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Dream Weaver",
@@ -3813,7 +3564,7 @@ export const Data = [
             <ul>
               <li>The crystalline heart of the Treant King.</li>
               <li>Or the complete brain of a Dream Dragon.</li>
-              <li>Or a Dream Weaver Beyonder Characteristic.</li>
+              <li>Or A Dream Weaver Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3836,8 +3587,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Discerner",
@@ -3850,7 +3599,7 @@ export const Data = [
               <li>
                 The Pale heart of Ariehogg or another Ancient Mind Dragon.
               </li>
-              <li>Or a Discerner Beyonder Characteristic.</li>
+              <li>Or A Discerner Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3864,7 +3613,7 @@ export const Data = [
                 9 Black Flowers representing the Deepest, Most Vile, Most
                 Terrifying Parts of the Human Heart.
               </li>
-              <li>1 Feather of the Solar Divine Bird (non-tail feather).</li>
+              <li>1 Feather of the Solar Divine Bird.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -3875,8 +3624,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Author",
@@ -3887,7 +3634,7 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>The Quill of Alzuhod.</li>
-              <li>Or a Author Beyonder Characteristic.</li>
+              <li>Or An Author Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -3913,8 +3660,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Visionary",
@@ -3943,8 +3688,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -3986,22 +3729,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Singing Black Mushroom</li>
-              <li>Darkness Bat</li>
-              <li>Or a Secrets Suppliant Beyonder Characteristic</li>
+              <li>Singing Black Mushroom.</li>
+              <li>Darkness Bat.</li>
+              <li>Or A Secrets Suppliant Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Red Wine</li>
-              <li>1 segment of Church-blessed Candle</li>
-              <li>1 Poisonous Mushroom</li>
-              <li>10 grams of Verbena Powder</li>
+              <li>100 milliliters of Red Wine.</li>
+              <li>1 segment of Church-blessed Candle.</li>
+              <li>1 Poisonous Mushroom.</li>
+              <li>10 grams of Verbena Powder.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Listener",
@@ -4011,24 +3752,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Ear of a Black Cat of Misfortune</li>
-              <li>
-                Heart of a Burrow Crawler (a pangolin-like Beyonder creature)
-              </li>
-              <li>Or a Listener Beyonder Characteristic</li>
+              <li>Ear of a Black Cat of Misfortune.</li>
+              <li>Heart of a Burrow Crawler.</li>
+              <li>Or A Listener Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Red Wine</li>
-              <li>1 portion of Bread</li>
-              <li>Heart of a Black Cat of Misfortune</li>
-              <li>10 drops of Begonia Flower Essential Oil</li>
+              <li>100 milliliters of Red Wine.</li>
+              <li>1 portion of Bread.</li>
+              <li>Heart of a Black Cat of Misfortune.</li>
+              <li>10 drops of Begonia Flower Essential Oil.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Shadow Ascetic",
@@ -4038,22 +3775,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Shadow Worm</li>
-              <li>Horn of a Blood-Eyed Black Goat</li>
-              <li>Or a Shadow Ascetic Beyonder Characteristic</li>
+              <li>Shadow Worm.</li>
+              <li>Horn of a Blood-Eyed Black Goat.</li>
+              <li>Or A Shadow Ascetic Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Another’s Blood</li>
-              <li>Tail of a Blood-Eyed Black Goat</li>
-              <li>1 Item that has Desecrated a Church (any type)</li>
-              <li>10 drops of Wild Rose Hydrosol</li>
+              <li>100 milliliters of Another’s Blood.</li>
+              <li>Tail of a Blood-Eyed Black Goat.</li>
+              <li>1 Item that has Desecrated a Church.</li>
+              <li>10 drops of Wild Rose Hydrosol.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Rose Bishop",
@@ -4063,24 +3798,22 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Immortal Flesh Fungus</li>
-              <li>Largest Fragment of a Vengeful Specter</li>
-              <li>Or a Rose Bishop Beyonder Characteristic</li>
+              <li>Immortal Flesh Fungus.</li>
+              <li>Largest Fragment of a Vengeful Specter.</li>
+              <li>Or A Rose Bishop Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of One's Own Blood</li>
+              <li>100 milliliters of One's Own Blood.</li>
               <li>
-                1 segment of Symbiotic Vine from the Immortal Flesh Fungus
+                1 segment of Symbiotic Vine from the Immortal Flesh Fungus.
               </li>
-              <li>1 portion of Residual Powder from the Vengeful Specter</li>
-              <li>10 grams of Cinnamon</li>
+              <li>1 portion of Residual Powder from the Vengeful Specter.</li>
+              <li>10 grams of Cinnamon.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Shepherd",
@@ -4090,17 +3823,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Crystallized Bloody Scarecrow</li>
-              <li>Brain of a Herd Keeper</li>
-              <li>Or a Shepherd Beyonder Characteristic</li>
+              <li>Crystallized Bloody Scarecrow.</li>
+              <li>Brain of a Herd Keeper.</li>
+              <li>Or A Shepherd Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>80 milliliters of Herd Keeper’s Blood</li>
-              <li>7 strands of Bloody Scarecrow Straw</li>
-              <li>1 Whip that has Flogged at least 100 People</li>
-              <li>10 grams of Marigold Balm</li>
+              <li>80 milliliters of Herd Keeper’s Blood.</li>
+              <li>7 strands of Bloody Scarecrow Straw.</li>
+              <li>1 Whip that has Flogged at least 100 People.</li>
+              <li>10 grams of Marigold Balm.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4111,8 +3844,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Black Knight",
@@ -4122,17 +3853,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Remnant Curtain of a Shadow Knight</li>
-              <li>Flesh and Blood Condensation of a Griegel</li>
-              <li>Or a Black Knight Beyonder Characteristic</li>
+              <li>Remnant Curtain of a Shadow Knight.</li>
+              <li>Flesh and Blood Condensation of a Griegel.</li>
+              <li>Or A Black Knight Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Shadow Traces of a Griegel</li>
-              <li>Black Liquid of a Shadow Knight</li>
-              <li>1 drop of Blood from Each Ritual Participant</li>
-              <li>10 drops of Lemon Balm Essential Oil</li>
+              <li>Shadow Traces of a Griegel.</li>
+              <li>Black Liquid of a Shadow Knight.</li>
+              <li>1 drop of Blood from Each Ritual Participant.</li>
+              <li>10 drops of Lemon Balm Essential Oil.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4142,8 +3873,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Trinity Templar",
@@ -4153,17 +3882,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Skull of a Herd Sovereign</li>
-              <li>Heart of a Griegel Chieftain</li>
-              <li>Or a Trinity Templar Beyonder Characteristic</li>
+              <li>Skull of a Herd Sovereign.</li>
+              <li>Heart of a Griegel Chieftain.</li>
+              <li>Or A Trinity Templar Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Herd Sovereign’s blood</li>
-              <li>Eyes of a Griegel Chieftain</li>
-              <li>1 Soul-Sealed Stone (100 trapped spirits)</li>
-              <li>30 grams of Fennel</li>
+              <li>100 milliliters of Herd Sovereign’s blood.</li>
+              <li>Eyes of a Griegel Chieftain.</li>
+              <li>1 Soul-Sealed Stone (100 trapped spirits).</li>
+              <li>30 grams of Fennel.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4173,8 +3902,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Profane Presbyter",
@@ -4184,20 +3911,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Pus of the Shadow King</li>
-              <li>Crystal of the Flesh Monarch</li>
-              <li>Or a Profane Presbyter Beyonder Characteristic</li>
+              <li>Pus of the Shadow King.</li>
+              <li>Crystal of the Flesh Monarch.</li>
+              <li>Or A Profane Presbyter Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Residual Powder from the Shadow King</li>
-              <li>100 milliliters of Blood of the Flesh Monarch</li>
-              <li>50 grams of Flesh of the Flesh Monarch</li>
-              <li>
-                1 Self-created, Century-old Legend related to Degeneracy
-                (written on paper)
-              </li>
+              <li>Residual Powder from the Shadow King.</li>
+              <li>100 milliliters of Blood of the Flesh Monarch.</li>
+              <li>50 grams of Flesh of the Flesh Monarch.</li>
+              <li>1 Self-created, Century-old Legend related to Degeneracy.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4208,8 +3932,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Dark Angel",
@@ -4219,25 +3941,23 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Shadow or two Hands of Sasrir</li>
-              <li>Or a Dark Angel Beyonder Characteristic</li>
+              <li>The Shadow or two Hands of Sasrir.</li>
+              <li>Or A Dark Angel Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
                 1 Holy Scripture of the Primordial God Almighty or Ancient Sun
-                God
+                God.
               </li>
               <li>
                 50 grams of Flesh and Blood from Angels of the Sun, Tyrant,
-                White Tower, or Visionary Pathways (only 2 Pathways required)
+                White Tower, or Visionary Pathways.
               </li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Hanged Man",
@@ -4247,16 +3967,16 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Hanged Man Uniqueness</li>
+              <li>The Hanged Man Uniqueness.</li>
               <li>
                 All other Dark Angel Beyonder Characteristics apart from one's
-                own
+                own.
               </li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>The Shadow World</li>
+              <li>The Shadow World.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4266,8 +3986,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -4299,22 +4017,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A desiccated mature Black-spotted Frog</li>
-              <li>Cloth-wrapped Person's Crystal</li>
-              <li>Or a Corpse Collector Beyonder Characteristic</li>
+              <li>A desiccated mature Black-spotted Frog.</li>
+              <li>Cloth-wrapped Person's Crystal.</li>
+              <li>Or A Corpse Collector Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>80 milliliters of repeatedly distilled liquor</li>
-              <li>10 drops of Black-spotted Frog mucus</li>
-              <li>10 drops of Black Lily hydrosol</li>
-              <li>1 used burial shroud</li>
+              <li>80 milliliters of repeatedly distilled liquor.</li>
+              <li>10 drops of Black-spotted Frog mucus.</li>
+              <li>10 drops of Black Lily hydrosol.</li>
+              <li>1 used burial shroud.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Gravedigger",
@@ -4324,22 +4040,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Death-Calling Crow's eyeball</li>
-              <li>1 Cemetery Blood Rose</li>
-              <li>Or a Gravedigger Beyonder Characteristic</li>
+              <li>Death-Calling Crow's eyeball.</li>
+              <li>1 Cemetery Blood Rose.</li>
+              <li>Or A Gravedigger Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of pure alcohol</li>
-              <li>3 Death-Calling Crow feathers</li>
-              <li>5 Cemetery Blood Rose leaves</li>
-              <li>9 drops of Corpse-scented essential oil</li>
+              <li>100 milliliters of pure alcohol.</li>
+              <li>3 Death-Calling Crow feathers.</li>
+              <li>5 Cemetery Blood Rose leaves.</li>
+              <li>9 drops of Corpse-scented essential oil.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Spirit Medium",
@@ -4349,25 +4063,23 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Phantom Cat's forepaw</li>
-              <li>1 piece of Spirit World Crystal</li>
-              <li>Or a Spirit Medium Beyonder Characteristic</li>
+              <li>Phantom Cat's forepaw.</li>
+              <li>1 piece of Spirit World Crystal.</li>
+              <li>Or A Spirit Medium Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>80 milliliters of Phantom Cat blood</li>
-              <li>10 grams of Spirit World Crystal-contaminated soil</li>
+              <li>80 milliliters of Phantom Cat blood.</li>
+              <li>10 grams of Spirit World Crystal-contaminated soil.</li>
               <li>
                 5 milliliters of brain matter from an evil spirit possession
-                victim
+                victim.
               </li>
-              <li>1 leaf blessed by a natural spirit</li>
+              <li>1 leaf blessed by a natural spirit.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Spirit Guide",
@@ -4377,22 +4089,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Shadow of Death</li>
-              <li>Soul of a Pale Lich</li>
-              <li>Or a Spirit Guide Beyonder Characteristic</li>
+              <li>Shadow of Death.</li>
+              <li>Soul of a Pale Lich.</li>
+              <li>Or A Spirit Guide Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of decomposing fluid from the dead</li>
-              <li>Fragmented bones of Pale Lich</li>
-              <li>Object inhabited by Shadow of Death</li>
-              <li>1 lingering Wraith</li>
+              <li>100 milliliters of decomposing fluid from the dead.</li>
+              <li>Fragmented bones of Pale Lich.</li>
+              <li>Object inhabited by Shadow of Death.</li>
+              <li>1 lingering Wraith.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Gatekeeper",
@@ -4402,17 +4112,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Skull of an Underworld Wanderer</li>
-              <li>Crystal core left by a Thousand-Armed Wraith</li>
-              <li>Or a Gatekeeper Beyonder Characteristic</li>
+              <li>Skull of an Underworld Wanderer.</li>
+              <li>Crystal core left by a Thousand-Armed Wraith.</li>
+              <li>Or A Gatekeeper Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of water tainted by aura of death</li>
-              <li>1 piece of rotten flesh from Underworld Wanderer</li>
-              <li>10 grams of residual powder of a Thousand-Armed Wraith</li>
-              <li>10 drops of deep crimson Red Spider Lily essential oil</li>
+              <li>100 milliliters of water tainted by aura of death.</li>
+              <li>1 piece of rotten flesh from Underworld Wanderer.</li>
+              <li>10 grams of residual powder of a Thousand-Armed Wraith.</li>
+              <li>10 drops of deep crimson Red Spider Lily essential oil.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4422,8 +4132,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Undying",
@@ -4433,23 +4141,23 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Gallbladder of a Decaying Feathered Serpent</li>
-              <li>Molt of the Immortal Cicada</li>
-              <li>Or an Undying Beyonder Characteristic</li>
+              <li>Gallbladder of a Decaying Feathered Serpent.</li>
+              <li>Molt of the Immortal Cicada.</li>
+              <li>Or A Undying Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
                 90 milliliters of bodily fluid from the Decaying Feathered
-                Serpent
+                Serpent.
               </li>
               <li>
                 9 pieces of bark from the tree where the Immortal Cicada once
-                resided
+                resided.
               </li>
-              <li>1 Eternal Darkness Stone</li>
-              <li>1 Pale Red Spider Lily</li>
+              <li>1 Eternal Darkness Stone.</li>
+              <li>1 Pale Red Spider Lily.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4461,8 +4169,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Ferryman",
@@ -4472,20 +4178,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Pus Core of a Styx Servant</li>
-              <li>Or the brain of an adult Feathered Serpent</li>
-              <li>Or a Ferryman Beyonder Characteristic</li>
+              <li>Pus Core of a Styx Servant.</li>
+              <li>Or the brain of an adult Feathered Serpent.</li>
+              <li>Or A Ferryman Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>90 milliliters of your own blood</li>
+              <li>90 milliliters of your own blood.</li>
               <li>
                 9 drops of pus from a Styx Servant (or 9 feathers from an adult
-                Feathered Serpent)
+                Feathered Serpent).
               </li>
-              <li>One undead being from the depths of the Underworld</li>
-              <li>A flower blooming from your decayed flesh</li>
+              <li>One undead being from the depths of the Underworld.</li>
+              <li>A flower blooming from your decayed flesh.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4495,8 +4201,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Death Consul",
@@ -4506,16 +4210,18 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Skull of an Ancient Feathered Serpent</li>
-              <li>Or a Death Consul Beyonder Characteristic</li>
+              <li>Skull of an Ancient Feathered Serpent.</li>
+              <li>Or A Death Consul Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>90 milliliters of fluid from an Ancient Feathered Serpent</li>
-              <li>A coffin that once held your own body</li>
-              <li>A crown that once symbolized royal authority</li>
-              <li>A pale object from the depths of the Underworld</li>
+              <li>
+                90 milliliters of fluid from an Ancient Feathered Serpent.
+              </li>
+              <li>A coffin that once held your own body.</li>
+              <li>A crown that once symbolized royal authority.</li>
+              <li>A pale object from the depths of the Underworld.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4526,8 +4232,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Pale Emperor",
@@ -4537,16 +4241,16 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The left claw of Gregrace</li>
-              <li>Or the right eye of Salinger</li>
-              <li>Or a Pale Emperor Beyonder Characteristic</li>
+              <li>The left claw of Gregrace.</li>
+              <li>Or the right eye of Salinger.</li>
+              <li>Or A Pale Emperor Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>9 drops of Underworld River water</li>
-              <li>1 Angel corpse (without Beyonder Characteristics)</li>
-              <li>1 Inverted Mausoleum</li>
+              <li>9 drops of Underworld River water.</li>
+              <li>1 Angel corpse.</li>
+              <li>1 Inverted Mausoleum.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4556,8 +4260,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Death",
@@ -4567,10 +4269,10 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Death Uniqueness</li>
+              <li>The Death Uniqueness.</li>
               <li>
                 All other Pale Emperor Beyonder Characteristics apart from one's
-                own
+                own.
               </li>
             </ul>
 
@@ -4578,7 +4280,7 @@ export const Data = [
             <ul>
               <li>
                 An area polluted and influenced by a tributary of the River of
-                Eternal Darkness
+                Eternal Darkness.
               </li>
             </ul>
 
@@ -4589,8 +4291,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -4617,22 +4317,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>One Stone of Silence</li>
-              <li>Blood Source of a Mimic Human</li>
-              <li>Or a Prisoner Beyonder Characteristic</li>
+              <li>One Stone of Silence.</li>
+              <li>Blood Source of a Mimic Human.</li>
+              <li>Or A Prisoner Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>80 milliliters of dirty water</li>
-              <li>Byproducts from a Stone of Silence</li>
-              <li>10 strands of Mimic Human's hair</li>
-              <li>10 drops of Cedar essential oil</li>
+              <li>80 milliliters of dirty water.</li>
+              <li>Byproducts from a Stone of Silence.</li>
+              <li>10 strands of Mimic Human's hair.</li>
+              <li>10 drops of Cedar essential oil.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Lunatic",
@@ -4642,22 +4340,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Shapeshifter's brain</li>
-              <li>A Cannibal Dog's tongue</li>
-              <li>Or a Lunatic Beyonder Characteristic</li>
+              <li>A Shapeshifter's brain.</li>
+              <li>A Cannibal Dog's tongue.</li>
+              <li>Or A Lunatic Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of one's own blood</li>
-              <li>The face of Shapeshifter</li>
-              <li>13 drops of Cannibal Dog's saliva</li>
-              <li>1 dried whole orange peel</li>
+              <li>100 milliliters of one's own blood.</li>
+              <li>The face of Shapeshifter.</li>
+              <li>13 drops of Cannibal Dog's saliva.</li>
+              <li>1 dried whole orange peel.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Werewolf",
@@ -4667,21 +4363,19 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>One Werewolf fangs</li>
-              <li>Or a Werewolf Beyonder Characteristic</li>
+              <li>One Werewolf fangs.</li>
+              <li>Or A Werewolf Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Werewolf blood</li>
-              <li>10 strands of Werewolf black hair</li>
-              <li>1 portion of a Human's internal organs</li>
-              <li>1 cursed item</li>
+              <li>100 milliliters of Werewolf blood.</li>
+              <li>10 strands of Werewolf black hair.</li>
+              <li>1 portion of a Human's internal organs.</li>
+              <li>1 cursed item.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Zombie",
@@ -4691,21 +4385,19 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The heart of a Zombie</li>
-              <li>Or a Zombie Beyonder Characteristic</li>
+              <li>The heart of a Zombie.</li>
+              <li>Or A Zombie Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>90 grams of flesh and blood from a living person</li>
-              <li>30 grams of flesh and blood from a Zombie</li>
-              <li>1 Zombie eyeball</li>
-              <li>3 Moonflowers</li>
+              <li>90 grams of flesh and blood from a living person.</li>
+              <li>30 grams of flesh and blood from a Zombie.</li>
+              <li>1 Zombie eyeball.</li>
+              <li>3 Moonflowers.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Wraith",
@@ -4715,17 +4407,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The consciousness crystal of a Wraith</li>
-              <li>Or a Wraith Beyonder Characteristic</li>
+              <li>The consciousness crystal of a Wraith.</li>
+              <li>Or A Wraith Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Wraith blood</li>
-              <li>100 milliliters of cold water contaminated by a Wraith</li>
-              <li>10 grams of dust left behind by a Wraith</li>
-              <li>1 mirror</li>
-              <li>9 human or supernatural souls</li>
+              <li>100 milliliters of Wraith blood.</li>
+              <li>100 milliliters of cold water contaminated by a Wraith.</li>
+              <li>10 grams of dust left behind by a Wraith.</li>
+              <li>1 mirror.</li>
+              <li>9 human or supernatural souls.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4736,8 +4428,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Puppet",
@@ -4747,21 +4437,21 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Puppet's eyes</li>
-              <li>Or a Puppet Beyonder Characteristic</li>
+              <li>A Puppet's eyes.</li>
+              <li>Or A Puppet Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
-                90 milliliters of blood from a person who died from a curse
+                90 milliliters of blood from a person who died from a curse.
               </li>
-              <li>13 strands of Puppet hair</li>
+              <li>13 strands of Puppet hair.</li>
               <li>
-                1 piece of clothing worn by a Puppet or a frequently used item
+                1 piece of clothing worn by a Puppet Or A frequently used item.
               </li>
               <li>
-                1 set of shackles or similar used to imprison the deceased
+                1 set of shackles or similar used to imprison the deceased.
               </li>
             </ul>
 
@@ -4773,8 +4463,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Disciple of Silence",
@@ -4784,18 +4472,18 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The throat of a Cursed Artifact</li>
-              <li>Or a Disciple of Silence Beyonder Characteristic</li>
+              <li>The throat of a Cursed Artifact.</li>
+              <li>Or A Disciple of Silence Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
-                100 milliliters of mad water contaminated by a Cursed Artifact
+                100 milliliters of mad water contaminated by a Cursed Artifact.
               </li>
-              <li>1 thing cursed by a Cursed Artifact (even if it's dead)</li>
-              <li>1 complete sheepskin or rabbit skin</li>
-              <li>1 Statue of oneself as an Anchor Point</li>
+              <li>1 thing cursed by a Cursed Artifact.</li>
+              <li>1 complete sheepskin or rabbit skin.</li>
+              <li>1 Statue of oneself as an Anchor Point.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4807,8 +4495,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Ancient Bane",
@@ -4818,19 +4504,18 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The spiritual collection of an Ancient Bane</li>
-              <li>Or an Ancient Bane Beyonder Characteristic</li>
+              <li>The spiritual collection of an Ancient Bane.</li>
+              <li>Or A Ancient Bane Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>1 commonly used item of an Ancient Bane</li>
-              <li>9 ancient bones</li>
+              <li>1 commonly used item of an Ancient Bane.</li>
+              <li>9 ancient bones.</li>
+              <li>1 completely eradicated curse.</li>
               <li>
-                1 completely eradicated curse (the longer the curse lasted the
-                better the effect)
+                1 architectural sculpture with connotations of constraint.
               </li>
-              <li>1 architectural sculpture with connotations of constraint</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4840,8 +4525,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Abomination",
@@ -4851,31 +4534,26 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>An Abomination Beyonder Characteristic</li>
+              <li>An Abomination Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
                 9 types of curses and contamination caused by an Abomination to
-                the surroundings
+                the surroundings.
               </li>
-              <li>1 Corpse of a True God's child</li>
+              <li>1 Corpse of a True God's child.</li>
               <li>
-                900 milliliters of blood from a deceased supernatural being
+                900 milliliters of blood from a deceased supernatural being.
               </li>
-              <li>1 item from a broken or corrupted Divine Kingdom</li>
+              <li>1 item from a broken or corrupted Divine Kingdom.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
-            <p>
-              Receive the blessing of a True God (at least the blessing of a
-              King of Angels who had activated or accommodated the Uniqueness).
-            </p>
+            <p>Receive the blessing of a True God.</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Chained",
@@ -4885,16 +4563,16 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Chained Uniqueness</li>
+              <li>The Chained Uniqueness.</li>
               <li>
                 All other Abomination Beyonder Characteristics apart from one's
-                own
+                own.
               </li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>A "Cage" that once imprisoned or sealed a True God</li>
+              <li>A "Cage" that once imprisoned or sealed a True God.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -4907,8 +4585,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -4935,24 +4611,22 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>1 Head of a Savage Dog</li>
-              <li>Crystal Feather of a Murderous Black Crow</li>
-              <li>Or a Criminal Beyonder Characteristic</li>
+              <li>1 Head of a Savage Dog.</li>
+              <li>Crystal Feather of a Murderous Black Crow.</li>
+              <li>Or A Criminal Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>70ml of blood from a "Savage Dog"</li>
-              <li>60ml of blood from "Murderous Black Crow"</li>
+              <li>70ml of blood from a "Savage Dog".</li>
+              <li>60ml of blood from "Murderous Black Crow".</li>
               <li>
-                1 piece of any ill-gotten gain or trophy obtained from a crime
+                1 piece of any ill-gotten gain or trophy obtained from a crime.
               </li>
-              <li>10 drops of tears from a (crime) victim</li>
+              <li>10 drops of tears from a crime victim.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Unwinged Angel",
@@ -4962,25 +4636,23 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The remains from a Rat King</li>
-              <li>1 heart of a Skinless Blood Cat</li>
-              <li>Or a Unwinged Angel Beyonder Characteristic</li>
+              <li>The remains from a Rat King.</li>
+              <li>1 heart of a Skinless Blood Cat.</li>
+              <li>Or An Unwinged Angel Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>40ml of blood from a “Rat King"</li>
-              <li>90ml of blood from a "Skinless Blood Cat"</li>
+              <li>40ml of blood from a “Rat King".</li>
+              <li>90ml of blood from a "Skinless Blood Cat".</li>
               <li>
-                The heart (or a similar organ) of the first ever being murdered
-                by the advancing Beyonder of the same race as the said Beyonder
+                The heart of the first ever being murdered by the advancing
+                Beyonder of the same race as the said Beyonder.
               </li>
-              <li>13 drops of Twin Flower Hydrolat</li>
+              <li>13 drops of Twin Flower Hydrolat.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Serial Killer",
@@ -4990,24 +4662,22 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Beak of a "Man-Eating Vulture"</li>
-              <li>The Fangs of a "Shadow Serpent"</li>
-              <li>Or a Serial Killer Beyonder Characteristic</li>
+              <li>The Beak of a "Man-Eating Vulture".</li>
+              <li>The Fangs of a "Shadow Serpent".</li>
+              <li>Or A Serial Killer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>80ml of blood from a "Man-Eating Vulture"</li>
-              <li>50ml of blood from the "Shadow Serpent"</li>
+              <li>80ml of blood from a "Man-Eating Vulture".</li>
+              <li>50ml of blood from the "Shadow Serpent".</li>
               <li>
-                1 complete skin of a person killed by the concoctor’s hand
+                1 complete skin of a person killed by the concoctor’s hand .
               </li>
-              <li>7 sets of the concoctor's victims' internal organs</li>
+              <li>7 sets of the concoctor's victims' internal organs.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Devil",
@@ -5017,22 +4687,22 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>1 tongue of a "Red-Eyed Evil Panther"</li>
-              <li>1 horn from a "Demon of Magma"</li>
-              <li>Or a Devil Beyonder Characteristic</li>
+              <li>1 tongue of a "Red-Eyed Evil Panther".</li>
+              <li>1 horn from a "Demon of Magma".</li>
+              <li>Or A Devil Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100ml of blood from a "Red-Eyed Evil Leopard"</li>
-              <li>30ml of molten liquid from a “Demon of Magma"</li>
-              <li>10 drops of Black Lily Essence</li>
-              <li>13 fingers left behind by an infant killed by its parents</li>
+              <li>100ml of blood from a "Red-Eyed Evil Leopard".</li>
+              <li>30ml of molten liquid from a “Demon of Magma".</li>
+              <li>10 drops of Black Lily Essence.</li>
+              <li>
+                13 fingers left behind by an infant killed by its parents.
+              </li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Desire Apostle",
@@ -5042,22 +4712,38 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>1 Succubus skin</li>
-              <li>A Son of Sorrow’s eyes</li>
-              <li>Or a Desire Apostle Beyonder Characteristic</li>
+              <li>1 Succubus skin.</li>
+              <li>A Son of Sorrow’s eyes.</li>
+              <li>Or A Desire Apostle Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>60ml of "Succubus" blood</li>
-              <li>70ml of a Son of Sorrow’s blood</li>
-              <li>3 pure white poppies</li>
-              <li>9 types of pituitary glands of intelligent beings</li>
+              <li>60ml of "Succubus" blood.</li>
+              <li>70ml of a Son of Sorrow’s blood.</li>
+              <li>3 pure white poppies.</li>
+              <li>9 types of pituitary glands of intelligent beings.</li>
+            </ul>
+
+            <p>Advancement Ritual:</p>
+            <ul>
+              <li>
+                Serial killings targeting those who have fallen from grace; the
+                minimum is 13 people, the maximum is 49, the more complete the
+                ritual, the greater the chance of advancement.
+              </li>
+              <li>
+                There must be at least a three-day interval between two
+                killings, otherwise it's easy to lose control, the interval also
+                cannot exceed nine days, otherwise the ritual will reset.
+              </li>
+              <li>
+                After each killing, after each part of the ritual, the Devil
+                must devour the victim's internal organs.
+              </li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Demon",
@@ -5067,17 +4753,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Blood Crystal of an "Archdemon"</li>
-              <li>The Reproductive Organs of a "Desire Demon"</li>
-              <li>Or a Demon Beyonder Characteristic</li>
+              <li>The Blood Crystal of an "Archdemon".</li>
+              <li>The Reproductive Organs of a "Desire Demon".</li>
+              <li>Or A Demon Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>130ml of a Desire Devil’s blood</li>
-              <li>1 black heart of an Archdemon</li>
-              <li>1 Sacred Symbol from the Church of a True Deity</li>
-              <li>The hearts of 99 Beyonders</li>
+              <li>130ml of a Desire Devil’s blood.</li>
+              <li>1 black heart of an Archdemon.</li>
+              <li>1 Sacred Symbol from the Church of a True Deity.</li>
+              <li>The hearts of 99 Beyonders.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -5088,8 +4774,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Blatherer",
@@ -5099,19 +4783,19 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The brain of a "Word Devil"</li>
-              <li>The soul stone from a "Demon of Souls"</li>
-              <li>Or a Blatherer Beyonder Characteristic</li>
+              <li>The brain of a "Word Devil".</li>
+              <li>The soul stone from a "Demon of Souls".</li>
+              <li>Or A Blatherer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100ml of "Word Devil's" bodily fluids</li>
-              <li>1 item that contains the curse from a Demon of Souls</li>
-              <li>1 native creature from the Sea of Consciousness</li>
+              <li>100ml of "Word Devil's" bodily fluids.</li>
+              <li>1 item that contains the curse from a Demon of Souls.</li>
+              <li>1 native creature from the Sea of Consciousness.</li>
               <li>
                 9 bottles of tears from those who fell into despair, from
-                different desperate individuals
+                different desperate individuals .
               </li>
             </ul>
 
@@ -5123,8 +4807,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Bloody Archduke",
@@ -5134,9 +4816,9 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The head of a "Demon Prince"</li>
-              <li>The heart of a "Twin Serpent Lord"</li>
-              <li>Or a Bloody Archduke Beyonder Characteristic</li>
+              <li>The head of a "Demon Prince".</li>
+              <li>The heart of a "Twin Serpent Lord".</li>
+              <li>Or A Bloody Archduke Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -5144,12 +4826,12 @@ export const Data = [
               <li>
                 1000ml of a Bloody Archduke's blood (or 500ml of a Demon
                 Prince's acidic blood + 500ml of Twin Serpent Lord's venomous
-                blood)
+                blood).
               </li>
               <li>
-                49 drops of blood from different races, ranks, and identities
+                49 drops of blood from different races, ranks, and identities.
               </li>
-              <li>1 drop of a True Deity’s blood</li>
+              <li>1 drop of a True Deity’s blood.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -5160,8 +4842,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Filthy Monarch",
@@ -5171,28 +4851,39 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Filthy Monarch Beyonder Characteristic</li>
+              <li>A Filthy Monarch Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>1 abomination from a land of ruin, defilement, or curse</li>
-              <li>300ml of blood from an out-of-control Angel</li>
-              <li>9 completely corrupted divine creatures</li>
-              <li>100 souls drowning in desire</li>
+              <li>1 abomination from a land of ruin, defilement, or curse.</li>
+              <li>300ml of blood from an out-of-control Angel.</li>
+              <li>9 completely corrupted divine creatures.</li>
+              <li>100 souls drowning in desire.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
             <p>
-              Corrupt a nation of at least 10 million inhabitants: the Upper
-              Class is controlled by desires, the Lower Class destitute, and the
-              Middle Class in perpetual collapse. Everyone becomes part of the
-              Abyss.
+              Corrupt a nation of at least 10 million inhabitants:
+              <ul>
+                <li>
+                  The Upper Class shall be controlled by desires, everyone of
+                  them becoming a Devil.
+                </li>
+                <li>
+                  The Lower Class becoming destitute and without any hope of
+                  escaping their predicament, ultimately even their own children
+                  and organs become the property of others.
+                </li>
+                <li>
+                  The Middle Class becoming like climbing a series of collapsing
+                  cliffs, watching as their own layer collapses and falls into
+                  the Abyss below, desperately trying to climb upwards in fear.
+                </li>
+              </ul>
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Abyss",
@@ -5202,17 +4893,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Abyss Uniqueness</li>
+              <li>The Abyss Uniqueness.</li>
               <li>
                 All other Filthy Monarch Beyonder Characteristics apart from
-                one's own
+                one's own.
               </li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
-                The corrupted regions of the Sea of Collective Subconsciousness
+                The corrupted regions of the Sea of Collective Subconsciousness.
               </li>
             </ul>
 
@@ -5220,8 +4911,6 @@ export const Data = [
             <p>Transform a Continent into an Abyss.</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -5263,15 +4952,13 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Reader Beyonder Characteristic</li>
+              <li>A Reader Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Student of Ratiocination",
@@ -5281,15 +4968,13 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Student of Ratiocination Beyonder Characteristic</li>
+              <li>A Student of Ratiocination Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Detective",
@@ -5299,15 +4984,13 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Detective Beyonder Characteristic</li>
+              <li>A Detective Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Polymath",
@@ -5317,15 +5000,13 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Polymath Beyonder Characteristic</li>
+              <li>A Polymath Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Mysticism Magister",
@@ -5335,7 +5016,7 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Mysticism Magister Beyonder Characteristic</li>
+              <li>A Mysticism Magister Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -5345,8 +5026,6 @@ export const Data = [
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Prophet",
@@ -5356,7 +5035,7 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Prophet Beyonder Characteristic</li>
+              <li>A Prophet Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -5366,8 +5045,6 @@ export const Data = [
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Cognizer",
@@ -5377,7 +5054,7 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Cognizer Beyonder Characteristic</li>
+              <li>A Cognizer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -5387,8 +5064,6 @@ export const Data = [
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Wisdom Angel",
@@ -5398,7 +5073,7 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Wisdom Angel Beyonder Characteristic</li>
+              <li>A Wisdom Angel Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -5408,8 +5083,6 @@ export const Data = [
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Omniscient Eye",
@@ -5419,7 +5092,7 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>An Omniscient Eye Beyonder Characteristic</li>
+              <li>An Omniscient Eye Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -5429,8 +5102,6 @@ export const Data = [
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - White Tower",
@@ -5440,10 +5111,10 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The White Tower Uniqueness</li>
+              <li>The White Tower Uniqueness.</li>
               <li>
                 All other Omniscient Eye Beyonder Characteristics apart from
-                one's own
+                one's own.
               </li>
             </ul>
 
@@ -5454,8 +5125,6 @@ export const Data = [
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -5487,22 +5156,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>1 Midnight Beauty Flower</li>
-              <li>1 Six-Legged Owl Eyes</li>
-              <li>Or a Sleepless Beyonder Characteristic</li>
+              <li>1 Midnight Beauty Flower.</li>
+              <li>1 Six-Legged Owl Eyes.</li>
+              <li>Or A Sleepless Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>80 milliliters of Hard Liquor</li>
-              <li>10 drops of Ancient Well Water</li>
-              <li>3 Midnight Beauty Flower Leaves</li>
-              <li>1 portion of Coffee Beans or Tea Leaves</li>
+              <li>80 milliliters of Hard Liquor.</li>
+              <li>10 drops of Ancient Well Water.</li>
+              <li>3 Midnight Beauty Flower Leaves.</li>
+              <li>1 portion of Coffee Beans or Tea Leaves.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Midnight Poet",
@@ -5512,24 +5179,22 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Crimson Moon Howler’s Vocal Cords</li>
-              <li>Soul-Snaring Bell Flower</li>
-              <li>Or a Midnight Poet Beyonder Characteristic</li>
+              <li>Crimson Moon Howler’s Vocal Cords.</li>
+              <li>Soul-Snaring Bell Flower.</li>
+              <li>Or A Midnight Poet Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Red Wine</li>
-              <li>7 strands of Crimson Moon Howler’s Hair</li>
+              <li>100 milliliters of Red Wine.</li>
+              <li>7 strands of Crimson Moon Howler’s Hair.</li>
               <li>
-                13 grams of Soil from Soul-Snaring Bell Flower’s growth site
+                13 grams of Soil from Soul-Snaring Bell Flower’s growth site.
               </li>
-              <li>10 grams of Crimson Sandalwood</li>
+              <li>10 grams of Crimson Sandalwood.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Nightmare",
@@ -5539,25 +5204,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Dream-Eating Raven's Heart</li>
-              <li>Nightmare Shadow</li>
-              <li>Or a Nightmare Beyonder Characteristic</li>
+              <li>Dream-Eating Raven's Heart.</li>
+              <li>Nightmare Shadow.</li>
+              <li>Or A Nightmare Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Spirit World Moon Water</li>
-              <li>Dream-Eating Raven's Illusory Feather</li>
-              <li>
-                1 Paper documenting personal nightmares (within the last two
-                weeks)
-              </li>
-              <li>9 drops of Moonflower Hydrosol</li>
+              <li>100 milliliters of Spirit World Moon Water.</li>
+              <li>Dream-Eating Raven's Illusory Feather.</li>
+              <li>1 Paper documenting personal nightmares.</li>
+              <li>9 drops of Moonflower Hydrosol.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Soul Assurer",
@@ -5567,22 +5227,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Rotten Shepherd's Spirit Crystal</li>
-              <li>Exotic Deep-Sleeper's Skull</li>
-              <li>Or a Soul Assurer Beyonder Characteristic</li>
+              <li>Rotten Shepherd's Spirit Crystal.</li>
+              <li>Exotic Deep-Sleeper's Skull.</li>
+              <li>Or A Soul Assurer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>80 milliliters of Blessed Holy Water</li>
-              <li>7 drops of Rotten Shepherd's Pus</li>
-              <li>17 grams of Soil mixed with Exotic Deep-Sleeper's Shadow</li>
-              <li>10 grams of Deep-Sleep Flower Powder</li>
+              <li>80 milliliters of Blessed Holy Water.</li>
+              <li>7 drops of Rotten Shepherd's Pus.</li>
+              <li>17 grams of Soil mixed with Exotic Deep-Sleeper's Shadow.</li>
+              <li>10 grams of Deep-Sleep Flower Powder.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Spirit Warlock",
@@ -5592,17 +5250,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Source of Mad Dreams</li>
-              <li>Spirit Nest</li>
-              <li>Or a Spirit Warlock Beyonder Characteristic</li>
+              <li>Source of Mad Dreams.</li>
+              <li>Spirit Nest.</li>
+              <li>Or A Spirit Warlock Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Source of Mad Dreams' Blood</li>
-              <li>30 milliliters of Spirit Nest Effluvial Gas</li>
-              <li>1 Near-Dissipated Spirit</li>
-              <li>1 Milk Tooth shed during Full Moon</li>
+              <li>100 milliliters of Source of Mad Dreams' Blood.</li>
+              <li>30 milliliters of Spirit Nest Effluvial Gas.</li>
+              <li>1 Near-Dissipated Spirit.</li>
+              <li>1 Milk Tooth shed during Full Moon.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -5619,8 +5277,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Nightwatcher",
@@ -5630,17 +5286,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Dark Brain</li>
-              <li>Malignant Moon Guardian's Heart</li>
-              <li>Or a Nightwatcher Beyonder Characteristic</li>
+              <li>Dark Brain.</li>
+              <li>Malignant Moon Guardian's Heart.</li>
+              <li>Or A Nightwatcher Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>90 milliliters of Malignant Moon Guardian's Blood</li>
-              <li>1 Dark Brain's Contaminant</li>
-              <li>1 Bonfire maintained over 10 years</li>
-              <li>10 drops of Crimson Tree Sap</li>
+              <li>90 milliliters of Malignant Moon Guardian's Blood.</li>
+              <li>1 Dark Brain's Contaminant.</li>
+              <li>1 Bonfire maintained over 10 years.</li>
+              <li>10 drops of Crimson Tree Sap.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -5650,8 +5306,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Horror Bishop",
@@ -5661,19 +5315,19 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Howling Wolf's Skull</li>
-              <li>Underworld Supplicant's Spirit Crystal</li>
-              <li>Or a Horror Bishop Beyonder Characteristic</li>
+              <li>Howling Wolf's Skull.</li>
+              <li>Underworld Supplicant's Spirit Crystal.</li>
+              <li>Or A Horror Bishop Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>70 milliliters of Howling Wolf's Blood</li>
-              <li>10 grams of Underworld Supplicant's Residual Powder</li>
+              <li>70 milliliters of Howling Wolf's Blood.</li>
+              <li>10 grams of Underworld Supplicant's Residual Powder.</li>
               <li>
-                1 set of Residual spirits of nine creatures that died of fear
+                1 set of Residual spirits of nine creatures that died of fear.
               </li>
-              <li>10 drops of Chamomile Essential Oil</li>
+              <li>10 drops of Chamomile Essential Oil.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -5683,8 +5337,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Servant of Concealment",
@@ -5694,18 +5346,18 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Pelt of a Dark Demonic Wolf</li>
-              <li>Or a Servant of Concealment Beyonder Characteristic</li>
+              <li>Pelt of a Dark Demonic Wolf.</li>
+              <li>Or A Servant of Concealment Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>300 milliliters of Dark Demonic Wolf's Blood</li>
+              <li>300 milliliters of Dark Demonic Wolf's Blood.</li>
               <li>
-                1 portion of Spirit World intelligence from a hidden location
+                1 portion of Spirit World intelligence from a hidden location.
               </li>
-              <li>1 Feather of a Feathered Serpent</li>
-              <li>10 drops of Giant's Blood</li>
+              <li>1 Feather of a Feathered Serpent.</li>
+              <li>10 drops of Giant's Blood.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -5719,8 +5371,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Knight of Misfortune",
@@ -5730,29 +5380,27 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Knight of Misfortune Beyonder Characteristic</li>
+              <li>A Knight of Misfortune Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>1 "Fate's Blessing" documented on paper</li>
+              <li>1 "Fate's Blessing" documented on paper.</li>
               <li>
-                1 portion of the aura of the Underworld or Twilight Kingdom
+                1 portion of the aura of the Underworld or Twilight Kingdom.
               </li>
               <li>
-                600 milliliters of one’s own blood shed from a grievous injury
+                600 milliliters of one’s own blood shed from a grievous injury.
               </li>
             </ul>
 
             <p>Advancement Ritual:</p>
             <p>
               Bring Misfortune to either: an Archangel, a civilization, a
-              continent, or a planet.
+              continent, Or A planet.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Darkness",
@@ -5762,29 +5410,25 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Darkness Uniqueness</li>
+              <li>The Darkness Uniqueness.</li>
               <li>
                 All other Knight of Misfortune Beyonder Characteristics apart
-                from one's own
+                from one's own.
               </li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>
-                1 Moon or moon-like celestial body (mystically equivalent)
-              </li>
+              <li>1 Moon or moon-like celestial body.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
             <p>
               Induce eternal slumber upon either: a Uniqueness, a Divine
-              Kingdom, or a True Deity.
+              Kingdom, Or A True Deity.
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -5811,22 +5455,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Horn of an adult Flying Unicorn</li>
-              <li>3 grams of a Royal Jellyfish's Venom Crystal</li>
-              <li>Or a Apothecary Beyonder Characteristic</li>
+              <li>Horn of an adult Flying Unicorn.</li>
+              <li>3 grams of a Royal Jellyfish's Venom Crystal.</li>
+              <li>Or An Apothecary Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of blood from an adult Flying Unicorn</li>
-              <li>7 tentacles of a Royal Jellyfish</li>
-              <li>10 grams of Arsenic powder</li>
-              <li>10 grams of the Rhizome of Black Henbane</li>
+              <li>100 milliliters of blood from an adult Flying Unicorn.</li>
+              <li>7 tentacles of a Royal Jellyfish.</li>
+              <li>10 grams of Arsenic powder.</li>
+              <li>10 grams of the Rhizome of Black Henbane.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Beast Tamer",
@@ -5836,22 +5478,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Spring of the Elves Marrow Crystal</li>
-              <li>Fruit of the King Sword Flower</li>
-              <li>Or a Beast Tamer Beyonder Characteristic</li>
+              <li>A Spring of the Elves Marrow Crystal.</li>
+              <li>Fruit of the King Sword Flower.</li>
+              <li>Or A Beast Tamer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of water from the Spring of the Elves</li>
-              <li>1 flower of the King Sword Flower</li>
-              <li>10 drops of Wild Eggplant extract</li>
-              <li>10 grams of Animal Corpse oil</li>
+              <li>100 milliliters of water from the Spring of the Elves.</li>
+              <li>1 flower of the King Sword Flower.</li>
+              <li>10 drops of Wild Eggplant extract.</li>
+              <li>10 grams of Animal Corpse oil.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Vampire",
@@ -5861,23 +5501,21 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Blood Essence of a True Sanguine</li>
-              <li>Heart of the Bloodthirsty Beast</li>
-              <li>Head of the Red-headed Bat</li>
-              <li>Or a Vampire Beyonder Characteristic</li>
+              <li>Blood Essence of a True Sanguine.</li>
+              <li>Heart of the Bloodthirsty Beast.</li>
+              <li>Head of the Red-headed Bat.</li>
+              <li>Or A Vampire Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of blood of the Bloodthirsty Beast</li>
-              <li>3 teeth of the Red-headed Bat</li>
-              <li>10 hairs of the Long-eared Rabbit</li>
-              <li>10 drops of Osmanthus Flower pure water</li>
+              <li>100 milliliters of blood of the Bloodthirsty Beast.</li>
+              <li>3 teeth of the Red-headed Bat.</li>
+              <li>10 hairs of the Long-eared Rabbit.</li>
+              <li>10 drops of Osmanthus Flower pure water.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Potions Professor",
@@ -5889,24 +5527,22 @@ export const Data = [
             <ul>
               <li>
                 The Legacy of a Sanguine Baron or Artificial Vampire of this
-                sequence
+                sequence.
               </li>
-              <li>The Brain of a Giant Monster Sage</li>
-              <li>The Wings of a Dark Bat</li>
-              <li>Or a Potions Professor Beyonder Characteristic</li>
+              <li>The Brain of a Giant Monster Sage.</li>
+              <li>The Wings of a Dark Bat.</li>
+              <li>Or A Potions Professor Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of blood of the Giant Monster Sage</li>
-              <li>7 hairs of the Dark Bat</li>
-              <li>10 drops of June Snow essential oil</li>
-              <li>A potion invented by oneself</li>
+              <li>100 milliliters of blood of the Giant Monster Sage.</li>
+              <li>7 hairs of the Dark Bat.</li>
+              <li>10 drops of June Snow essential oil.</li>
+              <li>A potion invented by oneself.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Scarlet Scholar",
@@ -5918,21 +5554,22 @@ export const Data = [
             <ul>
               <li>
                 The Legacy of a Sanguine Viscount or Artificial Vampire of this
-                sequence
+                sequence.
               </li>
-              <li>The Blood Crystals of a Moon-worshipping Monster</li>
-              <li>The Wings of an Elderly Bat</li>
-              <li>Or a Scarlet Scholar Beyonder Characteristic</li>
+              <li>The Blood Crystals of a Moon-worshipping Monster.</li>
+              <li>The Wings of an Elderly Bat.</li>
+              <li>Or A Scarlet Scholar Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>Heart of a Moon-worshipping Monster</li>
-              <li>Eye of an Elder Bat</li>
+              <li>Heart of a Moon-worshipping Monster.</li>
+              <li>Eye of an Elder Bat.</li>
               <li>
-                100 milliliters of water illuminated by a Blood Moon seven times
+                100 milliliters of water illuminated by a Blood Moon seven
+                times.
               </li>
-              <li>10 drops of pure water made from Crimson Ode</li>
+              <li>10 drops of pure water made from Crimson Ode.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -5945,8 +5582,6 @@ export const Data = [
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Shaman King",
@@ -5958,30 +5593,28 @@ export const Data = [
             <ul>
               <li>
                 The Legacy of a Sanguine Earl or Artificial Vampire of the same
-                Sequence
+                Sequence.
               </li>
-              <li>Or the Consciousness Core from a Spring of the Elves</li>
-              <li>The Dust Aggregate from a Dark Spirit of Witchcraft</li>
-              <li>Or a Shaman King Beyonder Characteristic</li>
+              <li>Or the Consciousness Core from a Spring of the Elves.</li>
+              <li>The Dust Aggregate from a Dark Spirit of Witchcraft.</li>
+              <li>Or A Shaman King Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
                 100 milliliters of Golden Spring Water from the Spring of the
-                Elves
+                Elves.
               </li>
-              <li>10 grams of Dark Spirit of Witchcraft Pollutant</li>
-              <li>10 drops of Moonflower Essential Oil</li>
-              <li>The embryo of a Dark Creature</li>
+              <li>10 grams of Dark Spirit of Witchcraft Pollutant.</li>
+              <li>10 drops of Moonflower Essential Oil.</li>
+              <li>The embryo of a Dark Creature.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
             <p>Truly gain the recognition of the "Moon".</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - High Summoner",
@@ -5993,25 +5626,25 @@ export const Data = [
             <ul>
               <li>
                 The Beyonder characteristic of a Sanguine Marquis or the
-                "legacy" of an Artificial Vampire of this Sequence
+                "legacy" of an Artificial Vampire of this Sequence.
               </li>
-              <li>Or a High Summoner Beyonder Characteristic</li>
+              <li>Or A High Summoner Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
                 100 milliliters of blood of a Sanguine Marquis or Artificial
-                Vampire of this sequence
+                Vampire of this sequence.
               </li>
               <li>
                 Three nails of a Sanguine Marquis or Artificial Vampire of this
-                Sequence
+                Sequence.
               </li>
               <li>
-                One item corrupted by the Gray Fog of the "Sefirah Castle"
+                One item corrupted by the Gray Fog of the "Sefirah Castle".
               </li>
-              <li>One "Moon Paper Substitute" of yourself</li>
+              <li>One "Moon Paper Substitute" of yourself.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -6023,8 +5656,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Life-Giver",
@@ -6036,20 +5667,20 @@ export const Data = [
             <ul>
               <li>
                 The Beyonder characteristic of a Sanguine Duke or the "legacy"
-                of an Artificial Vampire of this Sequence
+                of an Artificial Vampire of this Sequence.
               </li>
-              <li>Or a Life-Giver Beyonder Characteristic</li>
+              <li>Or A Life-Giver Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>1 amulet crafted by your mother</li>
-              <li>10 hairs from a blood offspring created by oneself</li>
+              <li>1 amulet crafted by your mother.</li>
+              <li>10 hairs from a blood offspring created by oneself.</li>
               <li>
-                100 milliliters of blood from a Sanguine Duke or an Artificial
-                vampire of this Sequence
+                100 milliliters of blood from a Sanguine Duke Or A Artificial
+                vampire of this Sequence.
               </li>
-              <li>1 Oak Seed</li>
+              <li>1 Oak Seed.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -6060,8 +5691,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Beauty Goddess",
@@ -6071,28 +5700,36 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Beyonder Characteristic of Auernia</li>
-              <li>Or a Beauty Goddess Beyonder Characteristic</li>
+              <li>The Beyonder Characteristic of Auernia.</li>
+              <li>Or A Beauty Goddess Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>The amniotic fluid from one's conception</li>
-              <li>A work of art widely recognized as incomparable</li>
-              <li>The blood of a God's Child</li>
-              <li>A newly sprouted Mistletoe</li>
+              <li>The amniotic fluid from one's conception.</li>
+              <li>A work of art widely recognized as incomparable.</li>
+              <li>The blood of a God's Child.</li>
+              <li>A newly sprouted Mistletoe.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
             <p>
-              Use the "Moon Paper Substitute" to make a substitute, allowing it
-              to act for a long time without being exposed, and be remembered by
-              a large number of creatures, the more the better.
+              <ul>
+                <li>
+                  Use the "Moon Paper Substitute" to make a substitute, allowing
+                  it to act for A long time without being exposed, and be
+                  remembered by a large number of creatures, the more the
+                  better.
+                </li>
+                <li>
+                  The person themselves will lie in a coffin, buried deep
+                  underground for at least three hundred years, and finally the
+                  original body will take the potion.
+                </li>
+              </ul>
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Moon",
@@ -6102,18 +5739,18 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Moon Uniqueness</li>
+              <li>The Moon Uniqueness.</li>
               <li>
                 All other Beauty Goddess Beyonder Characteristics apart from
-                one's own
+                one's own.
               </li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
-                Blood of an offspring of a Great Old One, or an offspring of a
-                Sefirah
+                Blood of an offspring of a Great Old One, Or A offspring of a
+                Sefirah.
               </li>
             </ul>
 
@@ -6125,8 +5762,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -6169,24 +5804,22 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>
-                A Crystal Sunflower, or an Adult Flint Bird's Tail Feather, or a
-                Fire Bird's Tail Feather
+                A Crystal Sunflower, Or A Adult Flint Bird's Tail Feather, or a
+                Fire Bird's Tail Feather.
               </li>
-              <li>A piece of Siren Rock, or a Singing Sunflower</li>
-              <li>Or a Bard Beyonder Characteristic</li>
+              <li>A piece of Siren Rock, Or A Singing Sunflower.</li>
+              <li>Or A Bard Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>80 milliliters of Red Wine</li>
-              <li>A blade of Midsummer Grass</li>
-              <li>5 drops of July Wine Juice</li>
-              <li>A blade of Elf Dark Leaf</li>
+              <li>80 milliliters of Red Wine.</li>
+              <li>A blade of Midsummer Grass.</li>
+              <li>5 drops of July Wine Juice.</li>
+              <li>A blade of Elf Dark Leaf.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Light Suppliant",
@@ -6197,23 +5830,23 @@ export const Data = [
             <p>Main Ingredients:</p>
             <ul>
               <li>
-                A piece of Brilliance Rock, or the Powder of Dazzling Soul
+                A piece of Brilliance Rock, or the Powder of Dazzling Soul.
               </li>
-              <li>Blood of a Mirror Hedgehog, or the Heart of a Magma Titan</li>
-              <li>Or a Light Suppliant Beyonder Characteristic</li>
+              <li>
+                Blood of a Mirror Hedgehog, or the Heart of a Magma Titan.
+              </li>
+              <li>Or A Light Suppliant Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Red Wine</li>
-              <li>A Golden-Rimmed Sunflower</li>
-              <li>3 drops of Aconite Juice</li>
-              <li>An item of Sun Worship</li>
+              <li>100 milliliters of Red Wine.</li>
+              <li>A Golden-Rimmed Sunflower.</li>
+              <li>3 drops of Aconite Juice.</li>
+              <li>An item of Sun Worship.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Solar High Priest",
@@ -6223,22 +5856,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A red comb of a Dawn Rooster</li>
-              <li>1 fruit of a Radiance Spirit Pact Tree</li>
-              <li>Or a Solar High Priest Beyonder Characteristic</li>
+              <li>A red comb of a Dawn Rooster.</li>
+              <li>1 fruit of a Radiance Spirit Pact Tree.</li>
+              <li>Or A Solar High Priest Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of a Dawn Rooster's Blood</li>
-              <li>10 drops of 'Sun' essential oil</li>
-              <li>8 grams of Fingered Citron Powder</li>
-              <li>5 grams of Solidified Magma</li>
+              <li>100 milliliters of a Dawn Rooster's Blood.</li>
+              <li>10 drops of 'Sun' essential oil.</li>
+              <li>8 grams of Fingered Citron Powder.</li>
+              <li>5 grams of Solidified Magma.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Notary",
@@ -6248,22 +5879,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>1 set of crystallized roots of the Tree of Elders</li>
-              <li>5 feathers of a Spirit Pact Bird</li>
-              <li>Or a Notary Beyonder Characteristic</li>
+              <li>1 set of crystallized roots of the Tree of Elders.</li>
+              <li>5 feathers of a Spirit Pact Bird.</li>
+              <li>Or A Notary Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Radiance Spirit Pact Tree's Juice</li>
-              <li>A Golden-Rimmed Sunflower</li>
-              <li>A White-Rimmed Sunflower</li>
-              <li>5 drops of the Aqua Fern Juice</li>
+              <li>100 milliliters of Radiance Spirit Pact Tree's Juice.</li>
+              <li>A Golden-Rimmed Sunflower.</li>
+              <li>A White-Rimmed Sunflower.</li>
+              <li>5 drops of the Aqua Fern Juice.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Priest of Light",
@@ -6273,17 +5902,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The red comb of a King of Dawn Roosters</li>
-              <li>A piece of Pure White Brilliant Rock</li>
-              <li>Or a Priest of Light Beyonder Characteristic</li>
+              <li>The red comb of a King of Dawn Roosters.</li>
+              <li>A piece of Pure White Brilliant Rock.</li>
+              <li>Or A Priest of Light Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>5 grams of Rosemary</li>
-              <li>7 drops of Fingered Citron Juice</li>
-              <li>7 drops of Rock Water</li>
-              <li>60 milliliters of a King of Dawn Roosters' Blood</li>
+              <li>5 grams of Rosemary.</li>
+              <li>7 drops of Fingered Citron Juice.</li>
+              <li>7 drops of Rock Water.</li>
+              <li>60 milliliters of a King of Dawn Roosters' Blood.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -6293,8 +5922,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Unshadowed",
@@ -6304,18 +5931,18 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Or a drop of golden blood from Sequence 0: Sun</li>
-              <li>3 adult Sun Divine Bird's tail feathers</li>
-              <li>A piece of Holy Brilliance Rock</li>
-              <li>Or a Unshadowed Beyonder Characteristic</li>
+              <li>A drop of golden blood from Sequence 0: Sun.</li>
+              <li>3 adult Sun Divine Bird's tail feathers.</li>
+              <li>A piece of Holy Brilliance Rock.</li>
+              <li>Or An Unshadowed Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of a Sun Divine Bird's Blood</li>
-              <li>30 milliliters of Holy Brilliance Rock Liquid</li>
-              <li>7 drops of Mutated Fingered Citron Juice</li>
-              <li>10 grams of Magma Heart Powder</li>
+              <li>100 milliliters of a Sun Divine Bird's Blood.</li>
+              <li>30 milliliters of Holy Brilliance Rock Liquid.</li>
+              <li>7 drops of Mutated Fingered Citron Juice.</li>
+              <li>10 grams of Magma Heart Powder.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -6326,8 +5953,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Justice Mentor",
@@ -6337,18 +5962,18 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Head of a Radiant Giant</li>
-              <li>A deep black tail feather of the Sun Divine Bird King</li>
-              <li>Stamen of the All-Praiser</li>
-              <li>Or a Justice Mentor Beyonder Characteristic</li>
+              <li>Head of a Radiant Giant.</li>
+              <li>A deep black tail feather of the Sun Divine Bird King.</li>
+              <li>Stamen of the All-Praiser.</li>
+              <li>Or A Justice Mentor Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of blood of a Radiant Giant</li>
-              <li>9 petals of the All-Praiser</li>
-              <li>A notebook recording one’s own justice</li>
-              <li>One strand of sunlight each from dawn, noon, and dusk</li>
+              <li>100 milliliters of blood of a Radiant Giant.</li>
+              <li>9 petals of the All-Praiser.</li>
+              <li>A notebook recording one’s own justice.</li>
+              <li>One strand of sunlight each from dawn, noon, and dusk.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -6359,8 +5984,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Lightseeker",
@@ -6370,16 +5993,16 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Heart of the Radiant Giant Leader</li>
-              <li>Or a Lightseeker Beyonder Characteristic</li>
+              <li>Heart of the Radiant Giant Leader.</li>
+              <li>Or A Lightseeker Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>One pair of eyes of the Radiant Giant Leader</li>
-              <li>300 milliliters of blood from the Radiant Giant Leader</li>
-              <li>One self-transcribed holy book praising the Sun</li>
-              <li>Nine types of blood from fallen clergy</li>
+              <li>One pair of eyes of the Radiant Giant Leader.</li>
+              <li>300 milliliters of blood from the Radiant Giant Leader.</li>
+              <li>One self-transcribed holy book praising the Sun.</li>
+              <li>Nine types of blood from fallen clergy.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -6391,8 +6014,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - White Angel",
@@ -6402,20 +6023,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A rib of Aucuses</li>
-              <li>Or a White Angel Beyonder Characteristic</li>
+              <li>A rib of Aucuses.</li>
+              <li>Or A White Angel Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>300 milliliters of one’s own blood</li>
-              <li>One unstable miniature Sun</li>
+              <li>300 milliliters of one’s own blood.</li>
+              <li>One unstable miniature Sun.</li>
               <li>
-                One symbolic artifact representing oneself as a target of faith
+                One symbolic artifact representing oneself as a target of faith.
               </li>
               <li>
                 Angel blood from any one of the following Pathways: Visionary,
-                Tyrant, White Tower, or Hanged Man
+                Tyrant, White Tower, or Hanged Man.
               </li>
             </ul>
 
@@ -6428,8 +6049,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Sun",
@@ -6439,16 +6058,16 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Sun Uniqueness</li>
+              <li>The Sun Uniqueness.</li>
               <li>
                 All other White Angel Beyonder Characteristics apart from one's
-                own
+                own.
               </li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>The concept of the Sun from the Astral World</li>
+              <li>The concept of the Sun from the Astral World.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -6458,8 +6077,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },
@@ -6486,15 +6103,13 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>An Arbiter Beyonder Characteristic</li>
+              <li>An Arbiter Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Sheriff",
@@ -6504,17 +6119,15 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A pair of Terror Demon Worm's eyes</li>
-              <li>Silver War Bear's Right Palm</li>
-              <li>Or a Sheriff Beyonder Characteristic</li>
+              <li>A pair of Terror Demon Worm's eyes.</li>
+              <li>Silver War Bear's Right Palm.</li>
+              <li>Or A Sheriff Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Interrogator",
@@ -6524,17 +6137,15 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The horn of a Flash-patterned Black Snake</li>
-              <li>Dust of a Lake Spirit</li>
-              <li>Or an Interrogator Beyonder Characteristic</li>
+              <li>The horn of a Flash-patterned Black Snake.</li>
+              <li>Dust of a Lake Spirit.</li>
+              <li>Or An Interrogator Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Judge",
@@ -6544,15 +6155,13 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Judge Beyonder Characteristic</li>
+              <li>A Judge Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Disciplinary Paladin",
@@ -6562,7 +6171,7 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Disciplinary Paladin Beyonder Characteristic</li>
+              <li>A Disciplinary Paladin Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -6572,8 +6181,6 @@ export const Data = [
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Imperative Mage",
@@ -6583,7 +6190,7 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>An Imperative Mage Beyonder Characteristic</li>
+              <li>An Imperative Mage Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -6593,8 +6200,6 @@ export const Data = [
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Chaos Hunter",
@@ -6604,7 +6209,7 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Chaos Hunter Beyonder Characteristic</li>
+              <li>A Chaos Hunter Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -6614,8 +6219,6 @@ export const Data = [
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Balancer",
@@ -6625,7 +6228,7 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Balancer Beyonder Characteristic</li>
+              <li>A Balancer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -6635,8 +6238,6 @@ export const Data = [
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Hand of Order",
@@ -6646,7 +6247,7 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Hand of Order Beyonder Characteristic</li>
+              <li>A Hand of Order Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
@@ -6656,8 +6257,6 @@ export const Data = [
             <p>— No data —</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Justiciar",
@@ -6667,10 +6266,10 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Justiciar Symbol2 Justiciar Uniqueness</li>
+              <li>The Justiciar Uniqueness.</li>
               <li>
                 All other Hand of Order Beyonder Characteristics apart from
-                one's own
+                one's own.
               </li>
             </ul>
 
@@ -6707,22 +6306,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The brain of a Golden Gorilla</li>
-              <li>The eyeballs of a Rainbird</li>
-              <li>Or a Planter Beyonder Characteristic</li>
+              <li>The brain of a Golden Gorilla.</li>
+              <li>The eyeballs of a Rainbird.</li>
+              <li>Or A Planter Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>90 milliliters of golden gorilla blood</li>
-              <li>3 feathers of a rainbird</li>
-              <li>9 grains of rice</li>
-              <li>100 grams of bread or 100 grams of rice</li>
+              <li>90 milliliters of golden gorilla blood.</li>
+              <li>3 feathers of a rainbird.</li>
+              <li>9 grains of rice.</li>
+              <li>100 grams of bread or 100 grams of rice.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 8 - Doctor",
@@ -6732,22 +6329,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The green bark of the Blessed Poplar</li>
-              <li>The core of the Water of Life</li>
-              <li>Or a Doctor Beyonder Characteristic</li>
+              <li>The green bark of the Blessed Poplar.</li>
+              <li>The core of the Water of Life.</li>
+              <li>Or A Doctor Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of Water of Life</li>
-              <li>5 leaves of the Blessed Poplar</li>
-              <li>9 different kinds of herbs</li>
-              <li>100 milliliters of oatmeal or similar</li>
+              <li>100 milliliters of Water of Life.</li>
+              <li>5 leaves of the Blessed Poplar.</li>
+              <li>9 different kinds of herbs.</li>
+              <li>100 milliliters of oatmeal or similar.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 7 - Harvest Priest",
@@ -6757,25 +6352,23 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Kidney of a common Harvest Giant</li>
-              <li>A root crystal of the Oak of Life</li>
-              <li>Or a Harvest Priest Beyonder Characteristic</li>
+              <li>Kidney of a common Harvest Giant.</li>
+              <li>A root crystal of the Oak of Life.</li>
+              <li>Or A Harvest Priest Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
                 100 milliliters of cow's milk, goat's milk, or other mammalian
-                milk
+                milk.
               </li>
-              <li>The reproductive organs of a common Harvest Giant</li>
-              <li>One Fruit from an Oak of Life</li>
-              <li>One "Alingga" plant</li>
+              <li>The reproductive organs of a common Harvest Giant.</li>
+              <li>One Fruit from an Oak of Life.</li>
+              <li>One "Alingga" plant.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 6 - Biologist",
@@ -6785,22 +6378,20 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Brain of a Harvest Giant scholar</li>
-              <li>The stomach of a poison bat</li>
-              <li>Or a Biologist Beyonder Characteristic</li>
+              <li>The Brain of a Harvest Giant scholar.</li>
+              <li>The stomach of a poison bat.</li>
+              <li>Or A Biologist Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 milliliters of blood from a poisonous bat</li>
-              <li>The tip of a tongue from a Harvest Giant Scholar</li>
-              <li>9 eggs or embryos from different organisms</li>
-              <li>3 different biological toxins</li>
+              <li>100 milliliters of blood from a poisonous bat.</li>
+              <li>The tip of a tongue from a Harvest Giant Scholar.</li>
+              <li>9 eggs or embryos from different organisms.</li>
+              <li>3 different biological toxins.</li>
             </ul>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 5 - Druid",
@@ -6810,19 +6401,19 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Head of a Harvest Giant Guardian</li>
-              <li>The Spine from a Blessed one of the Trees</li>
-              <li>Or a Druid Beyonder Characteristic</li>
+              <li>Head of a Harvest Giant Guardian.</li>
+              <li>The Spine from a Blessed one of the Trees.</li>
+              <li>Or A Druid Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
-                150 milliliters of the blood of the Harvest Giant Guardian
+                150 milliliters of the blood of the Harvest Giant Guardian.
               </li>
-              <li>A piece of the pelt of a Tree's Chosen</li>
-              <li>A leaf from a 100-year-old oak tree</li>
-              <li>10 drops of animal-friendly perfume</li>
+              <li>A piece of the pelt of a Tree's Chosen.</li>
+              <li>A leaf from a 100-year-old oak tree.</li>
+              <li>10 drops of animal-friendly perfume.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -6833,8 +6424,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 4 - Ancient Alchemist",
@@ -6844,19 +6433,19 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Life Crystal of a Desolate Servant</li>
-              <li>Heart of a Harvest Giant Priest</li>
-              <li>Or an Ancient Alchemist Beyonder Characteristic</li>
+              <li>Life Crystal of a Desolate Servant.</li>
+              <li>Heart of a Harvest Giant Priest.</li>
+              <li>Or An Ancient Alchemist Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>200 milliliters of the blood of the Harvest Giant Priest</li>
-              <li>9 strands of hair from the Desolate Servant</li>
+              <li>200 milliliters of the blood of the Harvest Giant Priest.</li>
+              <li>9 strands of hair from the Desolate Servant.</li>
               <li>1 fragment of a bewildered soul</li>
               <li>
                 100 grams of the flesh and blood of a runaway, lost control
-                Beyonder
+                Beyonder.
               </li>
             </ul>
 
@@ -6864,8 +6453,6 @@ export const Data = [
             <p>Personally refine the Stone of Life.</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 3 - Pallbearer",
@@ -6875,17 +6462,17 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Heart of the Dark Treant</li>
-              <li>Skin of the Harvest Giant Elder</li>
-              <li>Or a Pallbearer Beyonder Characteristic</li>
+              <li>Heart of the Dark Treant.</li>
+              <li>Skin of the Harvest Giant Elder.</li>
+              <li>Or A Pallbearer Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>200 milliliters of the blood of the Harvest Giant Elder</li>
-              <li>One fruit of the Dark Treant</li>
-              <li>One piece of rotten plank from a coffin in a tomb</li>
-              <li>One type of food already used for the sacrifice</li>
+              <li>200 milliliters of the blood of the Harvest Giant Elder.</li>
+              <li>One fruit of the Dark Treant.</li>
+              <li>One piece of rotten plank from a coffin in a tomb.</li>
+              <li>One type of food already used for the sacrifice.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -6898,8 +6485,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 2 - Desolate Matriarch",
@@ -6909,22 +6494,22 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>Reproductive organs of a Child of Harvest</li>
-              <li>Or the Heart of a Daughter of Desolation</li>
-              <li>Or a Desolate Matriarch Beyonder Characteristic</li>
+              <li>Reproductive organs of a Child of Harvest.</li>
+              <li>Or the Heart of a Daughter of Desolation.</li>
+              <li>Or A Desolate Matriarch Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
               <li>
                 300 milliliters of blood from a Child of Harvest or Daughter of
-                Desolation
+                Desolation.
               </li>
-              <li>10,000 souls of creatures that died of starvation</li>
-              <li>One type of a desertified oasis remnant</li>
+              <li>10,000 souls of creatures that died of starvation.</li>
+              <li>One type of a desertified oasis remnant.</li>
               <li>
                 A section of a creature's limb with vigorous vitality and
-                extremely strong self-healing ability
+                extremely strong self-healing ability.
               </li>
             </ul>
 
@@ -6932,8 +6517,6 @@ export const Data = [
             <p>Conceive, reproduce, and nurture an entire race.</p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 1 - Naturewalker",
@@ -6943,16 +6526,16 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>A Naturewalker Beyonder Characteristic</li>
+              <li>A Naturewalker Beyonder Characteristic.</li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>100 grams of soil blessed by one's own mother</li>
-              <li>One spark of fire from the earth's core</li>
-              <li>One branch of a thousand-year-old oak tree</li>
-              <li>10 drops of Ichor</li>
-              <li>100 grams of newly born gold</li>
+              <li>100 grams of soil blessed by one's own mother.</li>
+              <li>One spark of fire from the earth's core.</li>
+              <li>One branch of a thousand-year-old oak tree.</li>
+              <li>10 drops of Ichor.</li>
+              <li>100 grams of newly born gold.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -6963,8 +6546,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
       {
         seqTitle: "Sequence 0 - Mother",
@@ -6974,16 +6555,16 @@ export const Data = [
 
             <p>Main Ingredients:</p>
             <ul>
-              <li>The Mother Uniqueness</li>
+              <li>The Mother Uniqueness.</li>
               <li>
                 All other Naturewalker Beyonder Characteristics apart from one's
-                own
+                own.
               </li>
             </ul>
 
             <p>Supplementary Ingredients:</p>
             <ul>
-              <li>A divine kingdom with a simple yet complete life cycle</li>
+              <li>A divine kingdom with a simple yet complete life cycle.</li>
             </ul>
 
             <p>Advancement Ritual:</p>
@@ -6993,8 +6574,6 @@ export const Data = [
             </p>
           </>
         ),
-
-        card: require("../assets/cards/0_Card.webp"),
       },
     ],
   },

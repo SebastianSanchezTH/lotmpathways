@@ -1,0 +1,25 @@
+.arrow {
+  position: fixed;
+  top: 50%;
+  font-size: 2rem;
+  background: rgba(0, 0, 0, 0);
+  color: rgba(102, 102, 102, 0.375);
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  z-index: 1000;
+  transition: 0.2s ease;
+}
+
+.left-arrow {
+  left: 10px;
+}
+
+.right-arrow {
+  right: 10px;
+}
+
+.arrow:hover {
+  transform: scale(2);
+  color: rgba(255, 255, 255, 0.359);
+}

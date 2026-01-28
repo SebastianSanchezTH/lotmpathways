@@ -15,52 +15,6 @@
   z-index: -1;
 }
 
-.back-button {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  z-index: 9999;
-  background: rgba(0, 0, 0, 0);
-  color: rgba(102, 102, 102, 0.359);
-  border: none;
-  font-size: 2rem;
-  cursor: pointer;
-  padding: 0.4rem 0.8rem;
-  border-radius: 8px;
-  transition: 0.2s ease;
-}
-
-.back-button:hover {
-  transform: scale(2);
-  color: rgba(255, 255, 255, 0.359);
-}
-
-.arrow {
-  position: fixed;
-  top: 50%;
-  font-size: 2rem;
-  background: rgba(0, 0, 0, 0);
-  color: rgba(102, 102, 102, 0.375);
-  border: none;
-  padding: 0.5rem 1rem;
-  cursor: pointer;
-  z-index: 1000;
-  transition: 0.2s ease;
-}
-
-.left-arrow {
-  left: 10px;
-}
-
-.right-arrow {
-  right: 10px;
-}
-
-.arrow:hover {
-  transform: scale(2);
-  color: rgba(255, 255, 255, 0.359);
-}
-
 .detail-overlay {
   position: absolute;
   top: 0;
@@ -95,13 +49,14 @@
   font-family: "California sun";
   text-align: center;
   margin-top: 0;
-  z-index: 10;
   color: white;
+  z-index: 10;
 }
 
+/* carta izquierda, texto derecha */
 .detail-content {
   display: flex;
-  flex-direction: row; /* carta izquierda, texto derecha */
+  flex-direction: row;
   justify-content: center;
   gap: 30px;
   position: relative;
@@ -116,29 +71,54 @@
   align-items: center;
 }
 
-.detail-card h2 {
-  text-align: center;
-  font-size: 1em;
-}
-
-/* Carta a la izquierda */
+/* Carta izquierda */
 .detail-card img {
   width: 335px;
   border-radius: 12px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.335);
 }
 
-/* Texto a la derecha */
+.detail-card h2 {
+  text-align: center;
+  font-size: 1em;
+}
+
+/* Neighbor icons */
+.detail-neighbors {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.neighbor-icon {
+  max-width: 50px;
+  height: 50px;
+  cursor: pointer;
+  transition:
+    transform 0.2s ease,
+    filter 0.2s ease;
+  z-index: 10;
+}
+
+.neighbor-icon:hover {
+  transform: scale(1.15);
+  filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.169));
+  z-index: 10;
+}
+
+.no-neighbors {
+  text-align: center;
+  color: #aaa;
+  font-style: italic;
+  margin-top: 1rem;
+}
+
+/* Texto derecha */
 .detail-text {
-  flex: 1;
   max-width: 500px;
   display: flex;
   flex-direction: column;
-}
-
-.detail-text h1 {
-  font-family: "California sun";
-  text-align: center;
 }
 
 .embla {
@@ -170,32 +150,8 @@
   margin-bottom: 10px;
 }
 
-.embla__slides .des {
+.embla__slides .description {
   padding-left: 30px;
   padding-right: 30px;
   margin-bottom: 10px;
-}
-
-/* Neighbor icons */
-.detail-neighbors {
-  display: flex;
-  justify-content: center;
-  gap: 15px;
-  margin-top: 10px;
-}
-
-.neighbor-icon {
-  max-width: 50px;
-  height: 50px;
-  cursor: pointer;
-  transition:
-    transform 0.2s ease,
-    filter 0.2s ease;
-  z-index: 10;
-}
-
-.neighbor-icon:hover {
-  transform: scale(1.15);
-  filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.1));
-  z-index: 10;
 }

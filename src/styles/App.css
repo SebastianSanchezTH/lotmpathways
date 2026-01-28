@@ -116,10 +116,10 @@
 .embla__arrow {
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
+
   background: none;
   border: none;
-  color: rgb(163, 163, 163);
+  color: rgb(157, 157, 157);
   font-size: 48px;
   font-weight: 300;
   cursor: pointer;
@@ -127,6 +127,7 @@
   padding: 0;
   line-height: 1;
   user-select: none;
+  transition: 0.2s ease;
 }
 
 .embla__arrow--prev {
@@ -138,5 +139,6 @@
 }
 
 .embla__arrow:hover {
-  opacity: 0.7;
+  transform: scale(2);
+  color: rgba(255, 255, 255, 0.664);
 }
