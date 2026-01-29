@@ -145,6 +145,12 @@ If you have suggestions or feedback, feel free to open an issue for discussion.
 
 No pull requests will be reviewed or merged at this time.
 
+## Note
+
+All pathways represented in this project are complete **except for Black Emperor, White Tower, and Justiciar**.
+
+These pathways are currently incomplete due to the lack of available public information regarding their sequences at the time of development. Once reliable information becomes available, they may be updated in future versions.
+
 ---
 
 ## License
