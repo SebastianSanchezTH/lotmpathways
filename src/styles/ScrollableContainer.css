@@ -1,0 +1,27 @@
+.scrollable-container {
+  height: 550px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  padding: 1rem;
+  background-color: rgba(163, 0, 0, 0);
+  scrollbar-width: thin;
+  scrollbar-color: #ffffff00 transparent;
+}
+
+.scrollable-container:hover {
+  transition: 0.3s ease;
+  scrollbar-width: thin;
+  scrollbar-color: #ffffff80 transparent;
+}
+
+.section {
+  background-color: rgba(0, 255, 255, 0);
+  height: 550px;
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

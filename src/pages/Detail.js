@@ -4,6 +4,7 @@ import useEmblaCarousel from "embla-carousel-react";
 import { Data } from "../components/Data";
 import BackButton from "../components/BackButton";
 import ArrowNavigation from "../components/ArrowNavigation";
+import ScrollableContainer from "../components/ScrollableContainer";
 
 import "../styles/Detail.css";
 import "../styles/ArrowNavigation.css";
@@ -49,36 +50,6 @@ export default function Detail() {
           {/* Carta a la izquierda */}
           <div className="detail-card">
             <img src={data.card} alt="Card" />
-            {/* Titulo de Secuencias intercambiables*/}
-            <h2>Neighboring Pathways</h2>
-            {Array.isArray(data.neighbors) && data.neighbors.length > 0 ? (
-              <div className="detail-neighbors">
-                {/* Detalles de Secuencias intercambiables */}
-                {data.neighbors.map((neighbor) => (
-                  <img
-                    key={neighbor.id}
-                    src={
-                      hoveredNeighbor === neighbor.id
-                        ? neighbor.iconColor
-                        : neighbor.iconOff
-                    }
-                    alt={`Neighbor ${neighbor.id}`}
-                    className="neighbor-icon"
-                    //Hover de cambio de color
-                    onMouseEnter={() => setHoveredNeighbor(neighbor.id)}
-                    onMouseLeave={() => setHoveredNeighbor(null)}
-                    //Cambio de ruta
-                    onClick={() =>
-                      navigate(`/detail/${neighbor.id}`, {
-                        state: { fromIndex },
-                      })
-                    }
-                  />
-                ))}
-              </div>
-            ) : (
-              <p className="no-neighbors">None</p>
-            )}
           </div>
         </div>
         <div className="detail-text">
@@ -88,8 +59,49 @@ export default function Detail() {
                 <div className="embla__slides" key={idx}>
                   {/* Titulo de la secuencia*/}
                   <h2>{seq.seqTitle}</h2>
-                  {/* Descripcion de la secuencia */}
-                  <div className="description">{seq.description}</div>
+                  <ScrollableContainer>
+                    {/* Descripcion de la secuencia */}
+                    <div className="section">
+                      <div className="traits">{seq.traits}</div>
+                      {/* Titulo de Secuencias intercambiables*/}
+                      <h2>Neighboring Pathways</h2>
+                      {Array.isArray(data.neighbors) &&
+                      data.neighbors.length > 0 ? (
+                        <div className="detail-neighbors">
+                          {/* Detalles de Secuencias intercambiables */}
+                          {data.neighbors.map((neighbor) => (
+                            <img
+                              key={neighbor.id}
+                              src={
+                                hoveredNeighbor === neighbor.id
+                                  ? neighbor.iconColor
+                                  : neighbor.iconOff
+                              }
+                              alt={`Neighbor ${neighbor.id}`}
+                              className="neighbor-icon"
+                              //Hover de cambio de color
+                              onMouseEnter={() =>
+                                setHoveredNeighbor(neighbor.id)
+                              }
+                              onMouseLeave={() => setHoveredNeighbor(null)}
+                              //Cambio de ruta
+                              onClick={() =>
+                                navigate(`/detail/${neighbor.id}`, {
+                                  state: { fromIndex },
+                                })
+                              }
+                            />
+                          ))}
+                        </div>
+                      ) : (
+                        <p className="no-neighbors">None</p>
+                      )}
+                    </div>
+                    {/* Descripcion de la pocion */}
+                    <div className="section">
+                      <div className="description">{seq.description}</div>
+                    </div>
+                  </ScrollableContainer>
                 </div>
               ))}
             </div>

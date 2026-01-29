@@ -21,6 +21,20 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Seer",
+        traits: (
+          <>
+            <p>
+              Seers gain steadily improving memory and enhanced Spirituality,
+              granting expert potential in Divination Arts and Ritualistic Magic
+              with sufficient study. Through Spirit Vision, they can perceive
+              souls, ghosts, emotions, health states, magical auras, and
+              obstructed phenomena without enhancing physical senses. They also
+              develop Danger Intuition, allowing them to instinctively sense
+              imminent threats through spiritual perception.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -42,6 +56,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Clown",
+        traits: (
+          <>
+            <p>
+              Clowns gain extreme bodily control, dexterity, balance, and
+              coordination, reaching the level of inhuman acrobats capable of
+              flawless movement and expression suppression. Their Danger
+              Intuition evolves into short-term, ambiguous premonition, enabling
+              pre-dodging lethal attacks and sensing hostile intent without
+              Spirit Vision. They can weaponize paper into steel-hard,
+              razor-sharp daggers capable of piercing stone and flesh.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -64,6 +92,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Magician",
+        traits: (
+          <>
+            <p>
+              Magicians undergo a qualitative leap in dexterity and
+              Spirituality, mastering high-speed spellcasting without chants.
+              They wield versatile abilities including damage redirection,
+              flame-based teleportation, air projectiles, illusion creation,
+              paper-based substitutes and weapons, flame manipulation,
+              underwater breathing, and bodily flexibility. Their spellcasting
+              is rapid, deceptive, and highly adaptable, emphasizing
+              misdirection and survival.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -85,6 +128,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Faceless",
+        traits: (
+          <>
+            <p>
+              Faceless Beyonders gain immense Spirituality, enhanced Divination,
+              and perfect bodily shapeshifting within size limits, allowing
+              flawless imitation of appearance, voice, scent, and mannerisms.
+              Their control enables featureless faces, false features, and
+              precise acting. Combined with strengthened prior abilities, they
+              excel at infiltration, combat, tracking, and anti-tracking through
+              deception and adaptability.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -106,6 +163,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Marionettist",
+        traits: (
+          <>
+            <p>
+              Marionettists acquire Spirit Body Threads Manipulation, allowing
+              them to perceive, influence, and fully control others by
+              converting them into Marionettes through a two-stage process.
+              Marionettes retain their abilities, languages, and Resurrection
+              mechanics but remain eternally controlled. Marionettists can
+              possess them, control them over long distances, detect
+              invisibility and parasitism, and significantly strengthen all
+              prior abilities.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -132,6 +204,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Bizarro Sorcerer",
+        traits: (
+          <>
+            <p>
+              Bizarro Sorcerers experience massive Spirituality growth and
+              Demigod-level insight, wielding Worms of Spirit to bestow powers
+              upon Marionettes and extend control across kilometers. Their
+              spellcasting, illusions, shapeshifting, and marionette
+              manipulation undergo qualitative upgrades, enabling large-scale
+              concealment, rapid domination, and spatial swapping. Their
+              incomplete Mythical Creature Form radiates Madness, Bizarreness,
+              Change, and Wisdom.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -159,6 +246,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Scholar of Yore",
+        traits: (
+          <>
+            <p>
+              Scholars of Yore gain authority over History, allowing them to
+              borrow power from their past, summon Historical Projections, and
+              hide within the Historical Void. Their Marionette control expands
+              massively in speed and range, while spellcasting reaches
+              artillery-scale potency. Their Worms of Spirit grow more complex,
+              enabling prayer response, large-scale manipulation, and recovery
+              from catastrophic losses.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -185,6 +286,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Miracle Invoker",
+        traits: (
+          <>
+            <p>
+              Miracle Invokers wield authority over Miracles, fulfilling Wishes
+              whose power scales through accumulated acts of wish-granting. They
+              gain enhanced Divination, Fate interference, city-scale marionette
+              control, resurrection via the Historical Void, and large-scale
+              reality alteration. Wishes are potent yet distorted, requiring
+              careful constraints to prevent unintended consequences.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -209,6 +323,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Attendant of Mysteries",
+        traits: (
+          <>
+            <p>
+              Attendants of Mysteries are Angels who embody Bizarreness and
+              Change, merging physical and spiritual existence. They wield
+              high-level Reassembly (Grafting) to alter concepts, space, logic,
+              and connections, form embryonic Divine Kingdoms through Realm of
+              Mysteries, regenerate Spirit Body Threads, and achieve
+              near-instant marionette domination. Their authority borders that
+              of True Deities.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -233,6 +361,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Fool",
+        traits: (
+          <>
+            <p>
+              The Fool is a True Deity embodying Fooling, Reassembly, History,
+              Miracles, Concealment, and control of the Spirit World. Through
+              Blind Stupidity, falsehood becomes reality, time and history are
+              disrupted, and concepts are grafted into inconceivable truths.
+              Their complete Divine Kingdom, Realm of Mysteries, anchors fate
+              itself, making their words nodes in destiny and their miracles
+              incomprehensible.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -255,9 +397,9 @@ export const Data = [
       },
     ],
   },
-  // Magician
+  // Door
   {
-    title: "Magician Pathway",
+    title: "Door Pathway",
     logoColor: require("../assets/iconColor/1_Color.png"),
     overlayColor: "rgba(6, 27, 37, 0.53)",
     neighbors: [
@@ -276,6 +418,20 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Apprentice",
+        traits: (
+          <>
+            <p>
+              Apprentices embody freedom and escape, rarely being trapped or
+              restrained. They gain Door Opening, allowing them to phase through
+              walls and obstacles by opening incorporeal Doors tied to the
+              Spirit World, provided no strong mystical restrictions exist. They
+              can unlock non-mystical locks and limited Beyonder-reinforced
+              ones, carrying only what is on their body and unable to bring
+              others along.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -301,6 +457,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Trickmaster",
+        traits: (
+          <>
+            <p>
+              Trickmasters wield numerous low-intensity Spells focused on
+              misdirection, control, and escape rather than lethality. Their
+              abilities include gas transfer, blinding flashes, freezing, fog,
+              wind, electric shocks, object manipulation, and environmental
+              disruption, allowing them to confuse enemies, manipulate terrain,
+              and rapidly reposition themselves through clever tricks.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -325,6 +494,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Astrologer",
+        traits: (
+          <>
+            <p>
+              Astrologers gain greatly enhanced Spirituality and Spiritual
+              Intuition, allowing danger premonitions and Divination through
+              Astrology and crystal balls. They can interfere with others’
+              Divination, identify disguised individuals through symbolic
+              overlap, and strengthen Door Opening to bring others through
+              obstacles or observe rooms by opening small Doors.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -349,6 +531,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Scribe",
+        traits: (
+          <>
+            <p>
+              Scribes gain the ability to Record active Beyonder powers by
+              engraving their symbols into the Soul, storing them for single use
+              at reduced potency. The number, strength, and success rate of
+              Recorded powers depend on digestion and Sequence, with
+              Demigod-level abilities being difficult and weakened. Recording
+              manifests through the incantation “I came, I saw, I recorded.”
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -376,6 +571,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Traveler",
+        traits: (
+          <>
+            <p>
+              Travelers gain long-distance Traveling through the Spirit World,
+              precise Positioning, short-range Blink, and an Invisible Hand for
+              remote interaction. They can teleport others through physical
+              contact, achieve invisibility via Spirit World overlap, and evade
+              attacks through rapid repositioning. Their Record ability is
+              enhanced, allowing multiple Demigod-level powers close to true
+              Sequence 4 strength.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -408,6 +617,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Secrets Sorcerer",
+        traits: (
+          <>
+            <p>
+              Secrets Sorcerers master concealed spaces, creating hidden areas
+              accessible only through specific Doors and housing them within
+              Mystical Items. They wield Transfiguration to layer illusory Doors
+              defensively, Exile targets into chaotic spatial turbulence, and
+              conceal information through Secret Keeping. Their Record undergoes
+              a qualitative leap, enabling weakened Angel-level power and state
+              Recording, alongside an incomplete Mythical Creature Form of Worms
+              of Star.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -446,6 +670,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Wanderer",
+        traits: (
+          <>
+            <p>
+              Wanderers transcend planetary boundaries, freely traversing the
+              Astral World, Cosmos, and other worlds through Wandering. They can
+              tear Space into collapsing voids, adapt to hostile environments
+              via Space Integration, and create spatial cages using Concealment.
+              Door Opening now bypasses nearly all barriers, and they can
+              respond to prayers within a limited range.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -478,6 +715,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Planeswalker",
+        traits: (
+          <>
+            <p>
+              Planeswalkers gain partial authority over Teleportation and
+              Dimensions, transforming themselves into Symbols to traverse
+              worlds and project distant scenes through Dimension Sight. They
+              can miniaturize cities into toy-like spaces, Replicate abilities
+              and scenes without Recording, tear Space apart, Seal concepts with
+              starlight, and create hostel-like concealed realms, manifesting a
+              towering Mythical Creature Form of Doors and Worms of Star.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -509,6 +760,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Key of Stars",
+        traits: (
+          <>
+            <p>
+              Keys of Stars wield stellar gravity to fragment Space, Time, and
+              Light, gaining authority over Position, Seals, and
+              higher-dimensional Teleportation. They can locate or conceal any
+              Position, construct Space-Time mazes, deploy self-repairing
+              starlight Seals capable of restraining embryonic black holes, and
+              observe interdimensional movement through enhanced Dimension
+              Sight.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -539,6 +804,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Door",
+        traits: (
+          <>
+            <p>
+              The Door embodies absolute authority over Doors, Space, Seals,
+              Alternate Worlds, Replication, and Position. They can open or
+              close all Doors conceptually, collapse Space to annihilate worlds,
+              create Divine Kingdoms from layered realities, achieve
+              near-omnipresence, Seal even True Deities under conditions, and
+              Conceptualize themselves or others into pure symbolic existences
+              defined by wandering, passage, and keys.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -586,6 +865,20 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Savant",
+        traits: (
+          <>
+            <p>
+              Savants are seekers of knowledge who gain a vast understanding of
+              mysticism and mechanics, appearing almost omniscient to ordinary
+              people. Their core ability is perfect recall, allowing them to
+              remember every experience and piece of information they have ever
+              encountered, while also greatly enhancing their learning speed and
+              comprehension. This makes them walking archives of both practical
+              and mystical knowledge.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -609,6 +902,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Archaeologist",
+        traits: (
+          <>
+            <p>
+              Archaeologists develop a stronger physique and gain limited
+              ability to use ritualistic magic, allowing them to survive
+              dangerous ruins and environments. They adapt quickly to difficult
+              situations and possess extensive knowledge of history, survival,
+              taboos, and mysticism related to ancient sites, making them highly
+              resilient explorers of the unknown.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -636,6 +942,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Appraiser",
+        traits: (
+          <>
+            <p>
+              Appraisers can instantly identify the powers, functions, and
+              dangers of most Beyonder items without divination, allowing them
+              to use such items safely and efficiently. However, their appraisal
+              becomes incomplete or inaccurate when dealing with artifacts above
+              their Sequence or knowledge beyond their Recall, making experience
+              and knowledge crucial to their effectiveness.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -661,6 +980,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Artisan",
+        traits: (
+          <>
+            <p>
+              Artisans are masters of creation, able to manufacture mystical
+              items, mechanical devices, and Sealed Artifacts with reduced side
+              effects. They can craft enchanted weapons, tools, and wearable
+              items infused with Beyonder effects, as well as bind rituals into
+              objects for convenience. Their creations may not always be
+              powerful, but they are reliable, versatile, and uniquely tailored
+              to their needs.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -690,6 +1023,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Astronomer",
+        traits: (
+          <>
+            <p>
+              Astronomers can harness astronomical phenomena such as solar
+              storms, meteor showers, and starlight to interfere with, attack,
+              or manipulate their surroundings. They can create false
+              constellations to disrupt divination, fire cursed rays of
+              starlight, and alter gravity through stellar blessings. However,
+              drawing power from the cosmos is dangerous and can expose them to
+              terrifying and abnormal consequences.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -721,6 +1068,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Alchemist",
+        traits: (
+          <>
+            <p>
+              Alchemists infuse objects with fragments of souls to create living
+              constructs, dolls, golems, and even machines that can imitate
+              humans. They can rapidly create temporary tools from available
+              materials or prepare long-lasting magical creations in advance.
+              Their manufacturing abilities reach extraordinary levels, allowing
+              them to build mechanical bodies and powerful constructs, and they
+              can manifest an incomplete Mythical Creature Form as Demigods.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -757,6 +1118,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Arcane Scholar",
+        traits: (
+          <>
+            <p>
+              Arcane Scholars can transform into living knowledge, subtly
+              influencing or corrupting those who learn from them. They wield
+              destructive analytical beams, control environments through
+              deduction, extract life force from vast areas, and possess
+              exceptional manufacturing and appraisal abilities. As high-level
+              Beyonders, they can respond to prayers and fully integrate
+              knowledge, mechanics, and mysticism into their combat style.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -795,6 +1170,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Knowledge Magister",
+        traits: (
+          <>
+            <p>
+              Knowledge Magisters wield weakened authorities over Manufacturing,
+              Laws, Analysis, Learning, and Education, allowing them to create
+              almost anything they imagine, alter physical laws, instantly learn
+              new knowledge, and mentor others. They can produce futuristic
+              technology, manipulate reality through understanding, and exist as
+              full Mythical Creatures made of pure information and civilization
+              records.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -834,6 +1223,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Illuminator",
+        traits: (
+          <>
+            <p>
+              Illuminators hold authority over Civilization and Education,
+              allowing them to stabilize chaos, bring order from destruction,
+              and use the weight of human history to suppress enemies. They can
+              project the history of civilization as protection, enlighten
+              minds, enhance intelligence, or trap foes in abstract mazes, fully
+              manifesting the concept of Civilization in their Mythical Creature
+              Form.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -870,6 +1273,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Paragon",
+        traits: (
+          <>
+            <p>
+              Paragons embody the absolute authority of Knowledge, Civilization,
+              Laws, Education, Manufacturing, Learning, and Analysis. They
+              possess all known real-world knowledge and can modify reality
+              through it, control the rise and fall of civilizations, alter
+              laws, turn beings into information, and create near-divine
+              technology. Their existence is a living torrent of information,
+              and their Divine Kingdom, Mechanical Heaven, represents the
+              pinnacle and graveyard of all civilizations.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -919,6 +1337,23 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Assassin",
+        traits: (
+          <>
+            <p>
+              Assassins undergo comprehensive physical refinement that makes
+              their bodies ideal for killing, stealth, and evasion. Their
+              physique becomes lighter and more efficient, granting exceptional
+              speed, agility, balance, and footwork, along with heightened
+              senses such as night vision and sharpened hearing. They can
+              briefly alter bodily functions to perform feats like feather-light
+              descent or unleashing all their strength in a single devastating
+              blow. They also gain the ability to conceal themselves within
+              shadows, allowing near-perfect ambushes as long as they do not
+              move too quickly.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -942,6 +1377,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Instigator",
+        traits: (
+          <>
+            <p>
+              Instigators further strengthen the Assassin’s body while gaining a
+              terrifying mental influence ability. Their true power lies in
+              Instigation, which allows them to subtly or actively manipulate
+              emotions, desires, and thoughts, pushing people toward violence,
+              conflict, or specific actions without being noticed. They gain
+              improved analytical abilities and can sense malice, emotions, and
+              intent, making them masters of manipulation, deception, and social
+              chaos.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -966,6 +1416,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Witch",
+        traits: (
+          <>
+            <p>
+              Witches undergo a complete transformation, including a forced
+              gender change for males, and gain immense beauty and charm. They
+              awaken powerful Dark Magic abilities centered around Black Flames,
+              Frost, Mirrors, and Curses, allowing them to burn spirituality,
+              freeze terrain, substitute themselves through mirrors, curse
+              enemies remotely, and manipulate reflections. Their magical
+              versatility is further enhanced by natural mastery of Divination
+              and Anti-Divination, making them deadly spellcasters,
+              manipulators, and mystics.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -989,6 +1455,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Demoness of Pleasure",
+        traits: (
+          <>
+            <p>
+              Demonesses of Pleasure gain terrifying control over both bodies
+              and minds through Threads spun from their hair, which can
+              restrain, manipulate, heal, or overwhelm enemies with pleasure.
+              Their charm becomes dangerously addictive, capable of intoxicating
+              anyone who approaches them. Their Witch abilities evolve
+              drastically, with stronger Black Flames, Frost, Mirrors, and
+              faster substitution, making them highly lethal and seductive
+              combatants who blend control, magic, and psychological domination.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1013,6 +1494,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Demoness of Affliction",
+        traits: (
+          <>
+            <p>
+              Demonesses of Affliction gain full mastery over disease and
+              plague, spreading supernatural pathogens that rapidly progress
+              from mild symptoms to instant death. Their hair becomes a lethal
+              weapon and precise tool, while their Threads gain fine control.
+              Their Charm can now be actively unleashed to paralyze enemies
+              emotionally, and their Dark Magic expands to include large-scale
+              mirror illusions and more devastating curses, turning them into
+              walking epidemics and battlefield controllers.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1042,6 +1538,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Demoness of Despair",
+        traits: (
+          <>
+            <p>
+              Demonesses of Despair amplify all previous powers to a demigod
+              level, evolving Disease into Plague capable of devastating entire
+              regions. Their Threads can petrify, bind, curse, and transmit
+              pleasure, while their Charm can instantly enslave Mid-Sequence
+              Beyonders. Their mastery of Mirrors, Frost, and Curses allows
+              city-scale projection, mirror mazes, and inescapable curses. They
+              can manifest an incomplete Gorgon form, radiating both pleasure
+              and pain, at the cost of severe self-destruction.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1075,6 +1586,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Demoness of Unaging",
+        traits: (
+          <>
+            <p>
+              Demonesses of Unaging achieve functional immortality through the
+              fusion of their Mirror Self and physical body, allowing endless
+              resurrection as long as a Mirror Person survives. Their
+              Petrification spreads like a plague, their Charm can halt even
+              Angels’ thoughts over time, and their Mirror control expands to
+              city-wide dominance. They become true Gorgons, capable of instant
+              petrification through sight, long-distance intervention, and
+              managing believers while remaining nearly impossible to kill.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1107,6 +1633,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Demoness of Catastrophe",
+        traits: (
+          <>
+            <p>
+              Demonesses of Catastrophe embody disaster itself, wielding the
+              authority to collapse systems, environments, societies, and
+              supernatural realms from within. They can summon massive natural
+              disasters, trigger social and conceptual collapses, and curse fate
+              through indirect contact. Their Plagues can erode even complete
+              Mythical Creatures, and their Mirror Self multiplies further. In
+              full Gorgon form, they become angelic beings capable of sustaining
+              divine descent and annihilating entire regions.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1135,6 +1676,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Demoness of Apocalypse",
+        traits: (
+          <>
+            <p>
+              Demonesses of Apocalypse wield the ultimate evolution of disaster:
+              the authority of Apocalypse, which brings absolute endings by
+              collapsing fate, reality, and contradictions into Chaos. They can
+              trigger nation-scale disasters effortlessly, manipulate Pleasure
+              and Disease at conceptual levels, and command Dark Magic as an
+              Archangel. Their Mirror World control allows reality to be swapped
+              with reflections, mirror entities to enter reality, and curses to
+              exploit even faint connections, granting them a lifespan of
+              100,000 years.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1172,6 +1729,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Primordial Demoness",
+        traits: (
+          <>
+            <p>
+              The Primordial Demoness is the embodiment of Chaos, Apocalypse,
+              Catastrophe, and Primordium, ruling the Mirror World and wielding
+              absolute authority over Dark Magic, Disease, Charm, Femininity,
+              and destruction. She governs both the beginning and the end, able
+              to dissolve all existence into primordial Chaos, command mirrors
+              as extensions of herself, and charm even Gods and concepts. In her
+              Mythical Form, she transforms reality, beings, and matter into
+              expressions of her will, standing as the feminine aspect of the
+              Original Creator and the ultimate source of ruin.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1227,6 +1800,20 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Lawyer",
+        traits: (
+          <>
+            <p>
+              Lawyers are masters of speech, reasoning, and procedural
+              manipulation, capable of shaping judgment and conclusions through
+              words, actions, and established systems. They excel at identifying
+              loopholes in rules, laws, and social structures, turning Order
+              itself into a weapon. Their eloquence is not merely skill but
+              supernatural persuasion, allowing them to gain trust, distort
+              thinking, and create situations where victory becomes inevitable.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1245,6 +1832,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Barbarian",
+        traits: (
+          <>
+            <p>
+              Barbarians represent the violent answer to unsolvable rules,
+              gaining overwhelming physical strength and constitution that
+              surpass normal human limits. Their bodies become weapons capable
+              of breaking Order through force, while their minds gain strong
+              resistance to psychological and spiritual interference, making
+              them relentless, stubborn, and difficult to control.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1270,6 +1870,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Briber",
+        traits: (
+          <>
+            <p>
+              Bribers gain the terrifying ability to impose influence through
+              symbolic or physical bribes, establishing control even if the
+              bribe is rejected. Through different forms of Bribery, they can
+              weaken enemies, distort judgment through arrogance, charm targets
+              into goodwill, or form binding connections. This ability turns
+              even trivial actions into tools of manipulation and control,
+              making social interactions a battlefield.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1293,6 +1907,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Baron of Corruption",
+        traits: (
+          <>
+            <p>
+              Barons of Corruption can warp Order itself by Distorting rules,
+              actions, intent, and even concepts, creating new advantages
+              through twisted logic. Their Corrosion ability darkens minds and
+              amplifies greed, while their heightened perception allows them to
+              detect flaws and weaknesses instinctively. At this stage, they
+              become living distortions, bending reality’s rules to trap and
+              dominate opponents.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1311,6 +1939,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Mentor of Disorder",
+        traits: (
+          <>
+            <p>
+              Mentors of Disorder can inject chaos into structured environments,
+              disrupting perception, actions, and control to gain dominance in
+              battle. Their presence induces mistakes, misordered actions, and
+              broken control effects, while their Majesty forces others to
+              instinctively submit. Their Distortion expands beyond individuals
+              to objects and surroundings, making the environment itself assist
+              them.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1334,6 +1976,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Earl of the Fallen",
+        traits: (
+          <>
+            <p>
+              Earls of the Fallen are demigods who exploit, magnify, and distort
+              the laws governing reality, allowing them to achieve effects
+              rivaling the Justiciar Pathway. They can extend or end states at
+              will, bestow negative traits, and magnify interactions until
+              harmless actions become executions. Their Disorder, Bribery, and
+              Distortion reach new heights, letting them collapse buildings,
+              twist powers, and kill through amplified consequences.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1357,6 +2013,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Frenzied Mage",
+        traits: (
+          <>
+            <p>
+              Frenzied Mages gain the ability to gigantify their bodies,
+              dramatically increasing their size and physical dominance while
+              amplifying their presence as conduits of chaos. As Saints, they
+              can respond to prayers and exert influence over believers,
+              standing as living embodiments of distorted Order and escalating
+              madness.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1380,6 +2049,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Duke of Entropy",
+        traits: (
+          <>
+            <p>
+              Dukes of Entropy reach angelic mastery over Distortion, capable of
+              twisting even authority-level rules to serve their will. Their
+              Exploit ability transcends physical limits, allowing impossible
+              feats such as traveling from earth to the moon in a single leap.
+              As complete Mythical Creatures, they embody the inevitable decay
+              and collapse of all structured systems.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1403,6 +2085,18 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Prince of Abolition",
+        traits: (
+          <>
+            <p>
+              Princes of Abolition can isolate and distort reality itself,
+              sealing large areas away from the world or silently swapping
+              themselves with substitutes through pure distortion. Their
+              presence represents the approaching end of Order, where rules no
+              longer hold meaning and existence itself becomes negotiable.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1426,6 +2120,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Black Emperor",
+        traits: (
+          <>
+            <p>
+              The Black Emperor is the living distortion of Order, wielding
+              absolute authority over Distortion, Disorder, and corrupted Order
+              itself. They can invert reality, rewrite processes, disrupt
+              powers, twist faith, and bend even authorities to their will.
+              Through mausoleums and established Order, they can resurrect
+              endlessly, bypassing death itself through loopholes in existence,
+              standing as the ultimate shadow behind all laws and systems.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1502,6 +2210,21 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Sailor",
+        traits: (
+          <>
+            <p>
+              Sailors are the first true children of the sea, possessing aquatic
+              traits that allow them to move, swim, and dive underwater with
+              ease, even without equipment. Their bodies gain phantom scales
+              that reduce damage and make them slippery and hard to restrain,
+              while their sense of balance becomes so refined that storms and
+              unstable ground feel like solid land. Alongside these adaptations,
+              their physical strength is enhanced, marking the beginning of a
+              Beyonder’s transformation into a maritime predator.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1526,6 +2249,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Folk of Rage",
+        traits: (
+          <>
+            <p>
+              Folk of Rage are embodiments of violent tempests, with vastly
+              enhanced strength, speed, and resilience that make confronting
+              them feel like standing against a storm. Their power grows
+              explosively when angered, allowing them to unleash devastating
+              blows that exceed normal limits. By accumulating rage through
+              combat or intoxication, they can release terrifying strikes fueled
+              entirely by wrath, turning emotion itself into destructive force.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1549,6 +2286,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Seafarer",
+        traits: (
+          <>
+            <p>
+              Seafarers are deeply favored by the ocean, gaining enhanced
+              physical and mental abilities while at sea, including extended
+              underwater activity and superior memory and calculation. They
+              become masters of navigation, instinctively understanding winds,
+              currents, and magnetic fields so completely that their ships can
+              never be lost. At this stage, they also gain access to water-based
+              spells and blessings of the Tyrant, allowing them to suffocate
+              enemies, heal, illuminate the sea, and manipulate water with
+              ritual-like gestures.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1573,6 +2326,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Wind-blessed",
+        traits: (
+          <>
+            <p>
+              Wind-blessed Beyonders are volatile like gales, wielding powerful
+              control over wind, water, and weather. They can summon gales from
+              within themselves, glide through the air, run at extreme speeds,
+              generate invisible windblades, and even fly short distances. Their
+              mastery of wind allows them to eavesdrop on conversations, cushion
+              impacts, hover in midair, and dive to extreme depths, marking
+              their transition from sailors into true storm-walkers.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1600,6 +2367,23 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Ocean Songster",
+        traits: (
+          <>
+            <p>
+              Ocean Songsters gain deep dominion over water, sound, and
+              lightning, becoming masters of underwater survival who can
+              breathe, communicate with sea creatures, and extract oxygen from
+              water itself. They wield lightning through weapons or voice,
+              summon thunder strikes, transmit sound through electric light, and
+              influence minds through supernatural singing that is nearly
+              impossible to block. Their wind and water abilities are greatly
+              enhanced, granting longer flight, binding winds, corrosive rain,
+              and massive water constructs, making them terrifying battlefield
+              controllers.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1627,6 +2411,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Cataclysmic Interrer",
+        traits: (
+          <>
+            <p>
+              Cataclysmic Interrers are walking natural disasters, capable of
+              unleashing tornadoes, tsunamis, earthquakes, torrential downpours,
+              and other large-scale calamities. Their control over water, wind,
+              lightning, and sound undergoes a qualitative transformation,
+              allowing them to erase landscapes, disrupt sealed artifacts, and
+              dominate battlefields through overwhelming force. As demigods,
+              they can manifest a partial Mythical Creature Form, sacrificing
+              stability for godlike destructive power.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1657,6 +2456,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Sea King",
+        traits: (
+          <>
+            <p>
+              Sea Kings are absolute rulers of the ocean, able to walk on the
+              seabed, command marine life, and dominate entire sea regions with
+              their authority. Within their waters, they can unleash colossal
+              tsunamis, lightning storms, sonic booms, and hurricanes,
+              overwhelming all demigods of the same level. Their psyche spreads
+              through water itself, turning rain, clouds, and waves into their
+              eyes, while their authority over the sea grants them unmatched
+              dominance in their domain.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1688,6 +2502,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Calamity",
+        traits: (
+          <>
+            <p>
+              Calamities hold true authority over disasters, freely summoning
+              storms, tsunamis, snowstorms, and world-shattering phenomena
+              capable of destroying cities or islands. Their lightning, wind,
+              and sound-based powers are elevated to angelic levels, allowing
+              electromagnetic disruption, missile-speed flight, and
+              fear-inducing roars that subjugate entire regions. Their complete
+              Mythical Creature Form manifests as a colossal lightning-wreathed
+              monster, symbolizing the inevitability of destruction.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1724,6 +2553,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Thunder God",
+        traits: (
+          <>
+            <p>
+              Thunder Gods are incarnations of storm and punishment, wielding
+              absolute authority over thunder, wind, and calamities. They can
+              become living energy, strike targets with divine lightning that
+              ignores domain shifts, drown regions in endless storm hells, and
+              erase information and electromagnetic structures with invisible
+              thunder. Their wrath pushes them near the power of a true deity,
+              and their roar spreads fear and domination at the speed of
+              lightning itself.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1750,6 +2594,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Tyrant",
+        traits: (
+          <>
+            <p>
+              The Tyrant is the supreme ruler of storms, seas, and destruction,
+              commanding matter, energy, thunder, water, wind, and calamities
+              through divine authority. They can transform matter into energy,
+              unleash planet-shattering electromagnetic waves, and drown the
+              world in endless storms that demand absolute obedience. Their
+              divine kingdoms embody fear and thunder, while their authority
+              over water extends even to spiritual and conceptual seas,
+              establishing them as a god of overwhelming power, domination, and
+              terror.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1807,6 +2667,21 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Marauder",
+        traits: (
+          <>
+            <p>
+              Marauders are instinctive thieves driven by an almost spiritual
+              calling toward valuables rather than simple greed. Their bodies
+              gain light physical enhancement, their hands become unnaturally
+              agile, and they excel in close combat with short weapons. They can
+              sense the presence of valuable items within a short range even
+              through concealment, and their supernatural theft allows them to
+              steal objects directly from others without being noticed, making
+              them predators of wealth and opportunity.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1830,6 +2705,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Swindler",
+        traits: (
+          <>
+            <p>
+              Swindlers evolve from thieves into manipulators, gaining extreme
+              agility and the ability to deceive minds through charm, eloquence,
+              and misdirection. They can induce hallucinations, subtly redirect
+              thoughts, and arrange environments to mislead targets without them
+              noticing. Their observation sharpens to read micro-expressions and
+              emotions, while their theft extends to spiritual materials,
+              turning fraud and deception into both art and weapon.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1853,6 +2742,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Cryptologist",
+        traits: (
+          <>
+            <p>
+              Cryptologists are masters of deduction and mysticism, capable of
+              reconstructing truths from fragments of evidence. Their Decryption
+              allows them to uncover secrets behind rituals, dreams, artifacts,
+              illusions, symbolism, and even divine honorific names, provided
+              they have enough clues. Their observation sharpens to perceive
+              faint traces others would miss, making them dangerous
+              investigators who can unravel mysteries without relying on
+              prophecy or divination.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1877,6 +2781,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Prometheus",
+        traits: (
+          <>
+            <p>
+              Prometheus marks the qualitative leap of Theft into a conceptual
+              power. At this stage, they can steal Beyonder abilities, objects,
+              and even abstract phenomena across long distances, temporarily
+              using stolen powers as their own. Their observation expands to
+              detect treasures and their nature within wide ranges, while their
+              bodies and minds become stronger and more resistant to corruption.
+              They are no longer thieves of objects, but thieves of power
+              itself.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1901,6 +2820,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Dream Stealer",
+        traits: (
+          <>
+            <p>
+              Dream Stealers extend Theft into the realms of mind, intention,
+              and the subconscious. They can steal thoughts, memories,
+              knowledge, ideals, attacks, abilities, and dreams, reshaping a
+              target’s decisions without ever entering the dream world. Through
+              disguising themselves as followers of gods, they can steal divine
+              responses and create rituals and charms. At this stage, Theft
+              becomes a weapon of psychological, spiritual, and conceptual
+              domination.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1935,6 +2869,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Parasite",
+        traits: (
+          <>
+            <p>
+              Parasites become demigods who steal life itself through
+              Parasitism, invading hosts and controlling or hiding within their
+              spirit bodies. They gain near-immortality through insect
+              physiology, can create independent Avatars, and steal concepts
+              such as position, distance, organs, age, and abilities with
+              terrifying precision. Their Decryption and Theft reach new
+              heights, allowing large-scale, multi-target thefts, while their
+              Mythical Creature Form manifests as Worms of Time, symbolizing
+              their corruption of causality and identity.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1965,6 +2915,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Mentor of Deceit",
+        traits: (
+          <>
+            <p>
+              Mentors of Deceit wield Deceit as an authority, capable of
+              misleading people, laws, and even the rules of reality itself.
+              Their words naturally compel trust, while their plans trap enemies
+              into fatal errors and false judgments. They can manipulate natural
+              laws, extend effects beyond their limits, steal multiple abilities
+              at once, and freely create Avatars. At this level, deception is no
+              longer trickery — it is a distortion of truth itself.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -1999,6 +2963,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Trojan Horse of Destiny",
+        traits: (
+          <>
+            <p>
+              Trojan Horses of Destiny gain partial authority over Fate, Theft,
+              and Loopholes, allowing them to exploit flaws in rules, destiny,
+              powers, and reality itself. They can steal identity, fate,
+              connections, abilities, and even Beyonder Characteristics,
+              replacing others without being noticed. By sensing ripples in
+              destiny, they anticipate events and alter outcomes, while their
+              Avatars gain angelic traits. They are living contradictions that
+              break inevitability.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2029,6 +3008,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Worm of Time",
+        traits: (
+          <>
+            <p>
+              Worms of Time embody the dark side of Time itself, wielding
+              weakened authority over temporal flow and absolute mastery of
+              temporal theft. They can steal lifespan, time periods, anchors,
+              authorities, and even distance, while slowing, freezing,
+              accelerating, or reversing time within limits. Their Decryption
+              approaches omniscience, their Avatars can replace them upon death,
+              and every time-based restriction becomes a loophole waiting to be
+              exploited.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2053,6 +3047,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Error",
+        traits: (
+          <>
+            <p>
+              The Error is the manifestation of all loopholes, bugs, and
+              contradictions in existence, holding absolute authority over
+              Deceit, Theft, Time, Space, and Error itself. They can create
+              flaws in rules, reality, and causality, substitute falsehood for
+              truth, avoid attacks through logical contradictions, and steal
+              even divine authorities and abstract concepts. Their divine
+              kingdom is an erroneous environment where laws fail, logic breaks,
+              and reality itself becomes a system to exploit, marking them as
+              the ultimate embodiment of cosmic malfunction.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2095,6 +3105,21 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Hunter",
+        traits: (
+          <>
+            <p>
+              Hunters possess inhuman physical strength, speed, reaction, and
+              control, combining the power of a bear with the agility of a cat.
+              Their senses are supernaturally enhanced, allowing them to track
+              targets through scent, sound, and invisible traces, while their
+              danger intuition warns them of hostile intent. They gain extensive
+              survival and trap knowledge, including explosives, poisons,
+              terrain usage, and environmental memorization, making them lethal
+              predators in wilderness and urban environments alike.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2116,6 +3141,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Provoker",
+        traits: (
+          <>
+            <p>
+              Provokers evolve into masters of psychological warfare, gaining
+              improved physical abilities and smoother control of Spirit Vision.
+              Their core ability, Provocation, allows them to precisely trigger
+              rage, humiliation, and irrational behavior in targets through
+              words or aura, even pushing them toward loss of control. This
+              power is perfectly suited for luring enemies into traps, ambushes,
+              and fatal mistakes, reinforcing the Red Priest Pathway’s focus on
+              manipulation through conflict.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2137,6 +3177,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Pyromaniac",
+        traits: (
+          <>
+            <p>
+              Pyromaniacs gain full control over fire, freely conjuring,
+              shaping, compressing, delaying, and infusing flames into weapons,
+              bodies, and environments. Their pyrokinesis allows for fire armor,
+              explosive fireballs, delayed bombs, flame weapons, and
+              spirit-burning attacks effective against non-physical entities.
+              They gain strong fire resistance and fast-cast fire spells, making
+              them living weapons of destruction whose flames can dominate
+              battlefields with precision and overwhelming force.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2160,6 +3215,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Conspirer",
+        traits: (
+          <>
+            <p>
+              Conspirers gain sharpened intellect, enhanced senses, and powerful
+              manipulation abilities, allowing them to incite desires, mislead
+              perceptions, and weave complex conspiracies that trap enemies
+              without direct confrontation. Their flames become more refined and
+              solid, enabling parrying and complex forms, while Flame
+              Transformation allows them to merge with fire and teleport short
+              distances. At this level, fire and deception merge into a single
+              deadly art of war and manipulation.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2183,6 +3253,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Reaper",
+        traits: (
+          <>
+            <p>
+              Reapers possess the highest damage output of all Sequence 5
+              Beyonders, gaining the ability to investigate weaknesses and
+              harvest life through Cull, turning every strike into an execution
+              attempt. Their precision allows massive fire spells to split and
+              strike multiple targets accurately, while their flames grow
+              stronger, faster, and more destructive. From this point onward,
+              the Red Priest Pathway becomes a symbol of overwhelming
+              battlefield lethality.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2219,6 +3304,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Iron-blooded Knight",
+        traits: (
+          <>
+            <p>
+              Iron-blooded Knights gain unbreakable courage, demigod-level
+              physical strength, and command authority over troops through Chain
+              of Command, allowing shared senses, strength concentration, and
+              damage distribution. They can turn any object into a deadly
+              weapon, conduct long-range bombardments, and transform body and
+              flames into steel. Their pyrokinesis reaches catastrophic levels,
+              and their Mythical Creature Form manifests as an incomplete
+              Calamity Giant, embodying war and destruction.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2255,6 +3355,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - War Bishop",
+        traits: (
+          <>
+            <p>
+              War Bishops gain true authority over War, allowing them to gather
+              and distribute power across armies, share abilities, and
+              coordinate troops as a single entity. Their War Songs and War
+              Cries boost allies and suppress enemies, while Fog of War isolates
+              battlefields from divination and escape. Sacrificial rituals allow
+              them to borrow the essence of war itself, making them living
+              centers of conflict whose strength grows with the size of their
+              forces.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2281,6 +3396,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Weather Warlock",
+        traits: (
+          <>
+            <p>
+              Weather Warlocks obtain partial authority over Weather and War,
+              able to create and control massive storms, hurricanes, lightning,
+              and regional disasters while flying and moving at extreme speeds.
+              Their flames and weapons reach battlefield-scale devastation,
+              their command abilities extend for kilometers, and Fog of War
+              expands to isolate entire regions. Their Mythical Creature Form
+              becomes a complete Calamity Giant whose presence alone ignites
+              war, chaos, and natural disasters.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2316,6 +3446,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Conqueror",
+        traits: (
+          <>
+            <p>
+              Conquerors gain true authority over Conquest and War, able to turn
+              objects, terrain, and beings into loyal soldiers and form armies
+              instantly. Their Cull transforms into the Spear of Destruction,
+              capable of annihilating areas or guaranteeing death when striking
+              weaknesses. They can share their rank and powers with entire
+              armies, command forces over vast ranges, and create symbols of
+              absolute domination, embodying the unstoppable advance of war.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2348,6 +3492,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Red Priest",
+        traits: (
+          <>
+            <p>
+              The Red Priest is the Lord of War and Conquest, holding divine
+              authority over destruction, sacrifice, disaster, masculinity, and
+              conflict itself. Their presence alone can ignite wars, conquer
+              lands, and force even gods to bow. They can turn all beings,
+              objects, and concepts into soldiers, share powers across an entire
+              planet, and shatter worlds with Destruction. As the ultimate
+              embodiment of war, the Red Priest is both ritual and calamity made
+              flesh.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2399,6 +3558,20 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Warrior",
+        traits: (
+          <>
+            <p>
+              Warriors possess supernatural strength, speed, and agility far
+              beyond normal humans, forming the foundation of the Twilight Giant
+              Pathway. They gain complete mastery over weapons, armor, and
+              martial arts, allowing them to wield any weapon with expert skill
+              and adapt to any fighting style instantly. At this stage, they are
+              already extraordinary combatants whose bodies and techniques are
+              refined purely for battle.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2432,6 +3605,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Pugilist",
+        traits: (
+          <>
+            <p>
+              Pugilists further refine their bodies into living weapons, their
+              physical enhancement alone capable of resisting and weakening
+              supernatural effects. They gain powerful supernatural resistance,
+              using sheer physique and combat skill to mitigate mystical
+              interference. Their close-combat mastery surpasses all other
+              Sequences at this level, making them unstoppable in hand-to-hand
+              battle.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2466,6 +3653,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Weapon Master",
+        traits: (
+          <>
+            <p>
+              Weapon Masters reach absolute mastery over all weapons, including
+              Beyonder weapons and Sealed Artifacts, reducing their negative
+              effects through sheer control. Their superhuman physique allows
+              them to wield any armament at peak efficiency the moment it enters
+              their hands, turning them into walking arsenals capable of
+              adapting instantly to any battlefield.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2500,6 +3700,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Dawn Paladin",
+        traits: (
+          <>
+            <p>
+              Dawn Paladins gain the strength of giants, limitless stamina, and
+              explosive speed, becoming towering holy warriors of light. They
+              can conjure Dawn Armor, form weapons from sacred light, and
+              unleash the Light of Dawn to dispel corruption, illusions, and
+              evil. Their ultimate technique, Hurricane of Light, transforms
+              shattered dawn blades into a devastating storm of purification,
+              marking their transformation into holy engines of destruction.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2531,6 +3745,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Guardian",
+        traits: (
+          <>
+            <p>
+              Guardians are living fortresses whose strength and defense vastly
+              surpass Dawn Paladins, capable of enduring cannon fire and
+              battlefield devastation. They can manifest absolute protection by
+              forming indestructible defensive walls that shield allies from all
+              harm, becoming nearly unbreakable when fully committed to defense.
+              Their resistance to illusions and supernatural interference makes
+              them the ultimate shield on any battlefield.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2570,6 +3798,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Demon Hunter",
+        traits: (
+          <>
+            <p>
+              Demon Hunters possess demigod-level strength, terrifying
+              perception, and a mind that borders on divinity. They can identify
+              corruption, weakness, and lies through their Eye of Demon Hunting,
+              counter enemies with alchemy, potions, and holy preparations, and
+              conceal their intent from prophecy and divination. When pushed,
+              they can manifest an incomplete Cyclops form, gaining immense
+              power at the cost of spiraling madness.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2609,6 +3851,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Silver Knight",
+        traits: (
+          <>
+            <p>
+              Silver Knights become living weapons of light and metal, capable
+              of liquefying into silver, teleporting beams of destruction, and
+              moving through light itself. Their protection materializes as
+              permanent Silver Armor strong enough to withstand angelic
+              assaults, while their Sword of Dawn and Hurricane of Light reach
+              catastrophic levels. Their Mythical Creature form evolves into a
+              towering Cyclops that radiates overwhelming spiritual pressure and
+              destruction.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2651,6 +3908,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Glory",
+        traits: (
+          <>
+            <p>
+              Glory Angels manifest the authorities of Twilight, Combat, and
+              Holiness, becoming embodiments of divine battle and sacred decay.
+              They can age enemies to death, seal regions in unbreakable cages,
+              and wield Twilight Great-swords that freeze targets in slowing
+              time. Their presence represents the sacred beauty of destruction,
+              and their complete Cyclops Mythical Creature form embodies the
+              inevitability of twilight and decay.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2686,6 +3957,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Hand of God",
+        traits: (
+          <>
+            <p>
+              Hands of God act as divine proxies, temporarily channeling the
+              power and punishment of the deity they serve. Their combat and
+              sealing abilities are elevated to angelic extremes, allowing them
+              to imprison even observers and angels within radiant cages. While
+              their power is immense, prolonged use erodes their sanity, binding
+              them ever closer to true servitude.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2718,6 +4002,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Twilight Giant",
+        traits: (
+          <>
+            <p>
+              The Twilight Giant is the God of Combat, Twilight, and Sacred
+              Decay, whose existence bends matter, time, and will toward
+              inevitable ending. They command absolute strength, gigantism,
+              devastation, and protection, solidifying Twilight into domains
+              where time stagnates and all things rot. Their authority fuses
+              dawn and decay, beginning and ending, making them the embodiment
+              of the final light before all things collapse.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2763,6 +4061,24 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Mystery Pryer",
+        traits: (
+          <>
+            <p>
+              Mystery Pryers gain enhanced spirituality and a foundational but
+              wide-ranging grasp of mysticism, including ritual magic,
+              divination, witchcraft, and enchantment. They can summon and
+              contract Spirit World entities, use multiple divination methods,
+              and perceive spiritual auras, health, and emotions through Spirit
+              Vision. Their Eyes of Mystery Prying allow them to see hidden
+              truths, astral structures, and supernatural phenomena
+              instinctively, though this constant perception exposes them
+              heavily to corruption. They can also perform quick rituals and are
+              occasionally overwhelmed by invasive knowledge, which can be both
+              dangerous and beneficial.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2786,6 +4102,18 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Melee Scholar",
+        traits: (
+          <>
+            <p>
+              Melee Scholars receive moderate physical enhancement and apply
+              their instinct for mystery to combat itself. Through Combat
+              Prying, they rapidly analyze and master multiple martial arts
+              styles, allowing them to adapt efficiently to physical
+              confrontations while maintaining their investigative mindset.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2809,6 +4137,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Warlock",
+        traits: (
+          <>
+            <p>
+              Warlocks possess heightened spirituality that grants premonitions
+              and danger awareness, paired with true spellcasting ability. By
+              structuring spells through focus, mental symbols, and materials,
+              they wield a wide array of elemental, spiritual, purification, and
+              control magic. Their Eyes of Mystery Prying are strengthened to
+              analyze supernatural powers and extract spell knowledge, though
+              doing so is risky. They also deepen their witchcraft expertise,
+              allowing potion brewing and mystical item creation.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2832,6 +4175,18 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Scrolls Professor",
+        traits: (
+          <>
+            <p>
+              Scrolls Professors specialize in inscribing spells into scrolls,
+              drastically improving casting speed and combat efficiency. Their
+              scrolls can unleash powerful effects such as storms, freezing,
+              paralysis, purification, healing, and communication, allowing them
+              to pre-store magic and respond instantly in battle or emergencies.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2858,6 +4213,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Constellations Master",
+        traits: (
+          <>
+            <p>
+              Constellations Masters wield stellar mysticism, manipulating
+              starlight, astrology, and constellations to imprison, dissolve,
+              conceal, illuminate, or traverse space. They can fly, form star
+              bridges, isolate areas from interference, and transform into
+              dispersing starlight forms. Their Eyes of Mystery Prying expand to
+              detect hidden existences over wide ranges, while spellcasting
+              becomes faster, gesture-based, and more destructive.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2888,6 +4257,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Mysticologist",
+        traits: (
+          <>
+            <p>
+              Mysticologists draw power directly from rare and dangerous
+              mystical knowledge through Mystical Re-enactment, recreating
+              spells and witchcraft based on myths, legends, and historical
+              mysteries. The obscurity of the knowledge determines spell
+              potency, but retaliation is possible. Their Eyes of Mystery Prying
+              gain fine control, cosmic perception, and remote implantation. As
+              partial demigods, they can manifest an incomplete Mythical
+              Creature Form that induces knowledge storms, though overexposure
+              to forbidden truths makes this sequence exceptionally dangerous.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2917,6 +4302,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Clairvoyant",
+        traits: (
+          <>
+            <p>
+              Clairvoyants gain partial authority over Mystery Prying, extending
+              their vision to fate, destiny, and prophecy. They can foresee
+              consequences, glimpse optimal choices, reconstruct past events,
+              and perceive apocalyptic futures, though higher-level secrets
+              inflict severe backlash. Their Mystical Re-enactment becomes more
+              precise and frequent, and they gain the ability to respond to
+              prayers within a limited range.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2949,6 +4348,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Sage",
+        traits: (
+          <>
+            <p>
+              Sages possess authority over Mysticism Knowledge and Information
+              itself, allowing them to transform into pure informational
+              entities immune to most physical harm. They can edit, delete,
+              revise, forge, and manipulate information, bypass seals, absorb
+              powers, mislead laws, and reconstruct themselves after damage.
+              With partial authority over education and prophecy, they overwhelm
+              enemies by forcibly imparting knowledge and interpreting future
+              actions. Their Mythical Creature Form manifests as an
+              informational serpent or omniscient eye.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -2977,6 +4392,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Knowledge Emperor",
+        traits: (
+          <>
+            <p>
+              Knowledge Emperors deepen their dominion over Mysticism Knowledge,
+              granting abstract information tangible power. They can weaponize
+              knowledge itself, bestow Beyonder powers through analyzed
+              information, forge deceptive informational constructs, manipulate
+              Spirit Body Threads, and ensure absolute surprise in attacks.
+              Their authority over education allows them to overload minds with
+              lethal knowledge, while their Mystery Prying reaches even deities
+              and Great Old Ones.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3010,6 +4440,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Hermit",
+        traits: (
+          <>
+            <p>
+              The Hermit is the embodiment of Mysticism Knowledge, existing as
+              an infinite torrent of living information. They can convert all
+              concepts into spiritually significant numbers, back up and restore
+              existence through information preservation, conceal any
+              information from even True Deities, and indoctrinate all Hermit
+              Pathway Beyonders with forced knowledge. Possessing partial
+              authority over the Spirit World and absolute Mystery Prying, the
+              Hermit perceives all secrets as knowledge and reigns over a divine
+              kingdom of information.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3050,6 +4496,20 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Monster",
+        traits: (
+          <>
+            <p>
+              Monsters possess exceptionally high Spirituality, granting them
+              sharp Spiritual Perception and Intuition that often places them in
+              a trance-like state. They can sense, hear, or see phenomena beyond
+              normal awareness, occasionally glimpsing fragments of the future.
+              Their Fate-aligned perception allows them to notice dangers and
+              anomalies even other spiritually sensitive Pathways cannot, giving
+              them a strong instinctive premonition of impending threats.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3074,6 +4534,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Robot",
+        traits: (
+          <>
+            <p>
+              Robots undergo comprehensive physical and mental enhancement,
+              greatly improving strength, reflexes, combat instincts, and
+              shooting precision. Their minds gain advanced calculation
+              abilities and fine control, allowing near-machine accuracy in
+              actions. Alongside this, their already high Spirituality develops
+              further, granting proficiency in Divination and Anti-Divination
+              techniques.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3098,6 +4572,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Lucky One",
+        traits: (
+          <>
+            <p>
+              Lucky Ones are naturally favored by fluctuating fortune, passively
+              encountering beneficial coincidences such as narrowly avoided
+              attacks, unexpected gains, or improbable successes. However, their
+              Luck is unstable and unpredictable, alternating between
+              exceptional fortune and ordinary circumstances, making it
+              unreliable as a sole strategy and requiring careful judgment
+              rather than blind dependence.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3123,6 +4611,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Calamity Priest",
+        traits: (
+          <>
+            <p>
+              Calamity Priests possess Spirituality surpassing most Pathways and
+              gain the ability to attract disasters both passively and actively.
+              While they naturally draw misfortune toward themselves, their
+              foresight allows them to prepare and weaponize these dangers
+              against enemies. They can also deliberately summon calamities onto
+              targets while avoiding harm through Luck, and unleash Psyche
+              Storms that destabilize opponents’ Spirit Bodies, causing
+              confusion and compounding disaster.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3147,6 +4650,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Winner",
+        traits: (
+          <>
+            <p>
+              Winners exhibit greatly enhanced Spirituality, foresight, and
+              mystical expertise, allowing them to instinctively make optimal
+              decisions in chaotic situations. Their passive Luck evolves into
+              something partially controllable, enabling them to accumulate
+              fortune through restraint and endure crises with dramatic
+              reversals. They can curse enemies with misfortune, subtly shifting
+              outcomes, while consistently encountering low-probability
+              advantages that increase survival and success.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3177,6 +4695,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Misfortune Mage",
+        traits: (
+          <>
+            <p>
+              Misfortune Mages undergo a qualitative transformation into a
+              Mercury Body with strong physical enhancement and innate
+              Anti-Divination properties. They wield powerful Luck-based
+              authorities, creating Misfortune Fields that curse all within
+              range, selectively Blessing allies, and inflicting lethal bad luck
+              upon enemies. Their Absolute Foresight grants awareness of destiny
+              shifts and higher entities, while their Psyche Storm induces
+              spiritual disorientation and mental madness, marking their entry
+              into partial godhood.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3210,6 +4744,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Chaoswalker",
+        traits: (
+          <>
+            <p>
+              Chaoswalkers gain partial authority over Chaos, allowing them to
+              perceive, manipulate, and cleanse chaotic elements within Fate.
+              They can destabilize predestined outcomes, guide spirits toward
+              controlled madness, or purify them through Spiritual Baptism.
+              Their prior Misfortune Mage abilities are strengthened, and as
+              high-ranking Beyonders, they can respond to prayers within a
+              limited range.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3245,6 +4793,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Soothsayer",
+        traits: (
+          <>
+            <p>
+              Soothsayers hold partial authority over Fate, encompassing Luck,
+              Misfortune, and Foresight. They can issue Prophecies with a high
+              probability of realization, gaze directly into the River of Fate
+              for Revelations, and influence outcomes through Words of Fortune
+              or Misfortune across vast distances. Their Mercury Snake Mythical
+              Form binds them closely to Fate itself, granting temporary
+              invulnerability and overwhelming control over destiny’s flow.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3285,6 +4847,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Snake of Mercury",
+        traits: (
+          <>
+            <p>
+              The Snake of Mercury gains authority over Cycles and Reboots of
+              Fate, allowing time loops, destiny resets, and preservation of
+              accumulated Luck. Through Fated Connections, their power can be
+              stored and channeled via objects across distance. They can
+              overwrite reality with saved states, escape inevitable death by
+              rebirth, conceal their destiny, and influence dreams through the
+              Spirit World, embodying Fate’s recursive and self-correcting
+              nature.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3302,8 +4879,8 @@ export const Data = [
             <ul>
               <li>One's own umbilical cord from birth or eggshell remnants.</li>
               <li>
-                9 drops of "water" closely related to oneself extracted via a
-                special method from the River of Fate.
+                9 drops of "water" closely related to oneself extracted from the
+                River of Fate.
               </li>
               <li>
                 One item contaminated by the Gray Fog of the Sefirah Castle.
@@ -3323,6 +4900,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Wheel of Fortune",
+        traits: (
+          <>
+            <p>
+              The Wheel of Fortune is the living embodiment of Fate, freely
+              traversing the River of Fate while wielding supreme authority over
+              Probability, Foresight, Cycles, and Chaos. They can precisely
+              enforce Prophecies, manipulate event likelihoods on a global
+              scale, reset reality segments, and govern reincarnation and
+              disorder. Their Divine Kingdom, the Light Cone World, operates
+              entirely on probability, reflecting Fate’s inherently chaotic and
+              maddening essence.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3385,6 +4977,21 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Spectator",
+        traits: (
+          <>
+            <p>
+              Spectators possess greatly enhanced mental faculties, including
+              inference, analysis, observation, memory, and identification,
+              allowing them to objectively observe others from a detached,
+              bystander perspective. Their sharpened vision enables precise
+              reading of body language even from a distance, letting them
+              accurately infer thoughts, emotions, and intentions, and construct
+              detailed mental models of individuals or groups based on subtle
+              behavioral cues.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3408,6 +5015,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Telepathist",
+        traits: (
+          <>
+            <p>
+              Telepathists further refine their enhanced vision and gain the
+              ability to read the superficial thoughts of others, as well as
+              simulate the direction those thoughts may take. Their Body
+              Language Analysis deepens beyond physical observation, extending
+              into emotional, auric, and Etheric layers, while also granting
+              instinctive mastery over appropriate emotional responses,
+              expressions, and behavioral mimicry.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3431,6 +5052,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Psychiatrist",
+        traits: (
+          <>
+            <p>
+              Psychiatrists advance from passive observation into direct mental
+              interference, gaining moderate physical enhancement alongside
+              heightened sensory perception. They can induce Frenzy, manipulate
+              emotions, implant psychological cues, communicate directly with
+              the Body of Heart and Mind, and enter the depths of a target’s
+              dreamland. Their abilities allow them to destabilize minds through
+              Awe, calm and stabilize those near loss of control through
+              Placate, and analyze others indirectly through images or
+              representations.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3454,6 +5091,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Hypnotist",
+        traits: (
+          <>
+            <p>
+              Hypnotists surpass ordinary humans in strength and agility and
+              develop Dragon Scales that significantly reduce physical damage.
+              Their psychological influence undergoes a qualitative leap,
+              granting true Hypnosis capable of altering consciousness and
+              subconscious behavior in both combat and non-combat scenarios.
+              They can achieve Psychological Invisibility, erasing their
+              presence from a target’s awareness entirely, remaining undetected
+              even under Spirit Vision or danger intuition unless direct
+              interaction breaks the illusion.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3488,6 +5141,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Dreamwalker",
+        traits: (
+          <>
+            <p>
+              Dreamwalkers gain authority over dreams as a subtle and long-term
+              medium of control, allowing them to alter dreams to influence
+              behavior without detection. They can guide dreams to extract
+              secrets, traverse between dreams by becoming incorporeal, and
+              contaminate a target’s subconscious through repeated dream
+              interaction. Compared to hypnosis, their influence is gentler,
+              more concealed, and capable of affecting even Demigods with
+              sufficient preparation.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3525,6 +5193,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Manipulator",
+        traits: (
+          <>
+            <p>
+              As Demigods, Manipulators gain immense physical power and
+              dragon-scale defenses while achieving terrifying dominance over
+              the Mind World. They can directly invade Mind Islands, rewrite
+              subconscious directives, spread contagious Mental Plagues, unleash
+              Mind Storms that erode sanity, and command multiple Virtual
+              Personas to attack or defend mentally. Their abilities evolve into
+              Mind Deprivation, enhanced Psychological Invisibility, and Mind
+              Dragon Breath, and they may manifest an incomplete Giant Dragon
+              Mythical Creature Form that warps minds through its mere presence.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3556,6 +5240,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Dream Weaver",
+        traits: (
+          <>
+            <p>
+              Dream Weavers can seamlessly weave dreams indistinguishable from
+              reality, creating scenes, beings, and narratives that become real
+              to those who believe in them. Their powers extend into devastating
+              Plague Storms of madness, advanced Psychological Invisibility
+              through mental mirages, expanded Consciousness Stroll that allows
+              bodily entry into the Sea of Collective Subconscious, and the
+              ability to materialize Virtual Personas as independent living
+              beings.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3590,6 +5289,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Discerner",
+        traits: (
+          <>
+            <p>
+              Discerners wield Discernment as a foundational authority, allowing
+              them to perceive psychological weaknesses, hidden fears, and
+              causal destinies while resisting most concealment and
+              anti-divination. They can construct Dream Mazes from
+              interconnected Mind Islands to interrogate and destabilize minds,
+              elevate Psychological Cue into pure idealistic authority, and
+              weave dreams that affect reality itself. Their mastery of the Sea
+              of Collective Subconscious grants unparalleled insight into
+              consciousness and mental exchange.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3627,6 +5342,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Author",
+        traits: (
+          <>
+            <p>
+              Authors gain preliminary dominion over Imagination, Coincidence,
+              and the Mind, allowing them to merge dreams with reality and turn
+              stories into lived truth. Their narratives subtly manipulate
+              events, emotions, and actions within logical bounds, shaping
+              reality across an entire city while remaining difficult to detect.
+              Through Discernment and Psyche authority, whatever is spoken of
+              them becomes known, and those influenced believe their actions
+              arise from genuine free will.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3663,6 +5393,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Visionary",
+        traits: (
+          <>
+            <p>
+              Visionaries stand at the pinnacle of the Pathway, capable of
+              manifesting imagination into absolute reality across mind, dream,
+              fate, and the Astral World. They hold dominion over the Mind
+              World, Dreams, Discernment, and Loss of Control, able to reshape
+              humanity, erase or awaken memories, declare futures into
+              existence, and materialize Divine Kingdoms. With sufficient
+              conceptual mastery, they approach functional omnipotence,
+              embodying the ultimate authority of Vision made real.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3723,6 +5468,22 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Secrets Suppliant",
+        traits: (
+          <>
+            <p>
+              Secrets Suppliants possess abnormally high Spirituality, granting
+              heightened spiritual perception capable of sensing hidden,
+              terrifying existences and the auras of powerful Beyonders unless
+              deliberately concealed. They gain rudimentary proficiency in
+              Divination and Ritualistic Magic, alongside mysticism knowledge
+              centered on sacrifices and forbidden entities. However, the
+              sinister Honorific Names and distorted truths embedded in their
+              potion knowledge subtly warp cognition, greatly increasing the
+              risk of mental instability and loss of control.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3746,6 +5507,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Listener",
+        traits: (
+          <>
+            <p>
+              Listeners experience a further surge in Spirituality and are
+              perpetually exposed to the whispers of secret and distorted
+              entities, granting access to dangerous knowledge and anomalous
+              abilities. This power is passively active, causing them to hear
+              far more than ordinary Beyonders and leaving them mentally
+              unstable even when appearing normal. Prolonged exposure without
+              advancement almost inevitably leads to madness or death, making
+              Listeners notoriously short-lived and internally lunatic.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3769,6 +5545,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Shadow Ascetic",
+        traits: (
+          <>
+            <p>
+              Shadow Ascetics gain preliminary authority over Shadows, allowing
+              them to lurk within darkness, manipulate and shape shadows into
+              weapons or creatures, curse targets through shadow-linked rituals,
+              and influence or capture a target’s Shadow in the Shadow World.
+              Their concealment warps perception and sound, evoking dread in
+              observers, while shadow summoning remains highly dangerous due to
+              the risk of uncontrollable or self-devouring entities. At this
+              stage, they also gain control over their Listening ability,
+              enabling it to be deactivated.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3792,6 +5584,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Rose Bishop",
+        traits: (
+          <>
+            <p>
+              Rose Bishops master Flesh and Blood Magic, achieving near-total
+              control over cellular mutation and regeneration, allowing them to
+              survive catastrophic injuries, regenerate lost limbs, and ignore
+              conventional fatal wounds so long as their Soul endures. Their
+              abilities include melting into flesh, infiltrating hosts, creating
+              flesh bombs and puppets, resisting physical damage, and hiding
+              bodies within themselves. However, their powers require constant
+              replenishment of Flesh and Blood, failure of which rapidly leads
+              to loss of control or death.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3817,6 +5625,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Shepherd",
+        traits: (
+          <>
+            <p>
+              Shepherds gain the core ability of Grazing, allowing them to
+              swallow Souls and Beyonder powers for personal use, including
+              Demigod-level spirits at extreme risk. They can store multiple
+              Souls, switch between them instantly, and selectively wield
+              limited abilities while retaining their own powers. Grazing is
+              unstable, temporary, and dependent on soul integrity, with
+              interference potentially triggering loss of control. Their Flesh
+              and Blood Magic and Shadow manipulation advance further, enabling
+              devouring bodies entirely and commanding deep, non-living Shadows.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3847,6 +5671,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Black Knight",
+        traits: (
+          <>
+            <p>
+              Black Knights embody Degeneration through the manifestation of
+              Cull of Spiritual Flesh, a black greatsword that corrodes flesh,
+              annihilates souls, and ignores defenses rooted in depravity. They
+              don black degenerative armor, command Shadows to entangle or
+              imprison foes, and can externalize depraved thoughts into Shadows
+              of Depravation that induce corruption and madness. Their Grazing
+              expands in scale and freedom, and they acquire an incomplete
+              Mythical Creature Form composed of writhing flesh and shadow.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3876,6 +5715,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Trinity Templar",
+        traits: (
+          <>
+            <p>
+              Trinity Templars gain lower authorities over Flesh and Blood,
+              allowing them to split into three bodies through shadowed heads,
+              each capable of Grazing Souls independently. Their regenerative
+              immortality allows reconstruction from a single surviving cell if
+              flesh is available, provided their spirit remains intact. Shadow
+              abilities evolve further with substitution techniques, and Grazing
+              expands massively, enabling simultaneous use of multiple released
+              Souls while granting limited responsiveness to prayers.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3905,6 +5759,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Profane Presbyter",
+        traits: (
+          <>
+            <p>
+              Profane Presbyters wield the authority of Profane Language,
+              allowing them to weaponize words, meanings, and communication
+              itself to induce separation, imprisonment, degeneration, or
+              corruption. Speech and identity become sources of power, with
+              self-referential declarations amplifying strength and existence.
+              Their curses extract depravity directly from the Soul, dragging
+              targets into spiritual collapse, while their Flesh, Shadow, and
+              Grazing abilities continue to strengthen alongside a now-complete
+              Mythical Creature Form.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3935,6 +5805,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Dark Angel",
+        traits: (
+          <>
+            <p>
+              Dark Angels approach godhood with mastery over Shadows,
+              Degeneration, Darkness, and Profane Language, becoming
+              near-absolute rulers within the Shadow World and immune to
+              shadow-based powers. They corrupt objects, bodies, abilities, and
+              loyalty itself, command degenerated Souls as fanatical dependents,
+              and unleash profane speech capable of annihilating Demigods. Their
+              Darkness manifests as devouring black seas that nullify attacks
+              and erode cognition, while Grazing reaches its peak capacity.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -3956,11 +5841,33 @@ export const Data = [
                 White Tower, or Visionary Pathways.
               </li>
             </ul>
+
+            <p>Advancement Ritual:</p>
+            <p>
+              Fly toward the mystically conceptualized Sun, endure for 15
+              minutes to merge with the shadow of light.
+            </p>
           </>
         ),
       },
       {
         seqTitle: "Sequence 0 - Hanged Man",
+        traits: (
+          <>
+            <p>
+              The Hanged Man is the True God of Degeneration and Depravity, an
+              amalgamation of Shadows and writhing Flesh embodying Sin-Bearing
+              and Sacrifice. As the absolute ruler of the Shadow World, they
+              wield supreme authority over Darkness, Mutation, Corruption, and
+              Degenerate Nature itself, forcing all beings to confront their
+              inherent depravity. Through sacrifice, corruption, and omnipotent
+              Grazing, they bear the sins of others, reshape life through
+              mutation, and spread all-consuming darkness that devours both body
+              and soul.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4011,6 +5918,22 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Corpse Collector",
+        traits: (
+          <>
+            <p>
+              Corpse Collectors gain enhanced physical strength, lowered body
+              temperature, and a gloomy presence that grants resistance to cold,
+              decay, and cadaveric corrosion while discouraging attacks from
+              Undead and Spirits. Their Spirituality is mildly enhanced,
+              allowing Spirit Vision and passive perception of spiritual bodies
+              such as ghosts, Wraiths, and fragments of Evil Spirits even
+              without activation. They also acquire extensive knowledge of
+              Undead physiology and weaknesses, making them experts in autopsy
+              and corpse analysis.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4034,6 +5957,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Gravedigger",
+        traits: (
+          <>
+            <p>
+              Gravediggers become more agile and spiritually sensitive, with
+              improved Spirit Vision and heightened Spirituality. They gain the
+              ability to communicate with nearby Spirits, commanding them to
+              scout, restrain targets, or perform simple tasks. Through the Eye
+              of Death, they can instantly perceive the structural weaknesses of
+              Undead and Spirit creatures, observing them from an elevated
+              spiritual perspective as if peering directly into the realms of
+              Death and the Spirit World.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4057,6 +5995,24 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Spirit Medium",
+        traits: (
+          <>
+            <p>
+              Spirit Mediums experience a massive surge in Spirituality and
+              Spiritual Perception, allowing them to sense hidden Spirits even
+              with closed eyes and wield greatly enhanced Spirit Vision. Their
+              core ability, Spirit Channelling, enables direct communication and
+              command over natural Spirits, ghosts, and recently deceased souls,
+              producing diverse supernatural effects through controlled
+              manifestations. Regarded as kin by Spirits, they gain vast
+              information networks, ritual knowledge related to Spirits,
+              protective techniques for channelling living Souls, and the
+              ability to disguise themselves as Zombies to resist deathly
+              erosion.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4083,6 +6039,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Spirit Guide",
+        traits: (
+          <>
+            <p>
+              Spirit Guides gain dominance over groups of ownerless Undead and
+              deceased Spirits, capable of enslaving them through the evolved
+              Language of the Dead, which bypasses physical defenses to directly
+              target Spirit Bodies. They can resurrect corpses as mindless
+              Zombies or skeletons and preemptively command vast Spirit forces,
+              sometimes numbering in the thousands. Their strength is highly
+              dependent on the quality of Spirits under their control, and they
+              gain extensive knowledge of the Spirit World while remaining
+              vulnerable to rebellion from higher Death Pathway entities.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4106,6 +6078,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Gatekeeper",
+        traits: (
+          <>
+            <p>
+              Gatekeepers gain authority over the Door to the Underworld,
+              allowing them to sense, manifest, and wield gateways that drag
+              enemies into the realm of the dead through overwhelming suction
+              and grasping horrors. They house an Internal Underworld within
+              their bodies, storing Souls, Spirits, and Undead armies for covert
+              deployment while gaining unique deathly abilities tied to resident
+              entities. This internal domain grants immense power but makes them
+              prime targets for possession by Evil Spirits.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4135,6 +6122,23 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Undying",
+        traits: (
+          <>
+            <p>
+              Undying Beyonders become functionally immortal to physical attacks
+              unless completely destroyed, existing in a hybrid state between
+              flesh and Spirit Body. They undergo cyclical reincarnation every
+              sixty years, resurrecting with erased memories and reset madness
+              while risking permanent annihilation through accumulating death
+              imprints in the River of Eternal Darkness. They gain partial
+              authority over the Underworld, enabling sealing, Spirit World
+              traversal, battlefield control, and Death-based spellcasting,
+              alongside an incomplete Mythical Creature Form resembling a
+              Feathered Serpent.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4172,6 +6176,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Ferryman",
+        traits: (
+          <>
+            <p>
+              Ferrymen become near-invulnerable to most attacks except
+              purification, wielding the Hands of Life and Death to reverse or
+              accelerate mortality through touch. As embodiments of Death tied
+              to the Underworld, their gaze alone can instantly kill or cause
+              gradual withering, even affecting godhood-bearing entities. Their
+              existence becomes intertwined with rivers of Death such as the
+              Styx, and instead of reincarnating, they slowly transform into
+              sentient Undead, gaining responsiveness to prayers.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4204,6 +6223,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Death Consul",
+        traits: (
+          <>
+            <p>
+              Death Consuls wield true authority over Death and Enslavement,
+              capable of manifesting a city-sized Nation of the Dead where life
+              instantly perishes and becomes Undead. Existing beyond the
+              boundary of life and death, they are extraordinarily difficult to
+              destroy, commanding vast Undead armies through their Internal
+              Underworld. Their Absolute Death suppresses resurrection and
+              substitution abilities, while hierarchical judgment grants
+              overwhelming dominance over all Dead beings, including Angel-level
+              Evil Spirits.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4235,6 +6270,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Pale Emperor",
+        traits: (
+          <>
+            <p>
+              Pale Emperors rule through Pallor, creating a colorless world
+              where Beyonder powers wither, concepts erode, and even Death
+              itself can weather away in moments. Their Enslavement authority
+              allows extraction and domination of Spirit Bodies, suppressing all
+              beings with Souls and gradually killing the living into obedient
+              corpses. Through Death Decree, any being below True Deity level
+              that falls within their sight or indication dies instantly, making
+              them sovereigns of decay, silence, and inevitable extinction.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4263,6 +6313,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Death",
+        traits: (
+          <>
+            <p>
+              Death, the Eternal Sleeper, embodies the absolute Endpoint of
+              existence, wielding conceptual Death that severs life, memory,
+              causality, and even the imprints of being. Under this authority,
+              resurrection, substitution, and historical anchoring are rendered
+              meaningless as even Beyonder Characteristics briefly die. As the
+              source of Undead, master of Enslavement, and wielder of ultimate
+              Pallor, Death represents the final silence of all things and the
+              immutable destination of every cycle of existence.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4311,6 +6376,22 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Prisoner",
+        traits: (
+          <>
+            <p>
+              Prisoners possess enhanced physical strength and sharpened senses
+              beneath a restrained, staid exterior that conceals intense
+              suppressed desires and madness. Upon advancement, they gain
+              extensive criminal knowledge, mastering escape techniques,
+              improvised weapons, explosives, and unconventional killing
+              methods. Their core trait is Binding, as their Spirituality and
+              Desires are forcibly restrained by reason, the body, and the
+              surrounding world, creating a constant internal tension between
+              control and eruption.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4334,6 +6415,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Lunatic",
+        traits: (
+          <>
+            <p>
+              Lunatics can voluntarily abandon rationality to enter a Berserk
+              state, unleashing suppressed Desires in exchange for massive
+              enhancements across all physical and spiritual attributes while
+              retaining limited self-control. Their strengthened Binding
+              restrains both body and Soul, making them difficult to divine or
+              read through Spirit Channelling. From this Sequence onward, they
+              suffer Lunatic’s Curse, greatly increasing their risk of losing
+              control compared to most Beyonders.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4357,6 +6453,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Werewolf",
+        traits: (
+          <>
+            <p>
+              Werewolves possess terrifying physical prowess even without
+              transformation, including extreme speed, strength, agility, and
+              regenerative abilities. Through Werewolf Transformation, they gain
+              clawed and fanged forms equivalent to Beyonder weapons, venom
+              capable of creating short-lived thralls, darkness-manipulating
+              Spell-like abilities, and partial transformations for selective
+              power use. They resist divination through innate Anti-Divination
+              but suffer Werewolf’s Curse, losing sanity and succumbing to
+              bloodlust during every Full Moon unless restrained.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4379,6 +6491,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Zombie",
+        traits: (
+          <>
+            <p>
+              Zombies become heavily armored living dead with steel-hard bodies,
+              overwhelming strength, rapid regeneration, and immunity to fire,
+              drowning, poison, and many spells unless their Spirit Body is
+              targeted. They gain Frost and Ice manipulation, Decay and
+              Withering abilities, and powerful control over undead and ghosts.
+              Their Zombie’s Curse drives an intense craving for human blood and
+              flesh, especially during Full Moons, replacing all prior curses
+              but inflicting severe pain if resisted.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4401,6 +6528,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Wraith",
+        traits: (
+          <>
+            <p>
+              Wraiths exist as a fusion of flesh and Spirit Body, capable of
+              becoming intangible phantoms immune to most physical harm while
+              directly attacking Souls. They gain invisibility resistant to most
+              Spirit Vision, Spirit World traversal, possession of living or
+              undead targets, devastating Spirit-damaging shrieks, mirror-based
+              teleportation, and Death-related spells. Their Anti-Divination
+              strengthens, but Wraith’s Curse forces them to consume human Souls
+              during Full Moons or suffer extreme weakness and mental collapse.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4431,6 +6573,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Puppet",
+        traits: (
+          <>
+            <p>
+              Puppets gain Demigod-level durability, heightened Spirituality,
+              and formidable intuition while mastering Curses through symbolic
+              connections. They can transform into mystical puppets to reflect
+              damage onto targets, control all nearby lifeless objects through
+              Poltergeist, and Perform previous Sequences at weakened divinity.
+              Objectification allows them to fully restrain their madness at the
+              cost of direct interaction with reality, while their Wraith form
+              evolves into an Evil Spirit and they manifest an incomplete
+              Curse-based Mythical Creature Form.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4466,6 +6624,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Disciple of Silence",
+        traits: (
+          <>
+            <p>
+              Disciples of Silence brew devastating Curses through prolonged
+              silence, gaining Angel-adjacent power as living Cursed Artifacts
+              capable of possessing objects. Their Source of Curses undergoes a
+              qualitative leap, no longer requiring self-harm, while
+              Transfiguration Curses can temporarily reduce targets to harmless
+              creatures. They respond to prayers within range, wield enhanced
+              Evil Spirit forms, and curse through indirect symbolic and
+              environmental connections.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4498,6 +6671,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Ancient Bane",
+        traits: (
+          <>
+            <p>
+              Ancient Banes are complete Mythical Creatures composed of
+              aggregated Curses bound to a core vessel, granting functional
+              immortality unless their Dwelling Object is destroyed. They
+              radiate Bane effects that distort Desires, values, and sanity,
+              wield partial authority over Angel-level Curses, transfigure
+              multiple targets through sight alone, influence Spirits directly,
+              resurrect via the Spirit World, and counter historical
+              interference through Curse-based manipulation.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4528,6 +6716,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Abomination",
+        traits: (
+          <>
+            <p>
+              Abominations wield terrifying Deviant and Curse authority,
+              manifesting grotesque true forms that radiate madness, distortion,
+              chaos, hatred, and indulgence. They can deform or temporarily
+              create Deviant beings, seal environments through cursed barriers,
+              corrupt Spirituality, and deliver undetectable Curses that strike
+              across any connection, even historical projections. Their presence
+              alone erodes harmony between body and Soul, turning existence
+              itself into a prison of corruption.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4557,6 +6760,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Chained",
+        traits: (
+          <>
+            <p>
+              The Chained is the True God of Binding, Curses, Deviants, and
+              Objects, embodying absolute Temperance and enforced Unity. They
+              unknowingly curse through symbolism, dominate and suppress all
+              Deviants, restrain madness, Desires, Beyonder Characteristics, and
+              Spirit World connections, and command all Objects, including
+              unclaimed Sefirot. Their Divine Kingdom, Thorn Paradise, binds
+              countless Curses and Deviants, making the Chained the ultimate
+              arbiter of restraint, indulgence, and control.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4605,6 +6823,21 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Criminal",
+        traits: (
+          <>
+            <p>
+              Criminals possess enhanced physical strength and sharpened
+              instincts while no longer suppressing their Desires, allowing evil
+              impulses to guide their actions without completely annihilating
+              conscience or humanity. Upon advancement, they gain Criminal
+              Proficiency, mastering the effective use of any object or
+              weapon—ranging from firearms and blades to improvised tools—for
+              lethal combat, excelling in violence driven by instinct and
+              experience rather than technique alone.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4630,6 +6863,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Unwinged Angel",
+        traits: (
+          <>
+            <p>
+              Unwinged Angels abandon conscience entirely, indulging fully in
+              evil Desires as their bodies undergo inhuman mutations. Their
+              physical attributes are further enhanced, and they acquire
+              multiple Devil Spell-like abilities that vary individually,
+              including poisonous flames, foul curses spoken through corrupted
+              language, toxic black smoke, and Slowness, marking their
+              transition toward true Abyssal corruption.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4656,6 +6903,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Serial Killer",
+        traits: (
+          <>
+            <p>
+              Serial Killers gain enhanced intelligence and mental acuity
+              alongside profound knowledge of Devil worship and Abyssal
+              Ritualistic Magic. Through meticulously crafted killing sprees
+              designed to satisfy Devils, they can summon Devil projections from
+              the Abyss to gain assistance. They also acquire Interference,
+              allowing them to disrupt Divination and Spirit Channeling, making
+              their crimes and rituals difficult to trace or predict.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4681,6 +6942,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Devil",
+        traits: (
+          <>
+            <p>
+              Devils undergo the first qualitative transformation of the Abyss
+              Pathway, gaining massively enhanced strength, speed, defense,
+              regeneration, and resistance to poisons, flames, and lower-level
+              curses. Their bodies mutate into armor-like flesh while their
+              Bloodline manifests unique racial traits and abilities. They wield
+              Abyssal Spells through Foul Language—such as Slow, Death, and
+              Corruption—alongside fire, poison, and filth-based magic, gain
+              Malice-based Danger Premonition, and can temporarily enter
+              Demonization to unleash their true monstrous forms.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4706,6 +6983,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Desire Apostle",
+        traits: (
+          <>
+            <p>
+              Desire Apostles gain absolute control over emotions and Desires,
+              allowing them to manipulate targets remotely by catalyzing
+              emotional fluctuations or planting Defiling Seeds. They can
+              corrupt minds, induce emotional collapse, cause physical damage
+              through Desire overload, or render targets helpless through
+              emotional domination. Their Avatar of Desire transforms them into
+              a semi-liquid manifestation of condensed wicked emotions, granting
+              high mobility, concealment, and corruptive influence, while prior
+              Abyssal abilities are significantly strengthened.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4729,8 +7022,7 @@ export const Data = [
             <ul>
               <li>
                 Serial killings targeting those who have fallen from grace; the
-                minimum is 13 people, the maximum is 49, the more complete the
-                ritual, the greater the chance of advancement.
+                minimum is 13 people, the maximum is 49.
               </li>
               <li>
                 There must be at least a three-day interval between two
@@ -4747,6 +7039,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Demon",
+        traits: (
+          <>
+            <p>
+              Demons embody both Body and Mind, possessing Demigod-tier physical
+              prowess, exceptional intelligence, and powerful Abyssal magic.
+              They subtly erode the cognition of those around them while
+              directly manipulating Desires without requiring emotional
+              triggers, forcing targets into illusions where emotions
+              explosively escalate toward madness, death, or loss of control.
+              Their Malice Perception sharpens to long-range precognition, their
+              Foul Language expands, and they may partially manifest their
+              incomplete Mythical Creature Form through localized Demonization.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4777,6 +7085,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Blatherer",
+        traits: (
+          <>
+            <p>
+              Blatherers gain authority over Corruption of the Mind and Spirit,
+              turning speech itself into a lethal weapon capable of inducing
+              insanity, loss of control, curses, or instant death. Once a
+              connection is established, they can project their voice across
+              vast distances to kill or influence targets remotely. They can
+              respond to prayers within range and exert immediate
+              counter-influence when sensing danger through Malice Perception.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4810,6 +7132,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Bloody Archduke",
+        traits: (
+          <>
+            <p>
+              Bloody Archdukes wield Angel-level authority over Malice and Body,
+              commanding Blood, bodily fluids, Fear, and murderous intent.
+              Through Seeds of Malice, they can resurrect within a target’s
+              psyche after destruction, igniting Blood and Desires to kill the
+              host. They dominate Blood as a medium of corrosion, regeneration,
+              and pollution, instilling instinctive Fear that paralyzes thought
+              while resisting mental control through overwhelming Malice.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4845,6 +7181,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Filthy Monarch",
+        traits: (
+          <>
+            <p>
+              Filthy Monarchs possess terrifying authority over Filth,
+              Corruption, Corrosion, and Abyssal Flames, ruling all that is
+              unclean, sinful, and degenerate. Their presence contaminates even
+              Angels, corrodes any barrier through sustained influence, and
+              manifests Flames that combine burning, toxins, corrosion, and
+              corruption. All previous Abyssal abilities reach near-divine
+              potency, and their Mythical Creature Form manifests as a nightmare
+              of filth within a blackened abyss.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4863,30 +7214,37 @@ export const Data = [
             </ul>
 
             <p>Advancement Ritual:</p>
+            <p>Corrupt a nation of at least 10 million inhabitants:</p>
             <p>
-              Corrupt a nation of at least 10 million inhabitants:
-              <ul>
-                <li>
-                  The Upper Class shall be controlled by desires, everyone of
-                  them becoming a Devil.
-                </li>
-                <li>
-                  The Lower Class becoming destitute and without any hope of
-                  escaping their predicament, ultimately even their own children
-                  and organs become the property of others.
-                </li>
-                <li>
-                  The Middle Class becoming like climbing a series of collapsing
-                  cliffs, watching as their own layer collapses and falls into
-                  the Abyss below, desperately trying to climb upwards in fear.
-                </li>
-              </ul>
+              The Upper Class shall be controlled by desires, everyone of them
+              becoming a Devil. The Lower Class becoming destitute and without
+              any hope of escaping their predicament, ultimately even their own
+              children and organs become the property of others. The Middle
+              Class becoming like climbing a series of collapsing cliffs,
+              watching as their own layer collapses and falls into the Abyss
+              below.
             </p>
           </>
         ),
       },
       {
         seqTitle: "Sequence 0 - Abyss",
+        traits: (
+          <>
+            <p>
+              The Abyss is the embodiment of Degeneration, Filth, Corruption,
+              Desire, Malice, Curses, Deviants, and the Abyss of the Heart,
+              declaring “The Abyss is me, and I am the Abyss.” They induce and
+              create Degeneration rather than merely representing it, ignite
+              Desires through Mind authority, command Filth and Toxins, wield
+              Spirit- and Mind-based Curses, and encompass all Deviant
+              mutations. Their form reflects the deepest fear or yearning of
+              each observer, symbolizing the inescapable Abyss within every
+              heart.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4946,6 +7304,18 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Reader",
+        traits: (
+          <>
+            <p>
+              Readers experience a significant enhancement to reasoning,
+              learning speed, and memory, alongside increased Spirituality. This
+              allows them to perform basic Divination Arts and Ritualistic
+              Magic, granting early access to mystical perception, symbolic
+              interpretation, and simple ritual operations.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4962,6 +7332,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Student of Ratiocination",
+        traits: (
+          <>
+            <p>
+              Students of Ratiocination gain greatly enhanced observation,
+              logic, and deductive reasoning, allowing them to infer causes,
+              motives, and outcomes through careful analysis of information and
+              environment. Their Spirituality further strengthens, elevating
+              them into experts of Ritualistic Magic and Divination Arts capable
+              of systematic mystical reasoning.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4978,6 +7361,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Detective",
+        traits: (
+          <>
+            <p>
+              Detectives are masters of deduction, capable of reconstructing
+              past events through lingering mystical traces and piecing together
+              complex truths from fragmented clues. Their Spirituality advances
+              to the level of Ritualistic Magic masters, while physical
+              enhancements grant improved mobility and speed. They also gain
+              strong combat proficiency, effectively wielding weapons, tools,
+              and close-quarters techniques.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -4994,6 +7391,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Polymath",
+        traits: (
+          <>
+            <p>
+              Polymaths possess extraordinary comprehension and learning
+              ability, rapidly mastering diverse fields of knowledge. Through
+              Analysis, they can dissect Beyonder abilities— even Demigod-level
+              and Fate-related powers— identifying strengths and weaknesses.
+              With sufficient understanding, they can Imitate these abilities at
+              reduced potency, with success and effectiveness depending heavily
+              on knowledge depth and potion digestion.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5010,6 +7421,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Mysticism Magister",
+        traits: (
+          <>
+            <p>
+              Mysticism Magisters gain supreme spellcraft mastery, capable of
+              inventing, modifying, and optimizing unique Spells tailored to
+              their own understanding. With sufficient knowledge and materials,
+              they can produce offensive, defensive, healing, or sealing
+              effects, sometimes omitting casting steps entirely. Their spell
+              repertoire is highly individualized, reflecting their arcane
+              creativity and depth of understanding.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5029,6 +7454,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Prophet",
+        traits: (
+          <>
+            <p>
+              Prophets attain Demigod-level insight into Fate, granting the
+              power of Prophecy to foresee future events, dangers, and
+              opportunities. Their spellcasting improves dramatically, allowing
+              rapid countermeasure creation through combined Analyze and
+              Imitation. They can discern Beyonders at a glance and manifest an
+              incomplete Mythical Creature Form composed of illusory
+              bookshelves.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5048,6 +7487,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Cognizer",
+        traits: (
+          <>
+            <p>
+              Cognizers gain profound insight into the laws and rules of
+              reality, allowing them to perceive secrets, symbols, and
+              weaknesses almost effortlessly. Through Cognize and the Fulcrum,
+              they leverage knowledge itself to influence the world, solve
+              problems, and derive powerful Spells from abstract symbolism. They
+              can respond to prayers within a certain range.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5067,6 +7519,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Wisdom Angel",
+        traits: (
+          <>
+            <p>
+              Wisdom Angels wield the authority of Wisdom, enabling them to
+              consistently make the most optimal decisions by accurately
+              foreseeing shifts in situations. Combined with advanced Prophecy
+              and Cognition, they are exceptionally difficult to trap or kill.
+              Their complete Mythical Creature Form manifests as endless
+              illusory bookshelves filled with pools of shadowed knowledge.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5086,6 +7551,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Omniscient Eye",
+        traits: (
+          <>
+            <p>
+              The Omniscient Eye possesses authority over Omniscience within the
+              domain of Information, able to perceive past, present, and future
+              data about any target across vast distances. They instantly
+              identify weaknesses, vulnerabilities, and optimal exploitation
+              methods, though concealment or equal-level entities can obscure
+              clarity into vague revelations.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5105,6 +7583,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - White Tower",
+        traits: (
+          <>
+            <p>
+              The White Tower is the embodiment of Omniscience within the domain
+              of Knowledge itself. They can freely disseminate weakened versions
+              of their Spells for ordinary beings to use under specific
+              conditions. Their Mythical Creature Form manifests as an illusory
+              tower of infinite books crowned with brass eyes, radiating
+              insanity, calamity, and the weight of absolute knowledge.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5150,6 +7641,22 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Sleepless",
+        traits: (
+          <>
+            <p>
+              Sleepless possess exceptionally high Spirituality, granting strong
+              spiritual perception, sensitivity, and limited Spirit Vision.
+              While their Spirit Vision cannot precisely differentiate bodily
+              states, it allows perception of spiritual phenomena. They can
+              perform basic Divination and Ritualistic Magic, though far less
+              proficiently than Seers. As nocturnal beings, they grow stronger
+              at night, gaining enhanced strength, intuition, mental acuity,
+              danger sensing in darkness, darkvision, and require only 3–4 hours
+              of sleep.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5173,6 +7680,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Midnight Poet",
+        traits: (
+          <>
+            <p>
+              Midnight Poets wield Midnight Poems—mystical effects manifested
+              through poetic recitation tied to night and the Evernight Goddess.
+              These poems can tranquillize, pacify, induce sleep, or evoke fear,
+              with resistance possible through focus or sensory blockage.
+              Repeated exposure erodes defenses. Midnight Poets also possess
+              strong combat training, marksmanship, climbing ability, and
+              heightened spiritual perception.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5198,6 +7719,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Nightmare",
+        traits: (
+          <>
+            <p>
+              Nightmares gain greatly enhanced Spirituality and can resonate
+              their surroundings to recite Midnight Poems without vocalization.
+              They can separate their Soul while sleeping, freely roaming and
+              infiltrating Dreams within a city-wide range. Through Dream
+              Shaping and Dream Invasion, they manipulate dreams, extract
+              secrets, induce fear, or forcibly drag targets into Dream states.
+              They also manifest Nightmare Limbs—tentacle-like extensions formed
+              from flesh and blood for close combat.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5221,6 +7757,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Soul Assurer",
+        traits: (
+          <>
+            <p>
+              Soul Assurers gain improved spiritual control, allowing them to
+              directly perceive spiritual lifeforms and conduct more complex
+              Ritualistic Magic. Their signature ability, Requiem, suppresses
+              Spirit Bodies, emotions, desires, and spiritual abilities,
+              freezing or soothing targets and calming souls, undead, and allies
+              alike. Dream Invasion range increases, and Midnight Poems can be
+              manifested through gestures, including Agitating effects that
+              expose latent psychological and spiritual flaws.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5244,6 +7795,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Spirit Warlock",
+        traits: (
+          <>
+            <p>
+              Spirit Warlocks can Seal and Command natural, evil, and deceased
+              Spirits, storing them within their bodies and summoning them as
+              needed. Their combat strength depends heavily on the Spirits they
+              control, each providing specialized abilities such as terror
+              induction, high-speed earth traversal, or flight. At this level,
+              they can command up to 4–5 Spirits simultaneously, and their Dream
+              Invasion range expands further.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5280,6 +7845,23 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Nightwatcher",
+        traits: (
+          <>
+            <p>
+              Nightwatchers are Demigods who command Darkness itself. They
+              generate a Night Domain that enhances allies, weakens enemies,
+              corrodes vitality, and inflicts Misfortune. They wield Hair
+              Entanglement to immobilize foes with cold, tranquilizing strands,
+              possess advanced Concealment abilities, and can curse enemies with
+              Misfortune. Their Spirit Commanding scales with their teeth count,
+              Requiem becomes a salvational darkness, Dream Invasion expands
+              massively, and Nocturnality strengthens them in any dark
+              environment. They may manifest an incomplete Eight-Legged Demonic
+              Wolf form.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5309,6 +7891,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Horror Bishop",
+        traits: (
+          <>
+            <p>
+              Horror Bishops wield the Sword of Darkness, unleashing surging
+              tides of concealed Darkness that melt submerged targets into
+              oblivion. They can create a city-scale Nightmare World, trapping
+              others while retaining free movement. Their Horror Aura
+              destabilizes body and mind, capable of inducing madness or death
+              merely through presence or Dream contact. Their Midnight Poems are
+              vastly enhanced, capable of pacifying an entire city.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5340,6 +7936,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Servant of Concealment",
+        traits: (
+          <>
+            <p>
+              Servants of Concealment wield true authority over Concealment,
+              erasing targets from perception, sealing areas into Concealed
+              Worlds, and preventing even Angel-level Divination. Secrets under
+              their protection cannot be spoken or observed. They can reverse
+              Concealment, extract Beyonder Characteristics, suppress alarms
+              through Requiem alone, and expand Nightmare Worlds to envelop
+              entire cities. Their Mythical Creature Form is fully realized as a
+              Giant Eight-Legged Demonic Wolf.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5374,6 +7985,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Knight of Misfortune",
+        traits: (
+          <>
+            <p>
+              Knights of Misfortune possess Archangel-level physical prowess and
+              command the authority of Misfortune, capable of inflicting bad
+              luck on individuals or entire nations, triggering disasters and
+              systemic collapse. They wield Darkness authority, allowing
+              resurrection through Darkness at night, mitigation of
+              Darkness-based attacks, enhanced Spirit Commanding, and a Sword of
+              Darkness that induces Eternal Sleep, Despair, and Destruction.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5404,6 +8029,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Darkness",
+        traits: (
+          <>
+            <p>
+              Darkness is the embodiment of Concealment, Dreams, Horror,
+              Misfortune, and the destination of all Spirits. They can erase
+              existence into Concealed Worlds beyond Fate’s sight, induce
+              eternal sleep, dissolve beings into Darkness, resurrect within it,
+              and silence all secrets. Their authority overlaps with Death,
+              Demoness, Red Priest, Wheel of Fortune, and Desire, allowing them
+              to bring catastrophic Misfortune, absolute Tranquillity, and
+              unbearable Horror—standing as the final rest of all things.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5449,6 +8089,20 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Apothecary",
+        traits: (
+          <>
+            <p>
+              Apothecaries gain mild physical enhancement and notable resistance
+              to poisons and toxins, alongside increased Spirituality. Their
+              Spirit Vision reveals a person’s overall health and condition.
+              They excel at creating Medicinal Concoctions using herbs and
+              animal components to treat injuries and illnesses, though they
+              cannot cure terminal diseases—only alleviate symptoms or slow
+              progression—and are skilled at taming and cultivating plants.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5472,6 +8126,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Beast Tamer",
+        traits: (
+          <>
+            <p>
+              Beast Tamers gain major physical enhancements, allowing them to
+              confront wild beasts directly. Through Animal Senses, they can
+              read thoughts, share senses, communicate with, intimidate, and
+              control animals, gradually taming them into loyal assistants.
+              Their Taming extends to supernatural and Beyonder creatures, and
+              they can help animals survive Beyonder potions to become
+              extraordinary creatures themselves.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5495,6 +8163,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Vampire",
+        traits: (
+          <>
+            <p>
+              Vampires become a distinct species sustained by blood rich in
+              Spirituality, gaining extreme speed, agility, charisma, rapid
+              regeneration, and a lifespan of roughly three centuries. They
+              wield Darkness, Shadow, and Moon abilities such as illusory bat
+              wings, corrosive claws, Abyss Shackles, and the ability to convert
+              others through Blood Servant Conversion or The Embrace. However,
+              they suffer weakness to purification, lightning, sunlight
+              discomfort, and possess a fatal vulnerability in the heart.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5519,6 +8202,22 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Potions Professor",
+        traits: (
+          <>
+            <p>
+              Potions Professors gain further physical refinement, enhanced
+              lifespan, heightened hearing capable of detecting lies through
+              heartbeats, and superior scent perception that reveals hidden
+              entities. They gain innate knowledge to discern spiritual
+              materials, allowing treatment of terminal illnesses. Masters of
+              Potion and Perfume Crafting, they prepare powerful yet temporary
+              concoctions whose effectiveness depends on knowledge, preparation,
+              and material quality, while carefully managing incompatibilities
+              between mixtures.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5546,6 +8245,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Scarlet Scholar",
+        traits: (
+          <>
+            <p>
+              Scarlet Scholars possess terrifying speed and regeneration and
+              command Moon-centered abilities shaped by their research. They
+              manipulate Full Moon environments to favor or suppress
+              Spirituality, Death, and perception, transform into
+              near-indestructible Moonlight capable of reconstruction unless the
+              heart is destroyed, and teleport between Moonlit areas. Their
+              Moon, Darkness, and potion abilities strengthen significantly, and
+              they gain resistance to nightmare influences.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5585,6 +8299,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Shaman King",
+        traits: (
+          <>
+            <p>
+              Shaman Kings are long-lived Demigods with immense speed,
+              regeneration, and spellcasting dominance, though their heart and
+              an internal Crimson Moon remain weaknesses. Through direct
+              Spirituality Manipulation, they perform Ritualistic Magic
+              instantly, command Substitution Spells such as Moon Paper
+              Figurines and Gaze of Darkness, transform into bat swarms, and
+              wield overwhelming Moon and Darkness spells. They may manifest an
+              incomplete Mythical Creature Form at severe cost.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5618,6 +8347,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - High Summoner",
+        traits: (
+          <>
+            <p>
+              High Summoners wield partial Summoning authority, opening Doors of
+              Summoning to contract Spirit World entities for limited service
+              while risking rebellion or mutation. They can summon beings equal
+              to or exceeding their own level, occasionally triggering cosmic
+              anomalies beyond the standard Pathways. Their Moon and Darkness
+              magic is exceptional, they can isolate areas with Bat Wing
+              Isolation, and they can respond to prayers within range.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5659,6 +8402,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Life-Giver",
+        traits: (
+          <>
+            <p>
+              Life-Givers master the Power of Creation, granting supreme
+              regenerative abilities capable of restoring the body from a single
+              drop of blood, manipulating lifespan, purifying Filth, and
+              reshaping Life itself. They exert partial authority over
+              Spirituality, replenishing or destabilizing it at will, create
+              large-scale ecological rebirth, summon multiple Spirit World
+              beings simultaneously under Moonlight, manifest colossal bat
+              wings, and invoke a Crimson Moon wherever they stand.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5694,6 +8452,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Beauty Goddess",
+        traits: (
+          <>
+            <p>
+              The Beauty Goddess embodies divine, transcendent Beauty that
+              overwhelms minds, bends will, and inspires reverence even among
+              Great Old Ones. Eternal unless slain, They command Life, Moon,
+              Summoning, and all living creatures through irresistible
+              attraction, while Darkness and Bizarreness only heighten Their
+              danger. Any male advancing to this Sequence undergoes irreversible
+              feminization, inheriting divine reproductive and aesthetic
+              symbolism.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5733,6 +8506,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Moon",
+        traits: (
+          <>
+            <p>
+              The Moon is the primordial symbol of Motherhood, Fertility,
+              Spirituality, Beauty, Summoning, and partial Life, Darkness, and
+              Bizarreness. She governs Blood, Yin Energy, and lunar
+              phases—invoking Blood, Crimson, Full, Silver, and Waning Moons to
+              reshape reality, spirituality, and the Spirit World. As the source
+              of Spirituality and life-alteration, She can create, heal,
+              corrupt, summon cosmic horrors, command all living beings, and
+              embody eternal lunar existence.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5797,6 +8585,19 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Bard",
+        traits: (
+          <>
+            <p>
+              Bards gain mild physical enhancement and awaken the power of
+              Singing, allowing them to bolster allies with courage, dispel
+              Fear, enhance strength, agility, speed, and provide limited
+              spiritual recovery. Their Singing inspires devotion and obedience,
+              especially among followers of the Eternal Blazing Sun, though its
+              effects remain purely supportive.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5823,6 +8624,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Light Suppliant",
+        traits: (
+          <>
+            <p>
+              Light Suppliants wield basic Sun Domain Spells centered on Light
+              and Fire, highly effective against undead and evil spirits. They
+              can generate sunlight, bless allies, illuminate areas, and see
+              through darkness. With foundational Ritualistic Magic knowledge of
+              the Sun Domain, they can create Holy Water and summon Fiery Light,
+              while also sensing nearby undead and evil entities.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5850,6 +8664,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Solar High Priest",
+        traits: (
+          <>
+            <p>
+              Solar High Priests gain significant physical resilience and
+              mastery of Sun Domain theurgy, granting powerful purification and
+              exorcism abilities. They can generate Sun Halos, Holy Water, holy
+              light beams, purification-infused attacks, fear immunity, and
+              dense holy flames. Their purification excels against evil
+              influences, with slightly reduced effectiveness against undead due
+              to conceptual differences.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5873,6 +8701,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Notary",
+        traits: (
+          <>
+            <p>
+              Notaries gain immense physical enhancement while specializing in
+              support through Notarization, a divine authority that can
+              Authenticate contracts, Amplify Beyonder powers, or Nullify
+              abilities outright. Their Contracts are binding even to Demigods,
+              enforced through golden flames, and their authority can affect
+              nearly all forms of powers, traits, and commands.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5896,6 +8737,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Priest of Light",
+        traits: (
+          <>
+            <p>
+              Priests of Light master advanced Sun Domain Spells, becoming
+              nemeses of undead and filth. Their Holy Light Summoning evolves
+              into Light of Holiness, vaporizing enemies in blazing pillars of
+              sunlight, while Sun Halo becomes a controllable Purification Halo
+              that strengthens allies, drives away evil, and bathes the
+              battlefield in sacred warmth.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5925,6 +8779,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Unshadowed",
+        traits: (
+          <>
+            <p>
+              Unshadowed Demigods wield Purification as an intrinsic authority,
+              capable of cleansing corruption, degeneration, madness, darkness,
+              parasites, and even Beyonder Characteristics themselves. They
+              manifest Unshadowed Domains that erase concealment and weaken
+              corruptive powers, summon devastating solar attacks, wield holy
+              equipment, and may assume an incomplete Sunbird Mythical Creature
+              Form.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5956,6 +8824,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Justice Mentor",
+        traits: (
+          <>
+            <p>
+              Justice Mentors establish a personal yet absolute standard of
+              Justice that defines their Order, empowering all actions aligned
+              with it while suppressing violations within a vast Justice Halo.
+              They wield Holy Contracts binding even Angels, enhance
+              purification domains, distribute holy equipment to allies, and
+              risk severe backlash if they betray their own Justice.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -5987,6 +8868,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Lightseeker",
+        traits: (
+          <>
+            <p>
+              Lightseekers obtain partial authority over the Sun and Light,
+              allowing transformation into pure light or a miniature Sun, flight
+              at light speed, extreme purification, and resistance to
+              corruption, death, and decay. Anchored to the Sun itself, they
+              unleash devastating justice-based judgments and refined solar
+              weapons capable of spatial suppression.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6017,6 +8911,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - White Angel",
+        traits: (
+          <>
+            <p>
+              White Angels hold partial authority over Holiness, Order, and
+              Faith, drawing power from maintained Order and belief. They can
+              establish massive Holy Kingdoms where darkness and undead cannot
+              exist, inspire religious fervor granting damage resistance,
+              convert faith through holiness, and unleash Pure White Light that
+              destroys all impure existence.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6052,6 +8959,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Sun",
+        traits: (
+          <>
+            <p>
+              The Sun is the embodiment of Inextinguishable Light, wielding
+              supreme authority over Light, Order, Holiness, Faith, Contracts,
+              and the Sun itself. Existing wherever light shines, they can
+              create eternal daytime, manifest suns capable of illuminating or
+              destroying worlds, purify all corruption and death, enforce
+              absolute contracts upon even Great Old Ones, and revive through
+              their undying symbolism.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6097,6 +9018,18 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Arbiter",
+        traits: (
+          <>
+            <p>
+              Arbiters possess a greatly enhanced physique, with heightened
+              reflexes, senses, strength, and speed. They also carry an innate
+              Authority that makes their words more convincing and difficult to
+              oppose, subconsciously eroding an enemy’s confidence and
+              instilling hesitation or surrender during confrontation.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6113,6 +9046,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Sheriff",
+        traits: (
+          <>
+            <p>
+              Sheriffs are mystically bound to their Area of Jurisdiction,
+              gaining stronger effectiveness the more familiar they are with
+              their territory, though this advantage fades outside it. They gain
+              extraordinary Recognition, allowing flawless identification and
+              memory of individuals, along with Supernatural Intuition that
+              detects concealed abnormalities, evil, chaos, spirits, madness,
+              and lingering traces, making them exceptional trackers and
+              investigators.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6131,6 +9079,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Interrogator",
+        traits: (
+          <>
+            <p>
+              Interrogators gain improved focus, physical conditioning, and
+              powerful coercive abilities. They can assault the Spirit Body with
+              Psychic Piercing and Psychic Lashing, manifest Brands of Restraint
+              to suppress enemies, and unleash the Whip of Pain to overwhelm a
+              target’s will through soul-deep agony. Combined with strong combat
+              proficiency, they excel at subduing and extracting information
+              from resistant foes.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6149,6 +9111,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Judge",
+        traits: (
+          <>
+            <p>
+              Judges wield Verdicts through authoritative speech, issuing
+              commands such as Exile, Confinement, Imprisonment, Death, Flog,
+              and Prohibition to forcibly impose rules upon reality. Their
+              Authority undergoes a qualitative transformation, radiating an
+              oppressive presence, while their Area of Jurisdiction expands
+              massively—potentially encompassing an entire metropolis—allowing
+              them to dominate and regulate vast regions.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6165,6 +9141,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Disciplinary Paladin",
+        traits: (
+          <>
+            <p>
+              Disciplinary Paladins gain significant physical and spiritual
+              reinforcement, granting exceptional resistance to mental intrusion
+              and interrogation. Through Punishment, they can enforce
+              consequences on those who violate Prohibitions, inflicting
+              restraints, divine flames, power suppression, immobilization, or
+              overwhelming pursuit. Their Authority becomes terrifying,
+              compelling obedience and inducing fear that drives targets to
+              kneel and submit.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6184,6 +9175,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Imperative Mage",
+        traits: (
+          <>
+            <p>
+              Imperative Mages command the Power of Laws, allowing them to
+              Deprive targets of Beyonder powers temporarily, impose
+              Restrictions that completely prevent actions, and issue absolute
+              Verdicts that reshape supernatural behavior. They can teleport by
+              erasing distance through Law, form Contracts fused with reality
+              itself, and perceive Beyonders’ intertwined powers, enabling
+              precise suppression. Their incomplete Mythical Creature Form
+              manifests as a towering brass pillar.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6203,6 +9209,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Chaos Hunter",
+        traits: (
+          <>
+            <p>
+              Chaos Hunters possess vastly strengthened Deprivation and Verdict
+              abilities, allowing them to suppress multiple Beyonder powers
+              simultaneously and distort reality through absolute rulings. They
+              can weaken Truth, amplify Illusion, and unleash devastating Exile
+              effects that manifest as overwhelming, localized disasters. At
+              this level, they are capable of responding to prayers within a
+              limited range.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6222,6 +9242,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Balancer",
+        traits: (
+          <>
+            <p>
+              Balancers wield the authority of Balance, instantly suppressing
+              Chaos, restoring Order, and enforcing equilibrium across
+              battlefields or regions. They can divide chaotic conflicts into
+              perfectly balanced domains and detect concealed entities through
+              disturbances in Order. Their complete Mythical Creature Form
+              manifests as a colossal brass pillar embodying absolute
+              equilibrium.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6241,6 +9275,18 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Hand of Order",
+        traits: (
+          <>
+            <p>
+              The Hand of Order observes and calculates the shifting dynamics
+              between Disorder, Balance, and Order, determining the optimal
+              rules and structures required to dominate battlefields and
+              systems. Through this authority, they precisely shape how Order
+              should be imposed to achieve maximum stability and control.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6260,6 +9306,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Justiciar",
+        traits: (
+          <>
+            <p>
+              The Justiciar embodies the authority of Law itself, capable of
+              creating, modifying, and enforcing fundamental Laws that govern
+              reality. These Laws must be publicly declared, grow harsher with
+              repeated violations, and bind even the Justiciar until revoked.
+              Through Law, they can redefine logic, rewrite systemic rules, and
+              impose absolute order upon the world.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6300,6 +9359,19 @@ export const Data = [
     sequences: [
       {
         seqTitle: "Sequence 9 - Planter",
+        traits: (
+          <>
+            <p>
+              Planters gain notable physical enhancements, particularly
+              increased strength, alongside strong Farming Proficiency that
+              allows precise identification, nurturing, and use of seeds and
+              agricultural tools. They can also forecast weather by observing
+              natural signs such as wind, clouds, and environmental changes,
+              granting them an intuitive connection to land and growth.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6323,6 +9395,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 8 - Doctor",
+        traits: (
+          <>
+            <p>
+              Doctors gain enhanced Spirituality and Spirit Vision, enabling
+              precise diagnosis of physical and hidden illnesses even without
+              direct mystical perception. Their core ability is Healing,
+              encompassing advanced Treatments, Surgical Mastery, Soul Suture,
+              and vitality restoration. They can treat physical trauma,
+              diseases, corruption, and curses, perform soul-level surgery,
+              remove emotional or spiritual abnormalities, and gradually restore
+              a person’s strength and life force.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6346,6 +9433,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 7 - Harvest Priest",
+        traits: (
+          <>
+            <p>
+              Harvest Priests become conduits of fertility and growth, gaining
+              mild physical enhancements and the ability to Catalyse plant life
+              through Seed Catalysation, accelerating growth, reproduction, or
+              forced maturation. They can command unintelligent plants and
+              insects within range, manipulate plant vitality for combat,
+              influence weather through Ritualistic Spells, and extend their
+              Healing abilities to organisms, crops, and land itself.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6372,6 +9473,19 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 6 - Biologist",
+        traits: (
+          <>
+            <p>
+              Biologists acquire deep knowledge of living organisms and gain the
+              ability to Cross-breed animals, plants, objects, and Beyonder
+              materials to create entirely new species, though creations lack
+              Souls at this stage. They can engineer organisms with specialized
+              functions and generate highly potent biological toxins within
+              their own bodies, releasing them through hair or other means.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6395,6 +9509,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 5 - Druid",
+        traits: (
+          <>
+            <p>
+              Druids become favored agents of Nature, able to draw nutrients
+              from soil and air while wielding powerful Earth-domain Spells such
+              as Underground Travel, Swamp, Wrath of Nature, Child of the Oak,
+              and Golem Creation. They can transform into giant bears for
+              combat, strengthen Cross-breeding, unleash mutated vines through
+              Seed Catalysation, and emit deadly toxins via combusting hair
+              infused with poison.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6427,6 +9555,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 4 - Ancient Alchemist",
+        traits: (
+          <>
+            <p>
+              Ancient Alchemists gain Demigod-level Mutation authority, causing
+              all attacks to induce madness, bodily mutations, and abnormal
+              growths. They master Artificial Life Creation, producing golems
+              and long-lived humans, enhance Creature Commanding to control
+              low-intelligence Beyonder creatures, radiate Life Aura to
+              accelerate growth of all life, and achieve near-instant Healing.
+              Their Cross-breeds now possess Souls, and they can temporarily
+              transform into supernatural creatures with sufficient knowledge.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6456,6 +9599,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 3 - Pallbearer",
+        traits: (
+          <>
+            <p>
+              Pallbearers embody the cycle of Death and Return, wielding Earth-
+              and Death-domain powers that force life to return to the land.
+              They can transform the dead into Evil Spirits across vast ranges,
+              drain life through Death Trials, cause Death to descend without
+              contact, instantly dissolve undead beings, seal Undead Angels
+              through Maternal Embrace, and create multiple Demigod-level
+              golems. They can also respond to prayers.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6488,6 +9645,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 2 - Desolate Matriarch",
+        traits: (
+          <>
+            <p>
+              Desolate Matriarchs wield Angel-level authority over Earth,
+              Desolation, Harvest, and Life, capable of making vast regions
+              flourish or become irreversibly barren. They induce mass life
+              drain, spread toxins, increase loss-of-control risk, tame animals,
+              grow extraordinary plants, mass-produce Evil Spirits, create
+              powerful living constructs, briefly transform into Mythical
+              Creatures, and impose both Death and Madness Trials with each
+              strike.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6520,6 +9692,20 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 1 - Naturewalker",
+        traits: (
+          <>
+            <p>
+              Naturewalkers hold partial authority over Nature and Mother,
+              becoming true Children of Nature capable of reshaping
+              environments, inhabiting even the Abyss. They can merge with
+              natural elements to traverse and draw power from them, command all
+              phenomena associated with Nature’s broad concepts, and nurture
+              entire Nature-based realms similar to alternate dimensions, though
+              less stable than higher divine domains.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>
@@ -6549,6 +9735,21 @@ export const Data = [
       },
       {
         seqTitle: "Sequence 0 - Mother",
+        traits: (
+          <>
+            <p>
+              The Mother is the embodiment of Origin, Life, Death, Earth,
+              Nature, and Return, giving birth to beings, concepts, and worlds
+              themselves. She commands uncontrollable growth, mutation,
+              regeneration, desolation, and symbolic return to origin, drains
+              even True Deities of vitality, catalyzes Uniqueness into life,
+              reshapes planets, and maintains an ever-rebirthing Divine Kingdom
+              of Bountiful Earth, embodying the eternal but incomplete Cycle of
+              Reality.
+            </p>
+          </>
+        ),
+
         description: (
           <>
             <strong>Potion Formula</strong>

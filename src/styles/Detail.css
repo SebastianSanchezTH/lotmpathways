@@ -73,12 +73,20 @@
 
 /* Carta izquierda */
 .detail-card img {
-  width: 335px;
+  width: auto;
+  height: 580px;
   border-radius: 12px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.335);
 }
 
-.detail-card h2 {
+/* Texto derecha */
+.detail-text {
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+}
+
+.section h2 {
   text-align: center;
   font-size: 1em;
 }
@@ -92,8 +100,8 @@
 }
 
 .neighbor-icon {
-  max-width: 50px;
-  height: 50px;
+  max-width: 60px;
+  height: auto;
   cursor: pointer;
   transition:
     transform 0.2s ease,
@@ -114,13 +122,6 @@
   margin-top: 1rem;
 }
 
-/* Texto derecha */
-.detail-text {
-  max-width: 500px;
-  display: flex;
-  flex-direction: column;
-}
-
 .embla {
   overflow: hidden;
   border-radius: 12px;
@@ -134,7 +135,7 @@
 }
 
 .embla__slides {
-  height: 550px; /* alto de cada slide */
+  height: 560px; /* alto de cada slide */
   flex: 0 0 90%; /* cada slide ocupa el 100% del contenedor */
   background-color: rgba(0, 0, 0, 0.177);
   padding: 10px;
@@ -147,11 +148,17 @@
 
 .embla__slides h2 {
   text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.embla__slides .traits,
+.embla__slides .description {
+  padding-left: 20px;
+  padding-right: 20px;
   margin-bottom: 10px;
 }
 
-.embla__slides .description {
-  padding-left: 30px;
-  padding-right: 30px;
-  margin-bottom: 10px;
+.embla__slides .traits {
+  text-align: center;
 }
