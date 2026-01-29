@@ -1,4 +1,4 @@
-# LOTM Pathways
+# The Blasphemy Project
 
 ## Overview
 
