@@ -84,6 +84,13 @@
   max-width: 500px;
   display: flex;
   flex-direction: column;
+  margin-top: 0px;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .section h2 {
@@ -100,7 +107,7 @@
 }
 
 .neighbor-icon {
-  max-width: 60px;
+  max-width: 50px;
   height: auto;
   cursor: pointer;
   transition:
@@ -110,6 +117,30 @@
 }
 
 .neighbor-icon:hover {
+  transform: scale(1.15);
+  filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.169));
+  z-index: 10;
+}
+
+/* Neighbor icons */
+.detail-sefirot {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.sefirot-icon img {
+  max-width: 50px;
+  height: auto;
+  cursor: pointer;
+  transition:
+    transform 0.2s ease,
+    filter 0.2s ease;
+  z-index: 10;
+}
+
+.sefirot-icon:hover {
   transform: scale(1.15);
   filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.169));
   z-index: 10;
@@ -148,7 +179,7 @@
 
 .embla__slides h2 {
   text-align: center;
-  margin-top: 5px;
+  margin-top: 10px;
   margin-bottom: 5px;
 }
 
@@ -156,7 +187,6 @@
 .embla__slides .description {
   padding-left: 20px;
   padding-right: 20px;
-  margin-bottom: 10px;
 }
 
 .embla__slides .traits {

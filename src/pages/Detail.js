@@ -5,6 +5,7 @@ import { Data } from "../components/Data";
 import BackButton from "../components/BackButton";
 import ArrowNavigation from "../components/ArrowNavigation";
 import ScrollableContainer from "../components/ScrollableContainer";
+import NeighborIcons from "../components/NeighborIcons";
 
 import "../styles/Detail.css";
 import "../styles/ArrowNavigation.css";
@@ -16,6 +17,7 @@ export default function Detail() {
   const [emblaRef] = useEmblaCarousel({ loop: true });
   const navigate = useNavigate();
   const [hoveredNeighbor, setHoveredNeighbor] = useState(null);
+  const [hoveredSefirot, setHoveredSefirot] = useState(null);
   const currentId = parseInt(id);
 
   const location = useLocation();
@@ -52,6 +54,7 @@ export default function Detail() {
             <img src={data.card} alt="Card" />
           </div>
         </div>
+
         <div className="detail-text">
           <div className="embla" ref={emblaRef}>
             <div className="embla__container">
@@ -65,37 +68,32 @@ export default function Detail() {
                       <div className="traits">{seq.traits}</div>
                       {/* Titulo de Secuencias intercambiables*/}
                       <h2>Neighboring Pathways</h2>
-                      {Array.isArray(data.neighbors) &&
-                      data.neighbors.length > 0 ? (
-                        <div className="detail-neighbors">
-                          {/* Detalles de Secuencias intercambiables */}
-                          {data.neighbors.map((neighbor) => (
+
+                      <NeighborIcons
+                        neighbors={data.neighbors}
+                        fromIndex={fromIndex}
+                      />
+
+                      {/* Icono del sefirot */}
+                      <h2>Related Sefirot</h2>
+                      <div className="detail-sefirot">
+                        {data.sefirot ? (
+                          <div className="sefirot-icon">
                             <img
-                              key={neighbor.id}
-                              src={
-                                hoveredNeighbor === neighbor.id
-                                  ? neighbor.iconColor
-                                  : neighbor.iconOff
-                              }
-                              alt={`Neighbor ${neighbor.id}`}
-                              className="neighbor-icon"
-                              //Hover de cambio de color
-                              onMouseEnter={() =>
-                                setHoveredNeighbor(neighbor.id)
-                              }
-                              onMouseLeave={() => setHoveredNeighbor(null)}
-                              //Cambio de ruta
+                              src={data.sefirot.image}
+                              alt={`Sefirot ${data.sefirot.id}`}
+                              className="sefirot-icon"
                               onClick={() =>
-                                navigate(`/detail/${neighbor.id}`, {
+                                navigate(`/sefirot/${data.sefirot.id}`, {
                                   state: { fromIndex },
                                 })
                               }
                             />
-                          ))}
-                        </div>
-                      ) : (
-                        <p className="no-neighbors">None</p>
-                      )}
+                          </div>
+                        ) : (
+                          <p className="no-neighbors">None</p>
+                        )}
+                      </div>
                     </div>
                     {/* Descripcion de la pocion */}
                     <div className="section">

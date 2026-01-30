@@ -1,8 +1,10 @@
+import { sefirot } from "./DataSefirots";
 export const Data = [
   // Fool
   {
     title: "Fool Pathway",
     logoColor: require("../assets/iconColor/0_Color.png"),
+    logoOff: require("../assets/iconOff/0_Off.png"),
     card: require("../assets/cards/0_Card.webp"),
     overlayColor: "rgba(26, 6, 37, 0.53)",
     neighbors: [
@@ -17,6 +19,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/6_Color.png"),
       },
     ],
+    sefirot: {
+      id: sefirot[0].id,
+      image: sefirot[0].image,
+    },
 
     sequences: [
       {
@@ -401,6 +407,7 @@ export const Data = [
   {
     title: "Door Pathway",
     logoColor: require("../assets/iconColor/1_Color.png"),
+    logoOff: require("../assets/iconOff/1_Off.png"),
     overlayColor: "rgba(6, 27, 37, 0.53)",
     neighbors: [
       {
@@ -414,6 +421,11 @@ export const Data = [
         iconColor: require("../assets/iconColor/6_Color.png"),
       },
     ],
+    sefirot: {
+      id: sefirot[0].id,
+      image: sefirot[0].image,
+    },
+
     card: require("../assets/cards/1_Card.webp"),
     sequences: [
       {
@@ -852,6 +864,7 @@ export const Data = [
   {
     title: "Paragon Pathway",
     logoColor: require("../assets/iconColor/2_Color.png"),
+    logoOff: require("../assets/iconOff/2_Off.png"),
     card: require("../assets/cards/2_Card.webp"),
     overlayColor: "rgba(54, 34, 8, 0.53)",
     neighbors: [
@@ -861,6 +874,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/9_Color.png"),
       },
     ],
+    sefirot: {
+      id: sefirot[4].id,
+      image: sefirot[4].image,
+    },
 
     sequences: [
       {
@@ -1324,6 +1341,7 @@ export const Data = [
   {
     title: "Demoness Pathway",
     logoColor: require("../assets/iconColor/3_Color.png"),
+    logoOff: require("../assets/iconOff/3_Off.png"),
     card: require("../assets/cards/3_Card.webp"),
     overlayColor: "rgba(44, 7, 34, 0.53)",
     neighbors: [
@@ -1333,23 +1351,26 @@ export const Data = [
         iconColor: require("../assets/iconColor/7_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[3].id,
+      image: sefirot[3].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Assassin",
         traits: (
           <>
             <p>
-              Assassins undergo comprehensive physical refinement that makes
-              their bodies ideal for killing, stealth, and evasion. Their
-              physique becomes lighter and more efficient, granting exceptional
-              speed, agility, balance, and footwork, along with heightened
-              senses such as night vision and sharpened hearing. They can
-              briefly alter bodily functions to perform feats like feather-light
-              descent or unleashing all their strength in a single devastating
-              blow. They also gain the ability to conceal themselves within
-              shadows, allowing near-perfect ambushes as long as they do not
-              move too quickly.
+              Assassins undergo intense physical and sensory refinement,
+              transforming their bodies into highly efficient instruments for
+              killing, stealth, and evasion; they gain exceptional speed,
+              agility, balance, and footwork, along with heightened senses like
+              night vision and acute hearing, and can temporarily manipulate
+              bodily functions to perform extraordinary feats such as
+              feather-light descents or delivering devastating, concentrated
+              strikes, while also acquiring the ability to blend seamlessly into
+              shadows for nearly perfect ambushes as long as their movements
+              remain controlled.
             </p>
           </>
         ),
@@ -1787,6 +1808,7 @@ export const Data = [
   {
     title: "Black Emperor Pathway",
     logoColor: require("../assets/iconColor/4_Color.png"),
+    logoOff: require("../assets/iconOff/4_Off.png"),
     card: require("../assets/cards/4_Card.webp"),
     overlayColor: "rgba(6, 7, 37, 0.53)",
     neighbors: [
@@ -1796,6 +1818,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/20_Color.png"),
       },
     ],
+    sefirot: {
+      id: sefirot[8].id,
+      image: sefirot[8].image,
+    },
 
     sequences: [
       {
@@ -2182,6 +2208,7 @@ export const Data = [
   {
     title: "Tyrant Pathway",
     logoColor: require("../assets/iconColor/5_Color.png"),
+    logoOff: require("../assets/iconOff/5_Off.png"),
     card: require("../assets/cards/5_Card.webp"),
     overlayColor: "rgba(18, 40, 67, 0.53)",
     neighbors: [
@@ -2206,7 +2233,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/19_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[1].id,
+      image: sefirot[1].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Sailor",
@@ -2649,6 +2679,7 @@ export const Data = [
   {
     title: "Error Pathway",
     logoColor: require("../assets/iconColor/6_Color.png"),
+    logoOff: require("../assets/iconOff/6_Off.png"),
     card: require("../assets/cards/6_Card.webp"),
     overlayColor: "rgba(18, 53, 53, 0.53)",
     neighbors: [
@@ -2663,6 +2694,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/1_Color.png"),
       },
     ],
+    sefirot: {
+      id: sefirot[0].id,
+      image: sefirot[0].image,
+    },
 
     sequences: [
       {
@@ -3092,6 +3127,7 @@ export const Data = [
   {
     title: "Red Priest Pathway",
     logoColor: require("../assets/iconColor/7_Color.png"),
+    logoOff: require("../assets/iconOff/7_Off.png"),
     card: require("../assets/cards/7_Card.webp"),
     overlayColor: "rgba(51, 13, 9, 0.64)",
     neighbors: [
@@ -3101,7 +3137,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/3_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[3].id,
+      image: sefirot[3].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Hunter",
@@ -3541,6 +3580,7 @@ export const Data = [
   {
     title: "Twilight Giant Phatway",
     logoColor: require("../assets/iconColor/8_Color.png"),
+    logoOff: require("../assets/iconOff/8_Off.png"),
     overlayColor: "rgba(43, 18, 4, 0.6)",
     neighbors: [
       {
@@ -3555,6 +3595,10 @@ export const Data = [
       },
     ],
     card: require("../assets/cards/11_Card.webp"),
+    sefirot: {
+      id: sefirot[2].id,
+      image: sefirot[2].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Warrior",
@@ -4048,6 +4092,7 @@ export const Data = [
   {
     title: "Hermit Pathway",
     logoColor: require("../assets/iconColor/9_Color.png"),
+    logoOff: require("../assets/iconOff/9_Off.png"),
     card: require("../assets/cards/9_Card.webp"),
     overlayColor: "rgba(16, 8, 54, 0.53)",
     neighbors: [
@@ -4057,24 +4102,24 @@ export const Data = [
         iconColor: require("../assets/iconColor/2_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[4].id,
+      image: sefirot[4].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Mystery Pryer",
         traits: (
           <>
             <p>
-              Mystery Pryers gain enhanced spirituality and a foundational but
-              wide-ranging grasp of mysticism, including ritual magic,
-              divination, witchcraft, and enchantment. They can summon and
-              contract Spirit World entities, use multiple divination methods,
-              and perceive spiritual auras, health, and emotions through Spirit
-              Vision. Their Eyes of Mystery Prying allow them to see hidden
-              truths, astral structures, and supernatural phenomena
-              instinctively, though this constant perception exposes them
-              heavily to corruption. They can also perform quick rituals and are
-              occasionally overwhelmed by invasive knowledge, which can be both
-              dangerous and beneficial.
+              Mystery Pryers gain heightened spirituality and broad mystical
+              knowledge, mastering ritual magic, divination, witchcraft, and
+              enchantment. They can summon Spirit World entities, perceive
+              auras, health, and emotions through Spirit Vision, and
+              instinctively see hidden truths and supernatural phenomena with
+              their Eyes of Mystery Prying. Constant perception exposes them to
+              corruption, and while they can perform quick rituals, invasive
+              knowledge can overwhelm them, offering both danger and advantage.
             </p>
           </>
         ),
@@ -4489,10 +4534,14 @@ export const Data = [
   {
     title: "Wheel of Fortune Pathway",
     logoColor: require("../assets/iconColor/10_Color.png"),
+    logoOff: require("../assets/iconOff/10_Off.png"),
     card: require("../assets/cards/10_Card.webp"),
     overlayColor: "rgba(27, 52, 47, 0.53)",
     neighbors: [],
-
+    sefirot: {
+      id: sefirot[5].id,
+      image: sefirot[5].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Monster",
@@ -4949,8 +4998,10 @@ export const Data = [
   {
     title: "Visionary Pathway",
     logoColor: require("../assets/iconColor/11_Color.png"),
+    logoOff: require("../assets/iconOff/11_Off.png"),
     card: require("../assets/cards/8_Card.webp"),
     overlayColor: "rgba(22, 54, 56, 0.53)",
+
     neighbors: [
       {
         id: 5,
@@ -4973,7 +5024,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/19_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[1].id,
+      image: sefirot[1].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Spectator",
@@ -5440,6 +5494,7 @@ export const Data = [
   {
     title: "Hanged Man Pathway",
     logoColor: require("../assets/iconColor/12_Color.png"),
+    logoOff: require("../assets/iconOff/12_Off.png"),
     card: require("../assets/cards/12_Card.webp"),
     overlayColor: "rgba(29, 6, 6, 0.53)",
     neighbors: [
@@ -5464,7 +5519,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/19_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[1].id,
+      image: sefirot[1].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Secrets Suppliant",
@@ -5900,6 +5958,7 @@ export const Data = [
   {
     title: "Death Pathway",
     logoColor: require("../assets/iconColor/13_Color.png"),
+    logoOff: require("../assets/iconOff/13_Off.png"),
     card: require("../assets/cards/13_Card.webp"),
     overlayColor: "rgba(14, 21, 11, 0.53)",
     neighbors: [
@@ -5914,7 +5973,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/17_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[2].id,
+      image: sefirot[2].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Corpse Collector",
@@ -5998,17 +6060,14 @@ export const Data = [
         traits: (
           <>
             <p>
-              Spirit Mediums experience a massive surge in Spirituality and
-              Spiritual Perception, allowing them to sense hidden Spirits even
-              with closed eyes and wield greatly enhanced Spirit Vision. Their
-              core ability, Spirit Channelling, enables direct communication and
-              command over natural Spirits, ghosts, and recently deceased souls,
-              producing diverse supernatural effects through controlled
-              manifestations. Regarded as kin by Spirits, they gain vast
-              information networks, ritual knowledge related to Spirits,
-              protective techniques for channelling living Souls, and the
-              ability to disguise themselves as Zombies to resist deathly
-              erosion.
+              Spirit Mediums gain a massive boost in Spirituality and Spirit
+              Perception, allowing them to sense hidden Spirits with closed eyes
+              and wield enhanced Spirit Vision. Through Spirit Channelling, they
+              can communicate with and command natural Spirits, ghosts, and
+              recently deceased souls, producing supernatural effects. Regarded
+              as kin by Spirits, they access vast information networks, ritual
+              knowledge, protective techniques for living Souls, and can
+              disguise themselves as Zombies to resist deathly erosion.
             </p>
           </>
         ),
@@ -6363,6 +6422,7 @@ export const Data = [
   {
     title: "Chained Pathway",
     logoColor: require("../assets/iconColor/14_Color.png"),
+    logoOff: require("../assets/iconOff/14_Off.png"),
     card: require("../assets/cards/14_Card.webp"),
     overlayColor: "rgba(46, 37, 64, 0.53)",
     neighbors: [
@@ -6372,7 +6432,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/15_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[7].id,
+      image: sefirot[7].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Prisoner",
@@ -6810,6 +6873,7 @@ export const Data = [
   {
     title: "Abyss Pathway",
     logoColor: require("../assets/iconColor/15_Color.png"),
+    logoOff: require("../assets/iconOff/15_Off.png"),
     card: require("../assets/cards/15_Card.webp"),
     overlayColor: "rgba(29, 4, 4, 0.53)",
     neighbors: [
@@ -6819,7 +6883,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/14_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[7].id,
+      image: sefirot[7].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Criminal",
@@ -7276,6 +7343,7 @@ export const Data = [
   {
     title: "White Tower Pathway",
     logoColor: require("../assets/iconColor/16_Color.png"),
+    logoOff: require("../assets/iconOff/16_Off.png"),
     card: require("../assets/cards/16_Card.webp"),
     overlayColor: "rgba(15, 21, 70, 0.53)",
     neighbors: [
@@ -7300,7 +7368,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/19_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[1].id,
+      image: sefirot[1].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Reader",
@@ -7623,6 +7694,7 @@ export const Data = [
   {
     title: "Darkness Pathway",
     logoColor: require("../assets/iconColor/17_Color.png"),
+    logoOff: require("../assets/iconOff/17_Off.png"),
     card: require("../assets/cards/17_Card.webp"),
     overlayColor: "rgba(45, 55, 66, 0.53)",
     neighbors: [
@@ -7637,7 +7709,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/13_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[2].id,
+      image: sefirot[2].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Sleepless",
@@ -7848,16 +7923,14 @@ export const Data = [
         traits: (
           <>
             <p>
-              Nightwatchers are Demigods who command Darkness itself. They
-              generate a Night Domain that enhances allies, weakens enemies,
-              corrodes vitality, and inflicts Misfortune. They wield Hair
-              Entanglement to immobilize foes with cold, tranquilizing strands,
-              possess advanced Concealment abilities, and can curse enemies with
-              Misfortune. Their Spirit Commanding scales with their teeth count,
-              Requiem becomes a salvational darkness, Dream Invasion expands
-              massively, and Nocturnality strengthens them in any dark
-              environment. They may manifest an incomplete Eight-Legged Demonic
-              Wolf form.
+              Nightwatchers are Demigods who control Darkness, creating a Night
+              Domain that boosts allies, weakens foes, drains vitality, and
+              spreads Misfortune. They use Hair Entanglement to immobilize
+              enemies, excel in Concealment, and curse foes. Their Spirit
+              Command scales with teeth count, Requiem channels salvational
+              darkness, Dream Invasion expands greatly, and Nocturnality
+              empowers them in darkness; they can also manifest a partial
+              Eight-Legged Demonic Wolf form.
             </p>
           </>
         ),
@@ -8076,6 +8149,7 @@ export const Data = [
   {
     title: "Moon Pathway",
     logoColor: require("../assets/iconColor/18_Color.png"),
+    logoOff: require("../assets/iconOff/18_Off.png"),
     card: require("../assets/cards/18_Card.webp"),
     overlayColor: "rgba(45, 10, 14, 0.53)",
     neighbors: [
@@ -8085,7 +8159,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/21_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[6].id,
+      image: sefirot[6].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Apothecary",
@@ -8557,6 +8634,7 @@ export const Data = [
   {
     title: "Sun Pathway",
     logoColor: require("../assets/iconColor/19_Color.png"),
+    logoOff: require("../assets/iconOff/19_Off.png"),
     card: require("../assets/cards/19_Card.webp"),
     overlayColor: "rgba(42, 32, 7, 0.53)",
     neighbors: [
@@ -8581,7 +8659,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/16_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[1].id,
+      image: sefirot[1].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Bard",
@@ -9005,6 +9086,7 @@ export const Data = [
   {
     title: "Justiciar Pathway",
     logoColor: require("../assets/iconColor/20_Color.png"),
+    logoOff: require("../assets/iconOff/20_Off.png"),
     card: require("../assets/cards/20_Card.webp"),
     overlayColor: "rgba(69, 65, 45, 0.53)",
     neighbors: [
@@ -9014,7 +9096,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/4_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[8].id,
+      image: sefirot[8].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Arbiter",
@@ -9346,6 +9431,7 @@ export const Data = [
   {
     title: "Mother Pathway",
     logoColor: require("../assets/iconColor/21_Color.png"),
+    logoOff: require("../assets/iconOff/21_Off.png"),
     card: require("../assets/cards/21_Card.webp"),
     overlayColor: "rgba(6, 39, 7, 0.53)",
     neighbors: [
@@ -9355,7 +9441,10 @@ export const Data = [
         iconColor: require("../assets/iconColor/18_Color.png"),
       },
     ],
-
+    sefirot: {
+      id: sefirot[6].id,
+      image: sefirot[6].image,
+    },
     sequences: [
       {
         seqTitle: "Sequence 9 - Planter",
